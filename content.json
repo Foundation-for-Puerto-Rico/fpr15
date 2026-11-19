@@ -14,7 +14,8 @@
       "progress": "Avances",
       "next": "Próximos pasos",
       "partners": "Aliados",
-      "footer": "Foundation for Puerto Rico · 15 aniversario · 9 de diciembre de 2026"
+      "footer": "Foundation for Puerto Rico · 15 aniversario · 9 de diciembre de 2026",
+      "contact": "Déjanos tus datos"
     },
     "en": {
       "kicker": "15 years · Foundation for Puerto Rico",
@@ -30,7 +31,8 @@
       "progress": "Progress",
       "next": "Next steps",
       "partners": "Partners",
-      "footer": "Foundation for Puerto Rico · 15th anniversary · December 9, 2026"
+      "footer": "Foundation for Puerto Rico · 15th anniversary · December 9, 2026",
+      "contact": "Stay in touch"
     }
   },
   "initiatives": [
@@ -123,7 +125,8 @@
         "Oficina Regional de Turismo",
         "Oficinas municipales de turismo y cultura",
         "Museo Afro Casa Silvana"
-      ]
+      ],
+      "form_choice": "Ruta Patrimonial del Azúcar · Sugar Heritage Route"
     },
     {
       "id": "humacao-luquillo",
@@ -198,7 +201,8 @@
           "label_en": "National Register of Historic Places properties in Humacao",
           "source": "FPR, 15th anniversary agenda"
         }
-      ]
+      ],
+      "form_choice": "Distritos de Humacao y Luquillo · Humacao and Luquillo Districts"
     },
     {
       "id": "central-roig",
@@ -273,7 +277,8 @@
           "label_en": "year Central Roig closed, after a century of operation",
           "source": "FPR, 15th anniversary agenda"
         }
-      ]
+      ],
+      "form_choice": "Central Roig"
     },
     {
       "id": "baseline",
@@ -330,7 +335,8 @@
       "next_en": [
         "Assess assets in the field by area (Culebra and Vieques; Fajardo and Humacao; Yabucoa and Maunabo), clean the data and build the map layers.",
         "Write the baseline report, planned for the end of 2026."
-      ]
+      ],
+      "form_choice": "Herramienta de línea base · Baseline Tool"
     },
     {
       "id": "ersv",
@@ -444,7 +450,8 @@
           }
         ],
         "source": "FPR, ERSV Overview (Visitor Economy Performance Model)"
-      }
+      },
+      "form_choice": "ERSV"
     },
     {
       "id": "maas",
@@ -535,7 +542,8 @@
       ],
       "next_en": [
         "Design the pilot: the chapter proposes starting with low-cost programs on priority corridors, using a commercial MaaS platform."
-      ]
+      ],
+      "form_choice": "MaaS"
     },
     {
       "id": "cdere",
@@ -629,7 +637,8 @@
       ],
       "next_en": [
         "The bill continues through the legislative process and may change based on amendments and comments from the Legislature."
-      ]
+      ],
+      "form_choice": "CDERE"
     },
     {
       "id": "tourism-academy",
@@ -696,7 +705,8 @@
       ],
       "next_en": [
         "Initial design phase: define credentials and internship agreements with employers before opening the first cohorts."
-      ]
+      ],
+      "form_choice": "Academia de Turismo · Tourism Academy"
     },
     {
       "id": "vepm",
@@ -796,7 +806,8 @@
       "next_en": [
         "Build digital infrastructure that updates the model continuously and serves as a knowledge base for destination planners.",
         "Push for more modern visitor surveys, with spending diaries and a diaspora question, and a Tourism Satellite Account."
-      ]
+      ],
+      "form_choice": "VEPM"
     },
     {
       "id": "voluntariado",
@@ -865,7 +876,8 @@
       "partners": [
         "Universidad de Puerto Rico, Recinto de Río Piedras",
         "Facultad de Administración de Empresas, UPR Río Piedras"
-      ]
+      ],
+      "form_choice": "Voluntariado + Impacta PR · Volunteering + Impacta PR"
     },
     {
       "id": "fellows",
@@ -922,7 +934,8 @@
       ],
       "next_en": [
         "Continue the cohorts and expand the Learning Labs."
-      ]
+      ],
+      "form_choice": "Foundation Fellows Program"
     },
     {
       "id": "pdfa",
@@ -998,7 +1011,8 @@
       "next_en": [
         "Start with a pilot in one to three Eastern Region municipalities that already have agreements with FPR, then scale.",
         "Connect the Grant Scanner with the municipal and community plan indexes in one workflow."
-      ]
+      ],
+      "form_choice": "PDFA"
     },
     {
       "id": "second-brain",
@@ -1068,7 +1082,8 @@
       "next_en": [
         "Define who the users are and what each person may see.",
         "Decide what goes into institutional memory and what stays out, and how it stays current."
-      ]
+      ],
+      "form_choice": "Second Brain"
     },
     {
       "id": "pr-mos",
@@ -1139,7 +1154,12 @@
       "next_en": [
         "Consolidate the research findings and draft a first version of the municipal capacity framework.",
         "Validate the framework with experts, municipalities and institutional actors before moving to diagnostics."
-      ]
+      ],
+      "form_choice": "PR-MOS"
     }
-  ]
+  ],
+  "form": {
+    "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=abqC9nbkaUCCedlFnbvQnY5EPqONBqtFn7nIGVeD5nNUQVRLRzBMSkc2QUc1SldTMEI2UVREOTU4NSQlQCN0PWcu",
+    "question": "r603ef3bf50494104bd03963b50706d93"
+  }
 }
