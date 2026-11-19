@@ -9,6 +9,11 @@
       "more": "Más información",
       "source": "Fuente",
       "back": "Ver otras iniciativas",
+      "challenge": "El reto",
+      "approach": "Qué hacemos",
+      "progress": "Avances",
+      "next": "Próximos pasos",
+      "partners": "Aliados",
       "footer": "Foundation for Puerto Rico · 15 aniversario · 9 de diciembre de 2026"
     },
     "en": {
@@ -20,14 +25,21 @@
       "more": "Learn more",
       "source": "Source",
       "back": "View other initiatives",
+      "challenge": "The challenge",
+      "approach": "What we do",
+      "progress": "Progress",
+      "next": "Next steps",
+      "partners": "Partners",
       "footer": "Foundation for Puerto Rico · 15th anniversary · December 9, 2026"
     }
   },
   "initiatives": [
     {
       "id": "ruta-azucar",
-      "group_es": "Itinerarios y clústers", "group_en": "Itineraries and clusters",
-      "name_es": "Ruta Patrimonial del Azúcar", "name_en": "Sugar Heritage Route",
+      "group_es": "Itinerarios y clústers",
+      "group_en": "Itineraries and clusters",
+      "name_es": "Ruta Patrimonial del Azúcar",
+      "name_en": "Sugar Heritage Route",
       "tagline_es": "El legado azucarero de la Región Este, convertido en experiencias turísticas que benefician a las comunidades.",
       "tagline_en": "The Eastern Region's sugar legacy, turned into visitor experiences that benefit local communities.",
       "body_es": [
@@ -38,17 +50,87 @@
         "The Sugar Heritage Route links sugar mills, bateyes, museums and local businesses across the Eastern Region into coordinated itineraries. It aims to turn sugar history into tourism products whose benefits stay in local communities.",
         "FPR develops it through the Community Innovation Hub with the Puerto Rico Tourism Company, the Institute of Puerto Rican Culture, the Regional Tourism Office and municipal tourism and culture offices."
       ],
-      "image": { "src": "assets/img/ruta-azucar.jpg", "alt_es": "Casa Museo Jesús T. Piñero, una casa rosada de dos pisos rodeada de jardín, en Canóvanas.", "alt_en": "Jesús T. Piñero House Museum, a two-story pink house surrounded by gardens, in Canóvanas.", "caption_es": "Casa Museo Jesús T. Piñero, Canóvanas.", "caption_en": "Jesús T. Piñero House Museum, Canóvanas." },
+      "image": {
+        "src": "assets/img/ruta-azucar.jpg",
+        "alt_es": "Casa Museo Jesús T. Piñero, una casa rosada de dos pisos rodeada de jardín, en Canóvanas.",
+        "alt_en": "Jesús T. Piñero House Museum, a two-story pink house surrounded by gardens, in Canóvanas.",
+        "caption_es": "Casa Museo Jesús T. Piñero, Canóvanas.",
+        "caption_en": "Jesús T. Piñero House Museum, Canóvanas."
+      },
       "stats": [
-        { "value": "11", "label_es": "municipios recorridos para co-diseñar la ruta", "label_en": "municipalities visited to co-design the route", "source": "FPR, The Sugar Heritage Route" }
+        {
+          "value": "11",
+          "label_es": "municipios recorridos para co-diseñar la ruta",
+          "label_en": "municipalities visited to co-design the route",
+          "source": "FPR, The Sugar Heritage Route"
+        },
+        {
+          "value": "15",
+          "label_es": "municipios con activos azucareros mapeados y georreferenciados",
+          "label_en": "municipalities with sugar heritage assets mapped and geo-located",
+          "source": "FPR, Eastern Region Heritage Sugar Route one-pager"
+        },
+        {
+          "value": "3",
+          "label_es": "itinerarios piloto diseñados (Yabucoa, Vieques y Loíza-Canóvanas-Juncos)",
+          "label_en": "pilot itineraries designed (Yabucoa, Vieques and Loíza-Canóvanas-Juncos)",
+          "source": "FPR, 15th anniversary agenda"
+        }
       ],
       "presenters": "Junoel Rosario",
-      "link": { "url": "https://foundationforpuertorico.org/en/the-sugar-heritage-route-advancing-heritage-led-development-in-puerto-ricos-eastern-region/", "label_es": "La Ruta Patrimonial del Azúcar (en inglés)", "label_en": "The Sugar Heritage Route" }
+      "link": {
+        "url": "https://foundationforpuertorico.org/en/the-sugar-heritage-route-advancing-heritage-led-development-in-puerto-ricos-eastern-region/",
+        "label_es": "La Ruta Patrimonial del Azúcar (en inglés)",
+        "label_en": "The Sugar Heritage Route"
+      },
+      "challenge_es": "La Región Este recibe mucho tránsito hacia El Yunque, Vieques y la costa, pero pocos productos turísticos propios y diferenciados. Los centrales, bateyes, museos y negocios del azúcar están dispersos, sin un itinerario que los conecte, y buena parte del gasto del visitante no llega a los municipios rurales.",
+      "approach_es": [
+        "Recorre los municipios con historiadores, líderes municipales, gestores culturales y empresarios para diseñar la ruta junto con ellos.",
+        "Traza rutas posibles y define narrativas temáticas (siete episodios) para que el relato sea coherente y arraigado en la cultura local.",
+        "Prepara guiones para experiencias interpretativas guiadas y itinerarios de medio día, día completo y fin de semana.",
+        "Cataloga los negocios de hospedaje, comida y entretenimiento cerca de cada sitio para formar grupos de empresas alrededor de la ruta.",
+        "Entregará el marco de la ruta y los materiales de los recorridos a la Compañía de Turismo para que formalice y promueva los destinos."
+      ],
+      "progress_es": [
+        "Marzo de 2026: FPR publica el avance de la ruta tras recorrer 11 municipios, con visitas a las ruinas de los centrales de Canóvanas y Roig, y al Museo Afro Casa Silvana.",
+        "Completada la guía operacional de la ruta, con su identidad, los episodios temáticos, el modelo de gobernanza y un plan de implementación.",
+        "Mapeados y georreferenciados los activos azucareros de los 15 municipios, y diseñados tres itinerarios piloto: Yabucoa (medio día), Vieques (fin de semana) y Loíza, Canóvanas y Juncos."
+      ],
+      "next_es": [
+        "Entregar a la Compañía de Turismo el marco de la ruta y el paquete que necesita para considerar su endoso, previsto para enero de 2027.",
+        "Pasar del diseño a la práctica: mapear los grupos de negocios, probar los itinerarios en campo y preparar la certificación y capacitación de guías y operadores."
+      ],
+      "challenge_en": "The Eastern Region receives heavy traffic headed to El Yunque, Vieques and the coast, but has few distinctive tourism products of its own. Sugar mills, bateyes, museums and businesses are scattered, with no itinerary linking them, and much visitor spending does not reach the rural municipalities.",
+      "approach_en": [
+        "Visits municipalities with historians, municipal leaders, cultural managers and entrepreneurs to design the route together with them.",
+        "Maps possible routes and defines thematic narratives (seven episodes) so the story is consistent and rooted in local culture.",
+        "Prepares scripts for guided interpretive experiences and half-day, full-day and weekend itineraries.",
+        "Catalogs lodging, food and entertainment businesses near each site to build business clusters around the route.",
+        "Will hand the route framework and tour materials to the Puerto Rico Tourism Company so it can formalize and promote the destinations."
+      ],
+      "progress_en": [
+        "March 2026: FPR publishes route progress after visiting 11 municipalities, including the sugar mill ruins of Canóvanas and Roig and the Museo Afro Casa Silvana.",
+        "Operational guide completed, covering route identity, thematic episodes, the governance model and an implementation plan.",
+        "Sugar heritage assets mapped and geo-located across the 15 municipalities, and three pilot itineraries designed: Yabucoa (half day), Vieques (weekend) and Loíza, Canóvanas and Juncos."
+      ],
+      "next_en": [
+        "Deliver to the Tourism Company the route framework and the package it needs to consider endorsing the route, planned for January 2027.",
+        "Move from design to practice: map business clusters, field-test the itineraries and prepare certification and training for guides and operators."
+      ],
+      "partners": [
+        "Compañía de Turismo de Puerto Rico",
+        "Instituto de Cultura Puertorriqueña",
+        "Oficina Regional de Turismo",
+        "Oficinas municipales de turismo y cultura",
+        "Museo Afro Casa Silvana"
+      ]
     },
     {
       "id": "humacao-luquillo",
-      "group_es": "Itinerarios y clústers", "group_en": "Itineraries and clusters",
-      "name_es": "Distrito Cultural de Humacao y Distrito Creativo de Luquillo", "name_en": "Humacao Cultural District and Luquillo Creative District",
+      "group_es": "Itinerarios y clústers",
+      "group_en": "Itineraries and clusters",
+      "name_es": "Distrito Cultural de Humacao y Distrito Creativo de Luquillo",
+      "name_en": "Humacao Cultural District and Luquillo Creative District",
       "tagline_es": "El patrimonio de Humacao y la economía creativa de Luquillo, organizados como destinos con identidad propia.",
       "tagline_en": "Humacao's heritage and Luquillo's creative economy, organized as destinations with their own identity.",
       "body_es": [
@@ -59,14 +141,71 @@
         "FPR is working with the municipalities of Humacao and Luquillo on concepts that group their cultural and creative assets into destinations with their own brand and identity.",
         "The idea grew out of the Community Innovation Hub, which found that weak branding and scattered assets hold back tourism in the region. These are concepts in development."
       ],
-      "image": { "src": "assets/img/humacao-luquillo.jpg", "alt_es": "Paseo frente a la playa en La Pared, Luquillo, con restaurantes a la derecha y arena dorada a la izquierda.", "alt_en": "Beachfront promenade at La Pared, Luquillo, with restaurants on the right and golden sand on the left.", "caption_es": "La Pared, Luquillo.", "caption_en": "La Pared, Luquillo." },
+      "image": {
+        "src": "assets/img/humacao-luquillo.jpg",
+        "alt_es": "Paseo frente a la playa en La Pared, Luquillo, con restaurantes a la derecha y arena dorada a la izquierda.",
+        "alt_en": "Beachfront promenade at La Pared, Luquillo, with restaurants on the right and golden sand on the left.",
+        "caption_es": "La Pared, Luquillo.",
+        "caption_en": "La Pared, Luquillo."
+      },
       "presenters": "Angelee Ríos",
-      "link": { "url": "https://foundationforpuertorico.org/en/community-innovation-hub/", "label_es": "Community Innovation Hub (en inglés)", "label_en": "Community Innovation Hub" }
+      "link": {
+        "url": "https://foundationforpuertorico.org/en/community-innovation-hub/",
+        "label_es": "Community Innovation Hub (en inglés)",
+        "label_en": "Community Innovation Hub"
+      },
+      "challenge_es": "Humacao y Luquillo reciben visitantes que pasan por el pueblo sin detenerse, y buena parte del gasto no llega a artistas, artesanos, cocineros ni organizaciones culturales locales. Sus activos están dispersos y sin una identidad común, así que el visitante no tiene una razón para quedarse ni para gastar en el pueblo.",
+      "approach_es": [
+        "En Humacao, organiza como destino la Zona Histórica y las siete propiedades del Registro Nacional, junto con la programación cultural, en coordinación con el Instituto de Cultura Puertorriqueña.",
+        "En Luquillo, conecta la economía creativa alrededor del casco urbano histórico y el corredor de La Pared, bajo el marco de industrias creativas de Puerto Rico.",
+        "Elabora un mapa de activos con GIS para cada pueblo, organizado por grupos (clústers).",
+        "Redacta un informe de viabilidad sobre la ruta legal para designar cada distrito.",
+        "Clasifica los negocios según estén listos o necesiten inversión, analiza la cadena de valor y prepara perfiles de identidad que sirvan de base para la marca del distrito."
+      ],
+      "progress_es": [
+        "Septiembre de 2024: FPR firma un memorando de entendimiento con el Municipio de Luquillo para crear un Consejo de Custodia de la Región Este.",
+        "Mayo de 2025: el Community Innovation Hub celebra Encuentro Este en el Centro de Bellas Artes Ángel \"Lito\" Peña, en Humacao, y usa la metodología de backcasting para trazar el camino hacia una región más conectada y sostenible.",
+        "En 2026 FPR trabaja los dos distritos como pilotos con instrumentos legales y modelos económicos distintos, pero con la misma lógica: los activos dispersos valen más cuando se coordinan."
+      ],
+      "next_es": [
+        "Entregar para enero de 2027 el mapa de activos, el informe de viabilidad de designación, el inventario de negocios con análisis de cadena de valor y los perfiles de identidad de cada distrito."
+      ],
+      "challenge_en": "Humacao and Luquillo receive visitors who pass through without stopping, and much of the spending does not reach local artists, makers, cooks or cultural organizations. Their assets are scattered and lack a shared identity, so visitors have no reason to stay or to spend in town.",
+      "approach_en": [
+        "In Humacao, organizes the Historic Zone and seven National Register properties as a destination, with cultural programming, in coordination with the Institute of Puerto Rican Culture.",
+        "In Luquillo, connects the creative economy around the historic town center and the La Pared corridor, under Puerto Rico's creative industries framework.",
+        "Builds a GIS asset map for each town, organized by cluster.",
+        "Writes a feasibility report on the legal path to designate each district.",
+        "Sorts businesses by readiness (ready or needing investment), analyzes the value chain and prepares identity profiles as the basis for each district's brand."
+      ],
+      "progress_en": [
+        "September 2024: FPR signs a memorandum of understanding with the Municipality of Luquillo to create a Stewardship Council for the Eastern Region.",
+        "May 2025: the Community Innovation Hub holds Encuentro Este at the Ángel \"Lito\" Peña Arts Center in Humacao and uses backcasting to outline pathways toward a more connected and sustainable region.",
+        "In 2026 FPR is working on both districts as pilots with different legal instruments and economic models but the same logic: scattered assets gain value when coordinated."
+      ],
+      "next_en": [
+        "Deliver by January 2027 each district's asset map, designation feasibility report, business inventory with value-chain analysis and identity profiles."
+      ],
+      "partners": [
+        "Municipio de Humacao",
+        "Municipio de Luquillo",
+        "Instituto de Cultura Puertorriqueña"
+      ],
+      "stats": [
+        {
+          "value": "7",
+          "label_es": "propiedades del Registro Nacional de Lugares Históricos en Humacao",
+          "label_en": "National Register of Historic Places properties in Humacao",
+          "source": "FPR, 15th anniversary agenda"
+        }
+      ]
     },
     {
       "id": "central-roig",
-      "group_es": "Itinerarios y clústers · Manejo de activos", "group_en": "Itineraries and clusters · Asset management",
-      "name_es": "Central Roig: caso de estudio y guías para activar el patrimonio", "name_en": "Central Roig Case Study + Guidelines for Heritage Activation",
+      "group_es": "Itinerarios y clústers · Manejo de activos",
+      "group_en": "Itineraries and clusters · Asset management",
+      "name_es": "Central Roig: caso de estudio y guías para activar el patrimonio",
+      "name_en": "Central Roig Case Study + Guidelines for Heritage Activation",
       "tagline_es": "Lo que aprendemos en Yabucoa para dar nueva vida a sitios patrimoniales.",
       "tagline_en": "What we are learning in Yabucoa to give heritage sites new life.",
       "body_es": [
@@ -77,14 +216,71 @@
         "Central Roig, in Yabucoa, is one of the sugar mills the FPR team visited while designing the Sugar Heritage Route.",
         "FPR studies it as a case to prepare guidelines that help municipalities and communities activate heritage sites sustainably. The work is part of the Community Innovation Hub."
       ],
-      "image": { "src": "assets/img/central-roig.jpg", "alt_es": "Un artesano sonríe junto a una maqueta de un central azucarero y tallos de caña.", "alt_en": "An artisan smiles beside a scale model of a sugar mill and stalks of sugarcane.", "caption_es": "Yabucoa. Foto: Junoel Rosario Santana.", "caption_en": "Yabucoa. Photo: Junoel Rosario Santana." },
+      "image": {
+        "src": "assets/img/central-roig.jpg",
+        "alt_es": "Un artesano sonríe junto a una maqueta de un central azucarero y tallos de caña.",
+        "alt_en": "An artisan smiles beside a scale model of a sugar mill and stalks of sugarcane.",
+        "caption_es": "Yabucoa. Foto: Junoel Rosario Santana.",
+        "caption_en": "Yabucoa. Photo: Junoel Rosario Santana."
+      },
       "presenters": "Vanessa Muler, Andrea Estrella, Halle, Sarah",
-      "link": { "url": "https://foundationforpuertorico.org/en/the-sugar-heritage-route-advancing-heritage-led-development-in-puerto-ricos-eastern-region/", "label_es": "La Ruta Patrimonial del Azúcar (en inglés)", "label_en": "The Sugar Heritage Route" }
+      "link": {
+        "url": "https://foundationforpuertorico.org/en/the-sugar-heritage-route-advancing-heritage-led-development-in-puerto-ricos-eastern-region/",
+        "label_es": "La Ruta Patrimonial del Azúcar (en inglés)",
+        "label_en": "The Sugar Heritage Route"
+      },
+      "challenge_es": "Muchos sitios patrimoniales de la isla tienen valor reconocido pero siguen sin uso. Suelen quedarse así más por razones de gobernanza y de toma de decisiones que por falta de interés o de fondos: la propiedad es compleja, las partes no se alinean y no hay quien sostenga el sitio después de la inversión inicial.",
+      "approach_es": [
+        "Estudia la Central Roig, en Yabucoa, como caso concreto: fue uno de los últimos centrales azucareros en operar en Puerto Rico y cerró en 2001, tras un siglo como ancla económica con empleos, vivienda, una escuela y servicios médicos.",
+        "Analiza quién tiene autoridad sobre el sitio, cómo se oye la voz de la comunidad y cómo se alinean inversionistas, conservacionistas, el municipio y los vecinos.",
+        "Examina cómo lograr una gobernanza duradera y una sostenibilidad financiera una vez pasa el dinero inicial.",
+        "Convierte lo aprendido en un marco práctico y en guías que otros municipios y comunidades puedan aplicar a sitios parecidos.",
+        "Conecta el sitio con los itinerarios, clústers y estrategias de inversión de la región."
+      ],
+      "progress_es": [
+        "El equipo de FPR visitó las ruinas de la Central Roig mientras diseñaba la Ruta Patrimonial del Azúcar (nota pública de marzo de 2026).",
+        "El caso de estudio está registrado como un producto de conocimiento del Community Innovation Hub, en su reto de manejo sostenible de activos naturales y culturales.",
+        "FPR ya lo trabaja con el Municipio de Yabucoa, el Instituto de Cultura Puertorriqueña y la Compañía de Turismo."
+      ],
+      "next_es": [
+        "Completar el caso de estudio y las guías como la solución de manejo de activos del Community Innovation Hub."
+      ],
+      "challenge_en": "Many heritage sites across the island have recognized value but remain unused. They tend to stay that way more because of governance and decision-making than for lack of interest or funding: ownership is complex, the parties are not aligned and no one sustains the site after the initial investment.",
+      "approach_en": [
+        "Studies Central Roig, in Yabucoa, as a concrete case: one of the last sugar mills to operate in Puerto Rico, it closed in 2001 after a century as an economic anchor providing jobs, housing, a school and medical services.",
+        "Analyzes who holds authority over the site, how the community's voice is heard and how investors, preservationists, the municipality and neighbors are aligned.",
+        "Examines how to build durable governance and financial sustainability after the initial funding ends.",
+        "Turns what it learns into a practical framework and guidelines that other municipalities and communities can apply to similar sites.",
+        "Links the site to the region's itineraries, clusters and investment strategies."
+      ],
+      "progress_en": [
+        "The FPR team visited the Central Roig ruins while designing the Sugar Heritage Route (public post, March 2026).",
+        "The case study is registered as a Community Innovation Hub knowledge product, under its challenge on sustainable management of natural and cultural assets.",
+        "FPR already works on it with the Municipality of Yabucoa, the Institute of Puerto Rican Culture and the Puerto Rico Tourism Company."
+      ],
+      "next_en": [
+        "Complete the case study and guidelines as the Community Innovation Hub's asset management solution."
+      ],
+      "partners": [
+        "Municipio de Yabucoa",
+        "Instituto de Cultura Puertorriqueña",
+        "Compañía de Turismo de Puerto Rico"
+      ],
+      "stats": [
+        {
+          "value": "2001",
+          "label_es": "año en que cerró la Central Roig, tras un siglo de operación",
+          "label_en": "year Central Roig closed, after a century of operation",
+          "source": "FPR, 15th anniversary agenda"
+        }
+      ]
     },
     {
       "id": "baseline",
-      "group_es": "Manejo de activos", "group_en": "Asset management",
-      "name_es": "Herramienta de línea base", "name_en": "Baseline Tool",
+      "group_es": "Manejo de activos",
+      "group_en": "Asset management",
+      "name_es": "Herramienta de línea base",
+      "name_en": "Baseline Tool",
       "tagline_es": "Medir con criterios comunes el estado de los activos naturales y patrimoniales de la Región Este.",
       "tagline_en": "Measuring the condition of the Eastern Region's natural and heritage assets with common criteria.",
       "body_es": [
@@ -95,13 +291,53 @@
         "The Baseline is an FPR tool to survey and assess the condition of beaches, protected areas, historic sites and ruins across the Eastern Region.",
         "Results will appear on maps and help municipalities and communities decide where to invest and how to manage each site better."
       ],
-      "image": { "src": "assets/img/baseline.jpg", "alt_es": "Estructura de concreto de una antigua estación de tren rodeada de bambú en Las Piedras.", "alt_en": "Concrete structure of an old train station surrounded by bamboo in Las Piedras.", "caption_es": "Antigua estación del tren, Las Piedras. Foto: Junoel Rosario Santana.", "caption_en": "Old train station, Las Piedras. Photo: Junoel Rosario Santana." },
-      "presenters": "Zoralys, Vanessa Muler"
+      "image": {
+        "src": "assets/img/baseline.jpg",
+        "alt_es": "Estructura de concreto de una antigua estación de tren rodeada de bambú en Las Piedras.",
+        "alt_en": "Concrete structure of an old train station surrounded by bamboo in Las Piedras.",
+        "caption_es": "Antigua estación del tren, Las Piedras. Foto: Junoel Rosario Santana.",
+        "caption_en": "Old train station, Las Piedras. Photo: Junoel Rosario Santana."
+      },
+      "presenters": "Zoralys, Vanessa Muler",
+      "challenge_es": "La Región Este tiene cientos de activos naturales y patrimoniales, pero no existe un inventario común que diga en qué condición está cada uno, quién lo maneja ni qué necesita. Sin esos datos, municipios y comunidades deciden dónde invertir sin evidencia comparable.",
+      "approach_es": [
+        "Cataloga los activos de la región en un universo único: costeros y marinos, terrestres, áreas protegidas, patrimonio cívico y arquitectónico, militar, religioso e industrial, ruinas y sitios arqueológicos.",
+        "Aplica un instrumento de evaluación modular, construido sobre marcos internacionales de manejo de áreas protegidas y patrimonio, que mide la condición, las amenazas, el manejo, el acceso y la consulta a la comunidad.",
+        "Recoge los datos en campo con formularios digitales que funcionan sin conexión, para llegar a lugares remotos como Vieques, Culebra y El Yunque.",
+        "Publica los resultados como capas en un mapa, con puntuaciones que permiten comparar los activos entre sí.",
+        "Usa esa evidencia para identificar clústers, prioridades de inversión y oportunidades de reactivar sitios patrimoniales."
+      ],
+      "progress_es": [
+        "Septiembre de 2026: preparados el universo de activos, la clasificación por categorías y el instrumento de evaluación, y elegida la plataforma de recolección de datos en campo.",
+        "La herramienta ya sirve de base a otros proyectos de FPR, como los distritos de Humacao y Luquillo y el caso de la Central Roig."
+      ],
+      "next_es": [
+        "Evaluar los activos en campo por zonas (Culebra y Vieques; Fajardo y Humacao; Yabucoa y Maunabo), depurar los datos y construir las capas del mapa.",
+        "Redactar el informe de línea base, previsto para finales de 2026."
+      ],
+      "challenge_en": "The Eastern Region has hundreds of natural and heritage assets, but there is no common inventory saying what condition each is in, who manages it or what it needs. Without that data, municipalities and communities decide where to invest without comparable evidence.",
+      "approach_en": [
+        "Catalogs the region's assets in a single universe: coastal and marine, terrestrial, protected areas, civic and architectural heritage, military, religious and industrial heritage, ruins and archaeological sites.",
+        "Applies a modular assessment instrument, built on international frameworks for protected-area and heritage management, that measures condition, threats, management, access and community consultation.",
+        "Collects field data with digital forms that work offline, to reach remote places such as Vieques, Culebra and El Yunque.",
+        "Publishes results as map layers, with scores that allow assets to be compared with one another.",
+        "Uses that evidence to identify clusters, investment priorities and opportunities to reactivate heritage sites."
+      ],
+      "progress_en": [
+        "September 2026: asset universe, category classification and assessment instrument prepared, and the field data collection platform selected.",
+        "The tool already underpins other FPR projects, including the Humacao and Luquillo districts and the Central Roig case."
+      ],
+      "next_en": [
+        "Assess assets in the field by area (Culebra and Vieques; Fajardo and Humacao; Yabucoa and Maunabo), clean the data and build the map layers.",
+        "Write the baseline report, planned for the end of 2026."
+      ]
     },
     {
       "id": "ersv",
-      "group_es": "Visión estratégica", "group_en": "Strategic vision",
-      "name_es": "Visión Estratégica de la Región Este (ERSV)", "name_en": "Eastern Region Strategic Vision (ERSV)",
+      "group_es": "Visión estratégica",
+      "group_en": "Strategic vision",
+      "name_es": "Visión Estratégica de la Región Este (ERSV)",
+      "name_en": "Eastern Region Strategic Vision (ERSV)",
       "tagline_es": "Una hoja de ruta compartida para el desarrollo sostenible de los 15 municipios del Este.",
       "tagline_en": "A shared roadmap for the sustainable development of the 15 Eastern municipalities.",
       "body_es": [
@@ -112,19 +348,110 @@
         "The Eastern Region Strategic Vision is FPR's roadmap for a future of sustainability, resilience and shared prosperity.",
         "It rests on four pillars: transportation and mobility, attractions, human capital and governance. It proposes community-centered tourism that spreads visitors across the region and keeps the benefits there."
       ],
-      "image": { "src": "assets/img/ersv.jpg", "alt_es": "Vista desde El Yunque hacia la costa este, con montañas verdes y el mar al fondo.", "alt_en": "View from El Yunque toward the east coast, with green mountains and the sea in the distance.", "caption_es": "Vista desde El Yunque.", "caption_en": "View from El Yunque." },
+      "image": {
+        "src": "assets/img/ersv.jpg",
+        "alt_es": "Vista desde El Yunque hacia la costa este, con montañas verdes y el mar al fondo.",
+        "alt_en": "View from El Yunque toward the east coast, with green mountains and the sea in the distance.",
+        "caption_es": "Vista desde El Yunque.",
+        "caption_en": "View from El Yunque."
+      },
       "stats": [
-        { "value": "15", "label_es": "municipios de la Región Este", "label_en": "Eastern Region municipalities", "source": "FPR, ERSV" },
-        { "value": "12,000+", "label_es": "empleos nuevos proyectados para 2030 si se duplica la visitación", "label_en": "new jobs projected by 2030 if visitation doubles", "source": "FPR, ERSV" },
-        { "value": "$1.3B+", "label_es": "en gasto directo proyectado para 2030 si se duplica la visitación", "label_en": "in direct spending projected by 2030 if visitation doubles", "source": "FPR, ERSV" }
+        {
+          "value": "15",
+          "label_es": "municipios de la Región Este",
+          "label_en": "Eastern Region municipalities",
+          "source": "FPR, ERSV"
+        },
+        {
+          "value": "12,000+",
+          "label_es": "empleos nuevos proyectados para 2030 si se duplica la visitación",
+          "label_en": "new jobs projected by 2030 if visitation doubles",
+          "source": "FPR, ERSV"
+        },
+        {
+          "value": "$1.3B+",
+          "label_es": "en gasto directo proyectado para 2030 si se duplica la visitación",
+          "label_en": "in direct spending projected by 2030 if visitation doubles",
+          "source": "FPR, ERSV"
+        },
+        {
+          "value": "~15,000",
+          "label_es": "empleos sostenidos por la economía del visitante en la región",
+          "label_en": "jobs supported by the visitor economy in the region",
+          "source": "FPR, ERSV Overview"
+        }
       ],
       "presenters": "Equipo de FPR",
-      "link": { "url_es": "https://foundationforpuertorico.org/es/ersv/", "url_en": "https://foundationforpuertorico.org/en/ersv/", "label_es": "Visión Estratégica de la Región Este", "label_en": "Eastern Region Strategic Vision" }
+      "link": {
+        "url_es": "https://foundationforpuertorico.org/es/ersv/",
+        "url_en": "https://foundationforpuertorico.org/en/ersv/",
+        "label_es": "Visión Estratégica de la Región Este",
+        "label_en": "Eastern Region Strategic Vision"
+      },
+      "challenge_es": "La Región Este perdió actividad económica durante dos décadas por el cierre de Roosevelt Roads, los huracanes Irma y María y la pandemia. Hoy la mayoría de sus visitantes viene por el día y gasta poco, el transporte depende del carro privado, y 15 municipios con gobiernos separados tienen dificultad para sostener planes más allá de un ciclo electoral.",
+      "approach_es": [
+        "Transporte y movilidad: propone una red multimodal con una plataforma que integre operadores, microtransporte que modernice los carros públicos y centros de movilidad en cascos urbanos.",
+        "Atracciones: organiza los sitios en clústers geográficos y temáticos con itinerarios curados, y propone sistemas de monitoreo, estándares de calidad y modelos de manejo y financiamiento compartidos.",
+        "Capital humano: plantea un Talent Commons regional, becas para profesionales jóvenes, academias sectoriales y centros de innovación y cotrabajo en los centros urbanos.",
+        "Gobernanza: propone un Consejo Regional de Desarrollo Económico, un fondo regional, servicios compartidos para municipios y pequeños negocios, y datos abiertos para la toma de decisiones.",
+        "Une los cuatro pilares para que el turismo reparta a los visitantes por toda la región y deje los beneficios en las comunidades."
+      ],
+      "progress_es": [
+        "Septiembre de 2025: en Fajardo, el evento \"El Este y Su Marca Pendiente\" presenta el estudio de economía del visitante y abre el diálogo sobre una identidad de marca para la región.",
+        "Diciembre de 2025: FPR publica el resumen general de la visión y los resúmenes de los cuatro pilares, con más material en los meses siguientes.",
+        "Marzo de 2026: se publica el capítulo de Transporte y Movilidad, que identifica a Ceiba y Naguabo como candidatos para un piloto de centros de movilidad.",
+        "El capítulo de Gobernanza también está disponible en versión previa a la publicación."
+      ],
+      "next_es": [
+        "Publicar los capítulos de Atracciones y Capital Humano, que están en revisión final.",
+        "Publicar el informe completo cuando terminen todos los capítulos."
+      ],
+      "challenge_en": "The Eastern Region lost economic activity over two decades because of the closure of Roosevelt Roads, hurricanes Irma and María and the pandemic. Today most visitors come for the day and spend little, transportation depends on private cars, and 15 separate municipal governments struggle to sustain plans beyond an electoral cycle.",
+      "approach_en": [
+        "Transportation and mobility: proposes a multimodal network with a platform that integrates operators, microtransit that modernizes carros públicos, and mobility hubs in town centers.",
+        "Attractions: organizes sites into geographic and thematic clusters with curated itineraries, and proposes monitoring systems, quality standards and shared management and financing models.",
+        "Human capital: outlines a regional Talent Commons, fellowships for early-career professionals, sector academies, and innovation and co-working centers in town centers.",
+        "Governance: proposes a Regional Economic Development Council, a regional fund, shared services for municipalities and small businesses, and open data for decision-making.",
+        "Ties the four pillars together so tourism spreads visitors across the region and keeps the benefits in communities."
+      ],
+      "progress_en": [
+        "September 2025: in Fajardo, the event \"El Este y Su Marca Pendiente\" presents the visitor economy study and opens dialogue on a brand identity for the region.",
+        "December 2025: FPR publishes the vision overview and the four pillar briefs, with more material in the following months.",
+        "March 2026: the Transportation and Mobility chapter is published, naming Ceiba and Naguabo as strong candidates for a mobility hub pilot.",
+        "The Governance chapter is also available in pre-publication form."
+      ],
+      "next_en": [
+        "Publish the Attractions and Human Capital chapters, which are in final review.",
+        "Publish the full report once all chapters are complete."
+      ],
+      "chart": {
+        "title_es": "Gasto diario promedio por tipo de visitante en la Región Este",
+        "title_en": "Average daily spending by visitor type in the Eastern Region",
+        "prefix": "$",
+        "suffix": "",
+        "data": [
+          {
+            "label": "Visitante de un día / Day visitor",
+            "value": 111
+          },
+          {
+            "label": "Se queda con familiares o amigos / Staying with friends or relatives",
+            "value": 165
+          },
+          {
+            "label": "Pernocta en hotel, posada o alquiler / Overnight in hotel, inn or rental",
+            "value": 354
+          }
+        ],
+        "source": "FPR, ERSV Overview (Visitor Economy Performance Model)"
+      }
     },
     {
       "id": "maas",
-      "group_es": "Transportación y movilidad", "group_en": "Transportation and mobility",
-      "name_es": "Movilidad como servicio (MaaS)", "name_en": "Mobility as a Service (MaaS)",
+      "group_es": "Transportación y movilidad",
+      "group_en": "Transportation and mobility",
+      "name_es": "Movilidad como servicio (MaaS)",
+      "name_en": "Mobility as a Service (MaaS)",
       "tagline_es": "Una sola app para planificar, reservar y pagar viajes en la Región Este, sin depender del carro.",
       "tagline_en": "One app to plan, book and pay for trips across the Eastern Region, without depending on a car.",
       "body_es": [
@@ -140,21 +467,82 @@
         "title_en": "How people get to work in the Eastern Region (% of workers, 2023)",
         "suffix": "%",
         "data": [
-          { "label": "Carro / Car", "value": 89 },
-          { "label": "Transporte público / Public transit", "value": 0.5 }
+          {
+            "label": "Carro / Car",
+            "value": 89
+          },
+          {
+            "label": "Transporte público / Public transit",
+            "value": 0.5
+          }
         ],
         "source": "U.S. Census Bureau, ACS 5 años 2023, en FPR, ERSV Transportation & Mobility"
       },
       "stats": [
-        { "value": "83%", "label_es": "de quienes van en carro manejan solos", "label_en": "of those who drive go alone", "source": "ACS 5 años 2023" }
+        {
+          "value": "83%",
+          "label_es": "de quienes van en carro manejan solos",
+          "label_en": "of those who drive go alone",
+          "source": "ACS 5 años 2023"
+        },
+        {
+          "value": "10 de 15",
+          "label_es": "municipios de la Región Este todavía tienen carros públicos, con unas 42 rutas activas",
+          "label_en": "Eastern Region municipalities still have carros públicos, with about 42 active routes",
+          "source": "FPR, ERSV Transportation & Mobility (Feb. 2026)"
+        },
+        {
+          "value": "-18 %",
+          "label_es": "vehículos de carro público disponibles entre 2016 y 2021 (de 1,971 a 1,620)",
+          "label_en": "carro público vehicles available between 2016 and 2021 (from 1,971 to 1,620)",
+          "source": "DTPW, Plan 2050 MLRTP, citado por FPR"
+        }
       ],
       "presenters": "Luis Morales",
-      "link": { "url": "https://foundationforpuertorico.org/en/ersv/transportation-mobility/", "label_es": "Pilar de transporte y movilidad (en inglés)", "label_en": "Transportation & Mobility pillar" }
+      "link": {
+        "url": "https://foundationforpuertorico.org/en/ersv/transportation-mobility/",
+        "label_es": "Pilar de transporte y movilidad (en inglés)",
+        "label_en": "Transportation & Mobility pillar"
+      },
+      "challenge_es": "En la Región Este, 89 % de quienes trabajan van en carro y solo 0.5 % usa transporte público. Los carros públicos, que por casi un siglo conectaron los pueblos, hoy operan en 10 de los 15 municipios, sin que el pasajero pueda ver dónde están ni el chofer dónde hay clientes. Eso hace difícil sostener el servicio.",
+      "approach_es": [
+        "Propone una sola aplicación para planificar, reservar, comprar boletos y pagar en carros públicos, trolleys municipales, taxis, ferris y servicios como Uber.",
+        "Equipa los carros públicos con transporte a la demanda: el pasajero pide el viaje por la app y la ruta se ajusta a la demanda real.",
+        "Da visibilidad en ambos sentidos: el pasajero ve el vehículo en tiempo real y el chofer ve dónde hay pasajeros.",
+        "Plantea centros de movilidad donde el pasajero cambia de ruta o de modo de transporte, y que también sirven de puerta de entrada para visitantes.",
+        "Permite tarifas por tipo de usuario y pases combinados: tarifas más bajas para residentes que viajan a diario y pases multimodales para visitantes."
+      ],
+      "progress_es": [
+        "Mar. 2025: trabajo de campo en el terminal de ferris de Ceiba con choferes de carros públicos. Encontró que ya no hay rutas fijas y que los choferes coordinan los viajes por teléfono.",
+        "Feb. 2026: el capítulo de Transportación y Movilidad de la Visión Estratégica del Este quedó redactado y hoy está publicado en la página del pilar.",
+        "El capítulo recomienda a Palmer, en Río Grande, como proyecto piloto principal de la estrategia regional de MaaS."
+      ],
+      "next_es": [
+        "Diseñar el piloto: el capítulo propone empezar con programas de bajo costo en corredores prioritarios, con una plataforma comercial de MaaS."
+      ],
+      "challenge_en": "In the Eastern Region, 89% of workers drive to work and only 0.5% use public transit. Carros públicos, which connected towns for nearly a century, now run in 10 of the 15 municipalities, and riders cannot see where they are and drivers cannot see where the riders are. That makes the service hard to sustain.",
+      "approach_en": [
+        "Proposes one app to plan, reserve, buy tickets and pay for carros públicos, municipal trolleys, taxis, ferries and services like Uber.",
+        "Equips carros públicos with demand-responsive transit: riders request trips in the app and routes adjust to actual demand.",
+        "Gives two-way visibility: riders see the vehicle in real time and drivers see where riders are waiting.",
+        "Plans mobility hubs where riders switch routes or modes, which also serve as gateways for visitors.",
+        "Allows fares by type of user and bundled passes: lower fares for residents who commute daily and multimodal passes for visitors."
+      ],
+      "progress_en": [
+        "Mar. 2025: field research at the Ceiba ferry terminal with carro público drivers. It found that fixed routes no longer exist and that drivers coordinate trips by phone.",
+        "Feb. 2026: the Transportation and Mobility chapter of the Eastern Region Strategic Vision was drafted and is now published on the pillar page.",
+        "The chapter recommends Palmer, in Río Grande, as the flagship pilot for the regional MaaS strategy."
+      ],
+      "next_en": [
+        "Design the pilot: the chapter proposes starting with low-cost programs on priority corridors, using a commercial MaaS platform."
+      ]
     },
     {
       "id": "cdere",
-      "group_es": "Gobernanza", "group_en": "Governance",
-      "name_es": "Consejo de Desarrollo Económico de la Región Este (CDERE)", "name_en": "Eastern Region Economic Development Council (CDERE)",
+      "group_es": "Gobernanza",
+      "group_en": "Governance",
+      "name_es": "Consejo de Desarrollo Económico de la Región Este (CDERE)",
+      "name_en": "Eastern Region Economic Development Council (CDERE)",
       "tagline_es": "Un consejo regional permanente para que los 15 municipios del Este trabajen juntos más allá de cada ciclo electoral.",
       "tagline_en": "A permanent regional council so the 15 Eastern municipalities can work together beyond each election cycle.",
       "body_es": [
@@ -165,18 +553,90 @@
         "CDERE is a proposed independent, multisector nonprofit to coordinate economic development across the 15 Eastern municipalities. It does not replace municipalities or agencies and does not affect municipal autonomy.",
         "It aims to align priorities, attract resources and keep regional projects in mobility, human capital and small-business support going. It is proposed through House Bill 862, filed at FPR's request."
       ],
-      "image": { "src": "assets/img/cdere.jpg", "alt_es": "Vista aérea del malecón de Naguabo con casas frente al mar.", "alt_en": "Aerial view of the Naguabo waterfront with houses along the sea.", "caption_es": "Malecón de Naguabo.", "caption_en": "Naguabo waterfront." },
+      "image": {
+        "src": "assets/img/cdere.jpg",
+        "alt_es": "Vista aérea del malecón de Naguabo con casas frente al mar.",
+        "alt_en": "Aerial view of the Naguabo waterfront with houses along the sea.",
+        "caption_es": "Malecón de Naguabo.",
+        "caption_en": "Naguabo waterfront."
+      },
       "stats": [
-        { "value": "2M+", "label_es": "visitantes a la Región Este en 2024", "label_en": "visitors to the Eastern Region in 2024", "source": "FPR" },
-        { "value": "~$1.3B", "label_es": "en gasto directo de visitantes en la región en 2024 (17% del total de PR)", "label_en": "in direct visitor spending in the region in 2024 (17% of Puerto Rico's total)", "source": "FPR" }
+        {
+          "value": "2M+",
+          "label_es": "visitantes a la Región Este en 2024",
+          "label_en": "visitors to the Eastern Region in 2024",
+          "source": "FPR"
+        },
+        {
+          "value": "~$1.3B",
+          "label_es": "en gasto directo de visitantes en la región en 2024 (17% del total de PR)",
+          "label_en": "in direct visitor spending in the region in 2024 (17% of Puerto Rico's total)",
+          "source": "FPR"
+        },
+        {
+          "value": "405,074",
+          "label_es": "personas viven en la Región Este y la región perdió 14 % de su población en una década",
+          "label_en": "people live in the Eastern Region, which lost 14% of its population in a decade",
+          "source": "ACS 2023, en el texto del PC 862"
+        },
+        {
+          "value": "~45 %",
+          "label_es": "de los adultos de 16 a 65 años participa en la fuerza laboral de la región",
+          "label_en": "of adults ages 16 to 65 take part in the regional labor force",
+          "source": "BLS 2022, en el texto del PC 862"
+        },
+        {
+          "value": "50+",
+          "label_es": "agencias, municipios y entidades con jurisdicción fragmentada sobre la región",
+          "label_en": "agencies, municipalities and entities with fragmented jurisdiction over the region",
+          "source": "FPR"
+        }
       ],
       "presenters": "Elliot",
-      "link": { "url": "https://foundationforpuertorico.org/en/eastern-region-economic-development-council/", "label_es": "CDERE: preguntas frecuentes y proyecto de ley (en inglés)", "label_en": "CDERE: FAQ and bill" }
+      "link": {
+        "url": "https://foundationforpuertorico.org/en/eastern-region-economic-development-council/",
+        "label_es": "CDERE: preguntas frecuentes y proyecto de ley (en inglés)",
+        "label_en": "CDERE: FAQ and bill"
+      },
+      "challenge_es": "La Región Este tiene activos de primer orden, como El Yunque, Vieques, Culebra y Roosevelt Roads, pero sufre pérdida de población, pobreza alta y poca participación laboral. Más de 50 agencias, municipios y entidades tienen jurisdicción parcial o fragmentada, y eso dificulta competir por fondos para proyectos regionales.",
+      "approach_es": [
+        "Propone una mesa regional permanente con representación municipal, comunitaria, empresarial, académica y estatal, basada en una estrategia compartida.",
+        "Alinea prioridades y maneja proyectos de escala regional, como movilidad integrada, capital humano y apoyo a pequeños negocios.",
+        "Propone un fondo regional para atraer capital público, privado, filantrópico y federal.",
+        "Organiza la región en tres subregiones, con un representante de los alcaldes por cada una en la Junta.",
+        "Fija límites claros: no otorga permisos, no cambia la zonificación y no puede imponer obligaciones a municipios. La participación es voluntaria."
+      ],
+      "progress_es": [
+        "El Proyecto de la Cámara 862 fue radicado a petición de FPR para crear el CDERE.",
+        "Nov. 2025: FPR sometió a la Legislatura una adenda con recomendaciones de enmiendas, surgidas de diálogos con alcaldes, agencias, organizaciones comunitarias, la academia y gremios del sector privado.",
+        "Dic. 2025: FPR publicó una guía de preguntas frecuentes y el texto del proyecto con las enmiendas recomendadas, para que cualquier persona pueda revisarlos."
+      ],
+      "next_es": [
+        "El proyecto sigue su trámite legislativo y puede cambiar según las enmiendas y los comentarios de la Asamblea Legislativa."
+      ],
+      "challenge_en": "The Eastern Region has first-rate assets, such as El Yunque, Vieques, Culebra and Roosevelt Roads, but it faces population loss, high poverty and low labor-force participation. More than 50 agencies, municipalities and entities hold partial or fragmented jurisdiction, which makes it hard to compete for funds for regional projects.",
+      "approach_en": [
+        "Proposes a permanent regional table with municipal, community, business, academic and state representation, based on a shared strategy.",
+        "Aligns priorities and manages region-scale projects, such as integrated mobility, human capital and small-business support.",
+        "Proposes a regional fund to attract public, private, philanthropic and federal capital.",
+        "Organizes the region into three subregions, with one mayors' representative for each on the Board.",
+        "Sets clear limits: it does not issue permits, change zoning or impose obligations on municipalities. Participation is voluntary."
+      ],
+      "progress_en": [
+        "House Bill 862 was filed at FPR's request to create CDERE.",
+        "Nov. 2025: FPR submitted an addendum to the Legislature with recommended amendments, drawn from dialogues with mayors, agencies, community organizations, academia and private-sector associations.",
+        "Dec. 2025: FPR published a frequently asked questions guide and the text of the bill with the recommended amendments, so anyone can review them."
+      ],
+      "next_en": [
+        "The bill continues through the legislative process and may change based on amendments and comments from the Legislature."
+      ]
     },
     {
       "id": "tourism-academy",
-      "group_es": "Economía del visitante", "group_en": "Visitor economy",
-      "name_es": "Academia de Turismo", "name_en": "Tourism Academy",
+      "group_es": "Economía del visitante",
+      "group_en": "Visitor economy",
+      "name_es": "Academia de Turismo",
+      "name_en": "Tourism Academy",
       "tagline_es": "Preparar talento local para los empleos de la economía del visitante en la Región Este.",
       "tagline_en": "Preparing local talent for visitor-economy jobs in the Eastern Region.",
       "body_es": [
@@ -188,15 +648,62 @@
         "It would connect youth, women and experienced workers with industry needs through internships, apprenticeships and fellowships, building talent in hospitality, ecotourism and digital services and keeping it in the region. It is at the design stage."
       ],
       "stats": [
-        { "value": "100,000+", "label_es": "empleos directos en ocio y hospitalidad en Puerto Rico (mayo 2025)", "label_en": "direct leisure and hospitality jobs in Puerto Rico (May 2025)", "source": "BLS, en FPR, Visitor Economy Performance 2025" }
+        {
+          "value": "100,000+",
+          "label_es": "empleos directos en ocio y hospitalidad en Puerto Rico (mayo 2025)",
+          "label_en": "direct leisure and hospitality jobs in Puerto Rico (May 2025)",
+          "source": "BLS, en FPR, Visitor Economy Performance 2025"
+        },
+        {
+          "value": ">10 %",
+          "label_es": "de la fuerza laboral de Puerto Rico trabaja directamente en ocio y hospitalidad (más de 100,000 empleos)",
+          "label_en": "of Puerto Rico's labor force works directly in leisure and hospitality (more than 100,000 jobs)",
+          "source": "FPR, VEP Short-Form 2025 (BLS)"
+        }
       ],
       "presenters": "Cecilia Thon",
-      "link": { "url": "https://foundationforpuertorico.org/en/ersv/human-capital/", "label_es": "Pilar de capital humano (en inglés)", "label_en": "Human Capital pillar" }
+      "link": {
+        "url": "https://foundationforpuertorico.org/en/ersv/human-capital/",
+        "label_es": "Pilar de capital humano (en inglés)",
+        "label_en": "Human Capital pillar"
+      },
+      "challenge_es": "La economía del visitante sostiene más de 100,000 empleos directos en Puerto Rico, y muchos son de trato directo con la persona, por lo que resisten mejor la automatización. Al mismo tiempo, la tecnología cambia el trabajo y la región pierde talento joven. Las personas de la Región Este necesitan una ruta clara de formación a empleos locales.",
+      "approach_es": [
+        "Ofrece tres rutas de formación: hospitalidad inteligente y servicio, ecoturismo y actividades al aire libre o marinas, y servicios digitales para la economía del visitante.",
+        "Añade un taller de emprendimiento donde las personas convierten lo aprendido en experiencias y negocios locales.",
+        "Combina internados, aprendizajes y experiencia paga en el trabajo, diseñados con patronos de hoteles, guías, marinas, fincas y atracciones.",
+        "Se ofrece en centros en cascos urbanos, jornadas móviles hacia comunidades rurales e isleñas y un campus virtual, con apoyos de transporte, cuidado de niños y equipos.",
+        "Da prioridad a jóvenes de 16 a 24 años, adultos sin empleo, mujeres que regresan a trabajar y residentes rurales e isleños."
+      ],
+      "progress_es": [
+        "Sep. 2025: FPR completó un diseño conceptual de la academia, con rutas de formación, modelo de entrega, gobernanza e indicadores.",
+        "Las academias sectoriales ya forman parte del pilar público de Capital Humano de la Visión Estratégica del Este, junto con los Fellows Regionales y el Talent Commons Regional."
+      ],
+      "next_es": [
+        "Fase inicial del diseño: definir con patronos las credenciales y los acuerdos de internado antes de abrir las primeras cohortes."
+      ],
+      "challenge_en": "The visitor economy supports more than 100,000 direct jobs in Puerto Rico, and many are people-facing, so they hold up better against automation. At the same time, technology is changing the work and the region is losing young talent. People in the Eastern Region need a clear path from training to local jobs.",
+      "approach_en": [
+        "Offers three training tracks: smart hospitality and service, ecotourism and outdoor or marine activities, and digital services for the visitor economy.",
+        "Adds an entrepreneurship studio where people turn what they learn into local experiences and businesses.",
+        "Combines internships, apprenticeships and paid on-the-job experience, designed with employers such as hotels, guides, marinas, farms and attractions.",
+        "Runs through hubs in town centers, mobile training days to rural and island communities and a virtual campus, with support for transport, childcare and equipment.",
+        "Gives priority to youth ages 16 to 24, unemployed adults, women returning to work and rural and island residents."
+      ],
+      "progress_en": [
+        "Sep. 2025: FPR completed a concept design for the academy, with training tracks, delivery model, governance and indicators.",
+        "Sector academies are now part of the public Human Capital pillar of the Eastern Region Strategic Vision, alongside the Regional Fellows and the Regional Talent Commons."
+      ],
+      "next_en": [
+        "Initial design phase: define credentials and internship agreements with employers before opening the first cohorts."
+      ]
     },
     {
       "id": "vepm",
-      "group_es": "Economía del visitante", "group_en": "Visitor economy",
-      "name_es": "Modelo de Desempeño de la Economía del Visitante (VEPM)", "name_en": "Visitor Economy Performance Model (VEPM)",
+      "group_es": "Economía del visitante",
+      "group_en": "Visitor economy",
+      "name_es": "Modelo de Desempeño de la Economía del Visitante (VEPM)",
+      "name_en": "Visitor Economy Performance Model (VEPM)",
       "tagline_es": "Un modelo propio que mide cuánto gastan de verdad los visitantes en Puerto Rico.",
       "tagline_en": "FPR's own model for measuring how much visitors really spend in Puerto Rico.",
       "body_es": [
@@ -213,21 +720,90 @@
         "prefix": "$",
         "suffix": "B",
         "data": [
-          { "label": "2014–15", "value": 2.6 },
-          { "label": "2024", "value": 7.1 }
+          {
+            "label": "2014–15",
+            "value": 2.6
+          },
+          {
+            "label": "2024",
+            "value": 7.1
+          }
         ],
         "source": "FPR, Visitor Economy Performance 2025"
       },
       "stats": [
-        { "value": "5.3M", "label_es": "visitantes no residentes con pernocta en 2024", "label_en": "overnight nonresident visitors in 2024", "source": "FPR, VEP 2025" }
+        {
+          "value": "5.3M",
+          "label_es": "visitantes no residentes con pernocta en 2024",
+          "label_en": "overnight nonresident visitors in 2024",
+          "source": "FPR, VEP 2025"
+        },
+        {
+          "value": "$15 mil millones+",
+          "label_es": "en ingresos totales de la economía del visitante en 2024, con efectos indirectos",
+          "label_en": "in total visitor-economy revenue in 2024, with indirect effects",
+          "source": "FPR, VEP Short-Form 2025"
+        },
+        {
+          "value": "$264",
+          "label_es": "gasto diario promedio de cada visitante no residente en 2024 (estimado de $280 en 2025)",
+          "label_en": "average daily spending per nonresident visitor in 2024 ($280 estimated for 2025)",
+          "source": "FPR, VEP Short-Form 2025"
+        },
+        {
+          "value": "$3.9 mil millones",
+          "label_es": "en gasto de residentes que hacen turismo local en 2024",
+          "label_en": "in spending by residents traveling within the island in 2024",
+          "source": "Tourism Economics, en FPR VEP 2025"
+        }
       ],
       "presenters": "Kailee McCutchan",
-      "link": { "url": "https://foundationforpuertorico.org/en/visitor-economy-performance-model/", "label_es": "Informe completo (en inglés)", "label_en": "Full report" }
+      "link": {
+        "url": "https://foundationforpuertorico.org/en/visitor-economy-performance-model/",
+        "label_es": "Informe completo (en inglés)",
+        "label_en": "Full report"
+      },
+      "challenge_es": "Las encuestas oficiales de visitantes dependen de la memoria de quien viaja y no recogen categorías enteras de gasto, como cargos, estacionamiento, vida nocturna, aplicaciones y propinas. Además, los controles migratorios no distinguen a los visitantes de los residentes que regresan. El resultado es que se subestima el sector y los municipios, los inversionistas y las agencias planifican con datos incompletos.",
+      "approach_es": [
+        "Cuenta los visitantes de afuera a partir de varias fuentes: movimiento de pasajeros, datos de hospedaje y encuestas.",
+        "Separa a los visitantes por dónde se hospedan (hoteles, alquileres a corto plazo, familiares y amigos) y por ingreso del hogar.",
+        "Calcula el gasto con precios locales actuales en muchas categorías, en vez de depender de lo que la gente recuerda.",
+        "Publica sus supuestos y compara los resultados con fuentes independientes, como la Balanza de Pagos, Tourism Economics y datos de Hawái y Cancún.",
+        "Estima también cuánto del ingreso se queda en la isla, según el tipo de hospedaje."
+      ],
+      "progress_es": [
+        "2016: FPR presentó el marco «2+2=7»: dos millones más de visitantes, dos días más de estadía y $7 mil millones adicionales en gasto.",
+        "2024: la meta se cumplió. Puerto Rico recibió 5.3 millones de visitantes no residentes, que se quedaron 5 noches en promedio.",
+        "Fines de 2025: FPR publicó el informe del modelo, con un resumen público y el estudio completo."
+      ],
+      "next_es": [
+        "Construir una infraestructura digital que actualice el modelo de forma continua y sirva como base de conocimiento para quienes planifican el destino.",
+        "Impulsar encuestas de visitantes más modernas, con diarios de gasto y una pregunta sobre la diáspora, y una Cuenta Satélite de Turismo."
+      ],
+      "challenge_en": "Official visitor surveys rely on travelers' memory and miss whole spending categories, such as fees, parking, nightlife, apps and tips. Immigration controls also cannot tell visitors from returning residents. The result is that the sector is undercounted, and municipalities, investors and agencies plan with incomplete data.",
+      "approach_en": [
+        "Counts outside visitors from several sources: passenger movements, lodging data and surveys.",
+        "Segments visitors by where they stay (hotels, short-term rentals, friends and family) and by household income.",
+        "Calculates spending using current local prices across many categories, instead of relying on what people recall.",
+        "Publishes its assumptions and checks results against independent sources, such as the Balance of Payments, Tourism Economics and data from Hawaii and Cancún.",
+        "Also estimates how much of the income stays on the island, by type of lodging."
+      ],
+      "progress_en": [
+        "2016: FPR introduced the '2+2=7' framework: two million more visitors, two more days of stay and $7 billion in added spending.",
+        "2024: the goal was met. Puerto Rico received 5.3 million nonresident visitors, who stayed 5 nights on average.",
+        "Late 2025: FPR published the model report, with a public summary and the full study."
+      ],
+      "next_en": [
+        "Build digital infrastructure that updates the model continuously and serves as a knowledge base for destination planners.",
+        "Push for more modern visitor surveys, with spending diaries and a diaspora question, and a Tourism Satellite Account."
+      ]
     },
     {
       "id": "voluntariado",
-      "group_es": "Capital humano", "group_en": "Human capital",
-      "name_es": "Voluntariado + Impacta PR", "name_en": "Volunteering + Impacta PR",
+      "group_es": "Capital humano",
+      "group_en": "Human capital",
+      "name_es": "Voluntariado + Impacta PR",
+      "name_en": "Volunteering + Impacta PR",
       "tagline_es": "Estudiantes y voluntarios que convierten su propósito en acción por Puerto Rico.",
       "tagline_en": "Students and volunteers turning purpose into action for Puerto Rico.",
       "body_es": [
@@ -238,14 +814,65 @@
         "FPR has mobilized volunteers since its early years. Today it supports Impacta PR, a pilot student organization at the University of Puerto Rico, Río Piedras.",
         "Impacta PR connects students with volunteering, community service and leadership opportunities, along a path from volunteer to initiative leader. It aims to grow to other campuses and universities."
       ],
-      "image": { "src": "assets/img/voluntariado.png", "logo": true, "alt_es": "Logo de Impacta PR.", "alt_en": "Impacta PR logo." },
+      "image": {
+        "src": "assets/img/voluntariado.png",
+        "logo": true,
+        "alt_es": "Logo de Impacta PR.",
+        "alt_en": "Impacta PR logo."
+      },
       "presenters": "Nanushka Santiago, Cristina Alejandro",
-      "link": { "url": "mailto:impactapr@foundationpr.org", "label_es": "impactapr@foundationpr.org", "label_en": "impactapr@foundationpr.org" }
+      "link": {
+        "url": "mailto:impactapr@foundationpr.org",
+        "label_es": "impactapr@foundationpr.org",
+        "label_en": "impactapr@foundationpr.org"
+      },
+      "challenge_es": "Muchos estudiantes quieren servir a Puerto Rico, pero no siempre encuentran un camino claro desde un primer día de voluntariado hasta liderar un proyecto. Las comunidades y las organizaciones sin fines de lucro, por su parte, necesitan talento universitario para responder a necesidades reales.",
+      "approach_es": [
+        "Impacta PR ofrece tres niveles de participación: voluntario, habilidades para el impacto y liderar una iniciativa. Cada estudiante escoge según su tiempo y su interés.",
+        "Conecta a estudiantes con proyectos de voluntariado, servicio comunitario y liderazgo, junto a organizaciones sin fines de lucro, comunidades, empresas y gobierno.",
+        "Es gratuita y está abierta a todo el estudiantado de la UPR de Río Piedras. El piloto comienza en la Facultad de Administración de Empresas.",
+        "Se compromete a hacer al menos dos actividades por semestre, una de ellas en la comunidad, y a documentar el impacto y lo aprendido.",
+        "FPR mantiene un programa de voluntariado y canaliza sus iniciativas activas hacia las oportunidades que se ofrecen a los miembros."
+      ],
+      "progress_es": [
+        "2026: FPR y la Facultad de Administración de Empresas de la UPR de Río Piedras diseñaron una colaboración que incluye crear un capítulo estudiantil de voluntariado.",
+        "17 de agosto de 2026: la UPR de Río Piedras abrió la convocatoria para reconocer nuevas organizaciones estudiantiles, hasta el 31 de octubre.",
+        "14 de octubre de 2026: Impacta PR se presentó en el recinto.",
+        "21 de octubre de 2026: el grupo fundador aprobó el reglamento de la organización y preparó la solicitud de reconocimiento."
+      ],
+      "next_es": [
+        "Obtener el reconocimiento de la Universidad y celebrar las primeras actividades del semestre.",
+        "Crecer, con el tiempo, a otros recintos de la UPR y a otras universidades."
+      ],
+      "challenge_en": "Many students want to serve Puerto Rico but do not always find a clear path from a first volunteer day to leading a project. Communities and nonprofits, for their part, need university talent to respond to real needs.",
+      "approach_en": [
+        "Impacta PR offers three levels of participation: volunteer, skills for impact and leading an initiative. Each student chooses based on time and interest.",
+        "Connects students with volunteering, community service and leadership projects, together with nonprofits, communities, businesses and government.",
+        "It is free and open to all students at UPR Río Piedras. The pilot starts in the School of Business Administration.",
+        "Commits to at least two activities per semester, one of them in the community, and to documenting impact and lessons learned.",
+        "FPR runs a volunteer program and channels its active initiatives into the opportunities offered to members."
+      ],
+      "progress_en": [
+        "2026: FPR and the School of Business Administration at UPR Río Piedras designed a collaboration that includes creating a student volunteer chapter.",
+        "August 17, 2026: UPR Río Piedras opened its call to recognize new student organizations, through October 31.",
+        "October 14, 2026: Impacta PR was presented on campus.",
+        "October 21, 2026: the founding group approved the organization's bylaws and prepared the recognition application."
+      ],
+      "next_en": [
+        "Obtain the University's recognition and hold the first activities of the semester.",
+        "Grow over time to other UPR campuses and other universities."
+      ],
+      "partners": [
+        "Universidad de Puerto Rico, Recinto de Río Piedras",
+        "Facultad de Administración de Empresas, UPR Río Piedras"
+      ]
     },
     {
       "id": "fellows",
-      "group_es": "Capital humano", "group_en": "Human capital",
-      "name_es": "Foundation Fellows Program", "name_en": "Foundation Fellows Program",
+      "group_es": "Capital humano",
+      "group_en": "Human capital",
+      "name_es": "Foundation Fellows Program",
+      "name_en": "Foundation Fellows Program",
       "tagline_es": "Profesionales emergentes que aprenden trabajando en iniciativas reales para transformar la economía de Puerto Rico.",
       "tagline_en": "Emerging professionals learning by working on real initiatives that transform Puerto Rico's economy.",
       "body_es": [
@@ -257,12 +884,52 @@
         "Fellows move across several FPR projects, learn in collaborative labs and receive mentorship from many people. All academic and professional backgrounds are welcome."
       ],
       "presenters": "Equipo de Capital Humano",
-      "link": { "url": "mailto:fellows@foundationpr.org", "label_es": "fellows@foundationpr.org", "label_en": "fellows@foundationpr.org" }
+      "link": {
+        "url": "mailto:fellows@foundationpr.org",
+        "label_es": "fellows@foundationpr.org",
+        "label_en": "fellows@foundationpr.org"
+      },
+      "challenge_es": "Puerto Rico necesita profesionales jóvenes que sepan trabajar entre disciplinas y asumir responsabilidad en problemas reales. El desarrollo económico no es solo economía: exige pensar en sistemas y colaborar entre sectores. Muchos programas ofrecen puestos fijos; este ofrece práctica real desde el primer día.",
+      "approach_es": [
+        "Los fellows trabajan en Proyectos de Inmersión: iniciativas reales de FPR que llevan ideas a la acción para el desarrollo de Puerto Rico.",
+        "Rotan entre proyectos y áreas según las necesidades de la organización, su iniciativa y su experiencia, en vez de ocupar un puesto fijo.",
+        "Participan en Laboratorios de Aprendizaje, espacios colaborativos donde la teoría se une a la práctica y se fortalecen el liderazgo, la resiliencia y la solución de problemas.",
+        "Reciben mentoría de varias personas con experiencia, y también aportan sus propias ideas a quienes los guían.",
+        "Aceptan todas las trayectorias académicas y profesionales; las estadías pueden ser de temporada, de semestre o de un año."
+      ],
+      "progress_es": [
+        "La primera cohorte anual comenzó en enero de 2026.",
+        "Una cohorte de verano se sumó en junio de 2026.",
+        "En marzo de 2026 se ofrecieron los primeros Laboratorios de Aprendizaje, sobre mentoría y presencia profesional en medios.",
+        "Los fellows presentan sus iniciativas en el recorrido por el Colaboratorio durante el 15.º aniversario, el 9 de diciembre de 2026."
+      ],
+      "next_es": [
+        "Continuar las cohortes y ampliar los Laboratorios de Aprendizaje."
+      ],
+      "challenge_en": "Puerto Rico needs young professionals who can work across disciplines and take responsibility for real problems. Economic development is not only economics: it calls for systems thinking and collaboration across sectors. Many programs offer fixed roles; this one offers real practice from day one.",
+      "approach_en": [
+        "Fellows work on Immersion Projects: real FPR initiatives that turn ideas into action for Puerto Rico's development.",
+        "They rotate across projects and areas based on the organization's needs, their own initiative and their growing expertise, instead of holding a fixed role.",
+        "They join Learning Labs, collaborative spaces where theory meets practice and leadership, resilience and problem-solving grow through shared work.",
+        "They receive mentorship from several experienced people, and they also contribute ideas back to those who guide them.",
+        "All academic and professional backgrounds are accepted; stays can be seasonal, semester-long or year-long."
+      ],
+      "progress_en": [
+        "The first year-long cohort began in January 2026.",
+        "A summer cohort joined in June 2026.",
+        "In March 2026 the first Learning Labs were held, on mentorship and professional media presence.",
+        "Fellows present their initiatives on the Colaboratorio route during the 15th anniversary event on December 9, 2026."
+      ],
+      "next_en": [
+        "Continue the cohorts and expand the Learning Labs."
+      ]
     },
     {
       "id": "pdfa",
-      "group_es": "Inteligencia artificial", "group_en": "Artificial intelligence",
-      "name_es": "PDFA: asistente de diseño y financiamiento de proyectos", "name_en": "PDFA: Project Design & Funding Assistant",
+      "group_es": "Inteligencia artificial",
+      "group_en": "Artificial intelligence",
+      "name_es": "PDFA: asistente de diseño y financiamiento de proyectos",
+      "name_en": "PDFA: Project Design & Funding Assistant",
       "tagline_es": "Inteligencia artificial que ayuda a convertir prioridades comunitarias en proyectos listos para buscar fondos.",
       "tagline_en": "Artificial intelligence that helps turn community priorities into projects ready to seek funding.",
       "body_es": [
@@ -274,16 +941,71 @@
         "It combines FPR's knowledge with artificial intelligence to scan funding opportunities, assess fit and prepare drafts. People always review and decide. Its Grant Scanner monitors funding sources and flags opportunities and deadlines."
       ],
       "steps": {
-        "title_es": "Cómo funciona", "title_en": "How it works",
-        "items_es": ["Aprender", "Escanear", "Emparejar", "Diseñar", "Solicitar", "Dar seguimiento", "Mejorar", "Repetir"],
-        "items_en": ["Learn", "Scan", "Match", "Design", "Apply", "Follow up", "Improve", "Repeat"]
+        "title_es": "Cómo funciona",
+        "title_en": "How it works",
+        "items_es": [
+          "Aprender",
+          "Escanear",
+          "Emparejar",
+          "Diseñar",
+          "Solicitar",
+          "Dar seguimiento",
+          "Mejorar",
+          "Repetir"
+        ],
+        "items_en": [
+          "Learn",
+          "Scan",
+          "Match",
+          "Design",
+          "Apply",
+          "Follow up",
+          "Improve",
+          "Repeat"
+        ]
       },
-      "presenters": "Sally, Bea, Nihar Shard · con apoyo de Francis, Ricardo y Sarah"
+      "presenters": "Sally, Bea, Nihar Shard · con apoyo de Francis, Ricardo y Sarah",
+      "challenge_es": "Los municipios y las organizaciones comunitarias conocen sus necesidades, y muchas ya aparecen en planes de desarrollo económico, mitigación y resiliencia. El obstáculo está en el medio: definir el proyecto, entender la elegibilidad, alinearlo con los planes vigentes y redactar una propuesta competitiva. Hoy cada municipio requiere muchas horas de un grupo pequeño de especialistas de FPR, y ese equipo no alcanza para los 78 municipios.",
+      "approach_es": [
+        "Parte de las prioridades comunitarias y de los planes que ya existen, y las convierte en proyectos definidos.",
+        "Recorre un ciclo de ocho pasos: aprender, escanear, emparejar, diseñar, solicitar, dar seguimiento, mejorar y repetir.",
+        "El Grant Scanner vigila fuentes de fondos, resume las oportunidades, califica el encaje con las prioridades y envía un resumen semanal con fechas límite.",
+        "Prepara borradores de conceptos de proyecto, modelos lógicos, listas de requisitos y narrativas, con citas a sus fuentes.",
+        "Funciona en español y en inglés, ajusta las preguntas al nivel de experiencia de quien lo usa, y todo borrador requiere revisión de una persona."
+      ],
+      "progress_es": [
+        "En abril de 2026 FPR preparó una convocatoria a municipios para integrarse como pilotos, sin costo de participación.",
+        "Los flujos de trabajo iniciales y el Grant Scanner ya se prueban con trabajo real de búsqueda y preparación de propuestas.",
+        "En octubre de 2026 el proyecto se definió como una iniciativa con requisitos, usuarios y medidas de éxito."
+      ],
+      "next_es": [
+        "Comenzar con un piloto en uno a tres municipios de la Región Este que ya tienen acuerdos con FPR, y luego ampliar.",
+        "Conectar el Grant Scanner con los índices de planes municipales y comunitarios en un solo flujo de trabajo."
+      ],
+      "challenge_en": "Municipalities and community organizations know their needs, and many already appear in economic development, mitigation and resilience plans. The obstacle is in the middle: defining the project, understanding eligibility, aligning it with current plans and writing a competitive proposal. Today each municipality takes many hours from a small group of FPR specialists, and that team cannot reach all 78 municipalities.",
+      "approach_en": [
+        "It starts from community priorities and plans that already exist, and turns them into well-defined projects.",
+        "It follows an eight-step cycle: learn, scan, match, design, apply, follow up, improve and repeat.",
+        "The Grant Scanner monitors funding sources, summarizes opportunities, scores fit against priorities and sends a weekly digest with deadlines.",
+        "It prepares drafts of project concepts, logic models, requirement checklists and narratives, with citations to their sources.",
+        "It works in Spanish and English, adjusts its questions to the user's experience level, and every draft needs review by a person."
+      ],
+      "progress_en": [
+        "In April 2026 FPR prepared a call for municipalities to join as pilots, at no cost to participate.",
+        "The early workflows and the Grant Scanner are being tested on real funding search and proposal work.",
+        "In October 2026 the project was defined as an initiative with requirements, users and success measures."
+      ],
+      "next_en": [
+        "Start with a pilot in one to three Eastern Region municipalities that already have agreements with FPR, then scale.",
+        "Connect the Grant Scanner with the municipal and community plan indexes in one workflow."
+      ]
     },
     {
       "id": "second-brain",
-      "group_es": "Inteligencia artificial", "group_en": "Artificial intelligence",
-      "name_es": "Second Brain", "name_en": "Second Brain",
+      "group_es": "Inteligencia artificial",
+      "group_en": "Artificial intelligence",
+      "name_es": "Second Brain",
+      "name_en": "Second Brain",
       "tagline_es": "La memoria institucional de FPR: 15 años de conocimiento, listos para consultar.",
       "tagline_en": "FPR's institutional memory: 15 years of knowledge, ready to consult.",
       "body_es": [
@@ -295,16 +1017,65 @@
         "Every answer cites its sources and people stay in control. The goal is for knowledge to outlast staff changes and support better decisions."
       ],
       "steps": {
-        "title_es": "Cómo funciona", "title_en": "How it works",
-        "items_es": ["Reunir fuentes", "Organizar", "Preguntar", "Responder con fuentes", "Decidir"],
-        "items_en": ["Gather sources", "Organize", "Ask", "Answer with sources", "Decide"]
+        "title_es": "Cómo funciona",
+        "title_en": "How it works",
+        "items_es": [
+          "Reunir fuentes",
+          "Organizar",
+          "Preguntar",
+          "Responder con fuentes",
+          "Decidir"
+        ],
+        "items_en": [
+          "Gather sources",
+          "Organize",
+          "Ask",
+          "Answer with sources",
+          "Decide"
+        ]
       },
-      "presenters": "Sarah, Andrew Solbjor · con apoyo de Francis y Ricardo"
+      "presenters": "Sarah, Andrew Solbjor · con apoyo de Francis y Ricardo",
+      "challenge_es": "Más de 15 años de conocimiento de campo de FPR están repartidos entre SharePoint, Teams, correos y la memoria de las personas. Los planes aprobados registran el resultado, pero casi nunca el proceso que llevó a él. Cuando un programa cierra, el personal que guarda esa memoria puede irse mientras las comunidades se quedan, y hoy no hay un solo lugar para preguntar cuál es el estado de un programa y qué se decidió.",
+      "approach_es": [
+        "Reúne reuniones, proyectos, planes, decisiones y relaciones con aliados provenientes de fuentes aprobadas.",
+        "Convierte las minutas de reuniones en notas estructuradas y lleva un registro de decisiones que anota qué se acordó y por qué.",
+        "Usa las búsquedas que FPR ya tiene sobre planes comunitarios de resiliencia y planes municipales, y un catálogo de iniciativas y proyectos.",
+        "Cada respuesta cita sus fuentes, y una persona revisa antes de actuar.",
+        "Respeta quién puede ver qué, funciona en español y en inglés, y guarda el conocimiento en formatos abiertos como Markdown para no depender de un solo proveedor."
+      ],
+      "progress_es": [
+        "Ya funcionan las búsquedas sobre los planes comunitarios de resiliencia del programa WCRP y sobre planes municipales.",
+        "Las minutas de reuniones se convierten en notas estructuradas y existe un registro de decisiones.",
+        "FPR cataloga sus iniciativas y proyectos en una herramienta propia de organización."
+      ],
+      "next_es": [
+        "Definir quiénes son las personas usuarias y qué puede ver cada una.",
+        "Decidir qué se guarda en la memoria institucional y qué se deja fuera, y cómo se mantiene actualizada."
+      ],
+      "challenge_en": "More than 15 years of FPR field knowledge is spread across SharePoint, Teams, email and people's heads. Approved plans record the outcome, but rarely the process behind it. When a program closes, the staff who hold that memory may leave while the communities stay, and today there is no single place to ask what the state of a program is and what was decided.",
+      "approach_en": [
+        "It brings together meetings, projects, plans, decisions and partner relationships from approved sources.",
+        "It turns meeting minutes into structured notes and keeps a decision log that records what was agreed and why.",
+        "It uses the searches FPR already has over community resilience plans and municipal plans, plus a catalog of initiatives and projects.",
+        "Every answer cites its sources, and a person reviews before acting.",
+        "It respects who can see what, works in Spanish and English, and keeps knowledge in open formats such as Markdown so FPR does not depend on one vendor."
+      ],
+      "progress_en": [
+        "Search already works over the community resilience plans from the WCRP program and over municipal plans.",
+        "Meeting minutes are turned into structured notes and a decision log exists.",
+        "FPR catalogs its initiatives and projects in its own organization tool."
+      ],
+      "next_en": [
+        "Define who the users are and what each person may see.",
+        "Decide what goes into institutional memory and what stays out, and how it stays current."
+      ]
     },
     {
       "id": "pr-mos",
-      "group_es": "Gobernanza", "group_en": "Governance",
-      "name_es": "PR-MOS: sistema operativo municipal de Puerto Rico", "name_en": "PR-MOS: Puerto Rico Municipal Operating System",
+      "group_es": "Gobernanza",
+      "group_en": "Governance",
+      "name_es": "PR-MOS: sistema operativo municipal de Puerto Rico",
+      "name_en": "PR-MOS: Puerto Rico Municipal Operating System",
       "tagline_es": "Fortalecer la capacidad de los municipios para ejecutar proyectos y sostener resultados.",
       "tagline_en": "Strengthening municipalities' capacity to deliver projects and sustain results.",
       "body_es": [
@@ -316,12 +1087,59 @@
         "It helps assess and improve six areas: governance, fiscal management, data use, processes, talent and project delivery. Tools such as PDFA can operate as one capability within PR-MOS."
       ],
       "steps": {
-        "title_es": "Áreas que fortalece", "title_en": "Areas it strengthens",
-        "items_es": ["Gobernanza", "Manejo fiscal", "Datos", "Procesos", "Talento", "Ejecución de proyectos"],
-        "items_en": ["Governance", "Fiscal management", "Data", "Processes", "Talent", "Project delivery"],
+        "title_es": "Áreas que fortalece",
+        "title_en": "Areas it strengthens",
+        "items_es": [
+          "Gobernanza",
+          "Manejo fiscal",
+          "Datos",
+          "Procesos",
+          "Talento",
+          "Ejecución de proyectos"
+        ],
+        "items_en": [
+          "Governance",
+          "Fiscal management",
+          "Data",
+          "Processes",
+          "Talent",
+          "Project delivery"
+        ],
         "unordered": true
       },
-      "presenters": "Derek, Ema"
+      "presenters": "Derek, Ema",
+      "challenge_es": "Durante la última década Puerto Rico se concentró en estabilizar las finanzas públicas. Hoy, temas tan distintos como los fondos federales, el agua, los desperdicios sólidos, la resiliencia, los servicios compartidos y el desarrollo económico regional dependen de lo mismo: que los municipios puedan planificar, coordinar, ejecutar, medir y sostener sus iniciativas. La pregunta ya no es solo qué proyectos desarrollar, sino si hay capacidad para ejecutarlos.",
+      "approach_es": [
+        "Define seis áreas de capacidad municipal: gobernanza, manejo fiscal, uso de datos, procesos, talento y ejecución de proyectos.",
+        "Parte de una hipótesis que se valida con evidencia, no de una solución ya decidida: cuatro líneas de investigación comparan experiencias posteriores a crisis fiscales, marcos internacionales de capacidad municipal, servicios compartidos y colaboración regional, y la relación entre capacidad institucional y desarrollo económico.",
+        "Usa la Región Este como laboratorio, porque sus municipios tienen niveles distintos de capacidad y retos de resiliencia e infraestructura.",
+        "Avanza por fases: investigar, diseñar un marco de capacidad municipal, validarlo, hacer diagnósticos en municipios, desarrollar asistencia técnica, probar un piloto y replicar.",
+        "Se conecta con Second Brain, que aporta contexto, y con herramientas como PDFA, que funciona como una de sus capacidades."
+      ],
+      "progress_es": [
+        "En junio de 2026 la idea surgió de la evaluación de CDERE, la iniciativa de desarrollo económico de la Región Este, y se presentó internamente como hipótesis.",
+        "Ese mes se organizó la primera fase de investigación en cuatro líneas de evidencia."
+      ],
+      "next_es": [
+        "Consolidar los hallazgos de la investigación y redactar una primera versión del marco de capacidad municipal.",
+        "Validar el marco con personas expertas, municipios y actores institucionales antes de pasar a diagnósticos."
+      ],
+      "challenge_en": "Over the last decade Puerto Rico focused on stabilizing public finances. Today, topics as different as federal funds, water, solid waste, resilience, shared services and regional economic development depend on the same thing: whether municipalities can plan, coordinate, deliver, measure and sustain their initiatives. The question is no longer only which projects to develop, but whether there is capacity to deliver them.",
+      "approach_en": [
+        "It defines six areas of municipal capacity: governance, fiscal management, data use, processes, talent and project delivery.",
+        "It starts from a hypothesis to be validated with evidence, not a solution already decided: four lines of research compare post-fiscal-crisis experiences, international municipal capacity frameworks, shared services and regional collaboration, and the link between institutional capacity and economic development.",
+        "It uses the Eastern Region as a laboratory, because its municipalities have different capacity levels and resilience and infrastructure challenges.",
+        "It moves in phases: research, design a municipal capacity framework, validate it, run municipal diagnostics, develop technical assistance, test a pilot and replicate.",
+        "It connects to Second Brain, which supplies context, and to tools such as PDFA, which works as one of its capabilities."
+      ],
+      "progress_en": [
+        "In June 2026 the idea emerged from the CDERE assessment, the Eastern Region economic development initiative, and was presented internally as a hypothesis.",
+        "That month the first research phase was organized around four lines of evidence."
+      ],
+      "next_en": [
+        "Consolidate the research findings and draft a first version of the municipal capacity framework.",
+        "Validate the framework with experts, municipalities and institutional actors before moving to diagnostics."
+      ]
     }
   ]
 }

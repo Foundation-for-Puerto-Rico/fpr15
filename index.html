@@ -72,6 +72,18 @@ figure.logo img{max-width:220px;aspect-ratio:600/340;object-fit:contain;backgrou
 .steps li::before{content:counter(s);display:inline-grid;place-items:center;width:26px;height:26px;border-radius:50%;background:var(--blue-700);color:var(--white);font-size:13px}
 .steps ol.unordered li::before{content:"";width:10px;height:10px;background:var(--green)}
 .steps ol:not(.unordered) li:not(:last-child)::after{content:"→";color:var(--gray);margin-left:6px}
+.challenge{border-left:4px solid var(--red);background:var(--white);padding:4px 0 4px 16px;margin:20px 0}
+.challenge h3,.block h3{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--gray);margin:0 0 6px}
+.challenge p{margin:0}
+.blocks{display:grid;grid-template-columns:1fr;gap:20px;margin:20px 0}
+@media (min-width:720px){.blocks{grid-template-columns:1fr 1fr}.blocks .wide{grid-column:1/-1}}
+.block ul{margin:0;padding-left:20px}
+.block li{margin:0 0 8px}
+.block.progress ul{list-style:none;padding-left:0}
+.block.progress li{position:relative;padding-left:26px}
+.block.progress li::before{content:"✓";position:absolute;left:0;top:0;width:18px;height:18px;border-radius:50%;background:var(--green);color:var(--charcoal);font-size:12px;font-weight:700;display:grid;place-items:center;margin-top:3px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0;margin:0}
+.chips li{border:1px solid var(--gray-soft);border-radius:999px;padding:4px 12px;font-size:14px;margin:0}
 .meta{font-size:15px;margin:16px 0 0}
 .meta dt{font-weight:700;display:inline}
 .meta dd{display:inline;margin:0}
@@ -147,6 +159,13 @@ footer img{height:30px;width:auto;margin-bottom:10px}
         ${(i[`body_${lang}`] || i.body_es || []).map(p => `<p>${esc(p)}</p>`).join("")}
         ${i.image ? `<figure${i.image.logo ? ' class="logo"' : ""}><img src="${esc(i.image.src)}" alt="${esc(t(i.image, "alt"))}" loading="lazy" decoding="async">
           ${t(i.image, "caption") ? `<figcaption>${esc(t(i.image, "caption"))}</figcaption>` : ""}</figure>` : ""}
+        ${t(i, "challenge") ? `<div class="challenge"><h3>${esc(ui.challenge)}</h3><p>${esc(t(i, "challenge"))}</p></div>` : ""}
+        ${(() => {
+          const list = (k, cls) => { const xs = i[`${k}_${lang}`] || i[`${k}_es`] || []; return xs.length ? `<div class="block ${cls}"><h3>${esc(ui[k])}</h3><ul>${xs.map(x => `<li>${esc(x)}</li>`).join("")}</ul></div>` : ""; };
+          const html = list("approach", "approach") + list("progress", "progress") + list("next", "next wide")
+            + (i.partners?.length ? `<div class="block wide"><h3>${esc(ui.partners)}</h3><ul class="chips">${i.partners.map(p => `<li>${esc(p)}</li>`).join("")}</ul></div>` : "");
+          return html ? `<div class="blocks">${html}</div>` : "";
+        })()}
         ${i.stats?.length ? `<div class="stats">${i.stats.map(s => `<div class="stat"><div class="v">${esc(s.value)}</div>
           <div class="l">${esc(t(s, "label"))}</div>${s.source ? `<div class="s">${ui.source}: ${esc(s.source)}</div>` : ""}</div>`).join("")}</div>` : ""}
         ${chart(i.chart)}
