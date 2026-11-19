@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Iniciativas FPR · 15 años</title>
+<meta name="description" content="Las iniciativas de Foundation for Puerto Rico presentadas en su 15 aniversario.">
+<link rel="icon" href="assets/fpr-logo.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --red:#FF4D38; --red-700:#B82415; --yellow:#FFA600; --green:#A6BF33; --blue:#338CB3; --blue-700:#205D7B;
+  --charcoal:#2A2E2E; --gray:#666666; --gray-soft:#E6E6E6; --off:#F2F2F2; --paper:#F7F7F7; --white:#FFFFFF;
+  --font:"Gotham","Montserrat","Roboto",Arial,sans-serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--white);color:var(--charcoal);font:400 17px/1.55 var(--font);-webkit-text-size-adjust:100%}
+a{color:var(--blue-700)}
+a:focus-visible,button:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px}
+header.top{position:sticky;top:0;z-index:5;background:var(--white);border-bottom:1px solid var(--gray-soft)}
+header.top .wrap{display:flex;align-items:center;justify-content:space-between;height:60px}
+header.top img{height:34px;width:auto;display:block}
+.lang{display:flex;border:1px solid var(--charcoal);border-radius:4px;overflow:hidden}
+.lang button{font:600 14px var(--font);padding:6px 12px;border:0;background:var(--white);color:var(--charcoal);cursor:pointer}
+.lang button[aria-pressed="true"]{background:var(--charcoal);color:var(--white)}
+.hero{padding:40px 0 28px;border-bottom:4px solid var(--red)}
+.kicker{font-weight:700;font-size:14px;letter-spacing:.08em;text-transform:uppercase;color:var(--red-700);margin:0 0 8px}
+h1{font-size:clamp(30px,6vw,46px);line-height:1.1;margin:0 0 12px;letter-spacing:-.01em}
+.lede{font-size:19px;color:var(--charcoal);margin:0;max-width:640px}
+h2.groups{font-size:22px;margin:36px 0 4px}
+.index-group{margin:20px 0 0}
+.index-group h3{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--gray);margin:0 0 8px}
+.cards{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}
+.cards a{display:flex;gap:12px;align-items:center;padding:12px 14px;border:1px solid var(--gray-soft);border-left:4px solid var(--blue);border-radius:4px;text-decoration:none;color:var(--charcoal);background:var(--white);min-height:56px}
+.cards a:hover{background:var(--paper)}
+.num{flex:0 0 auto;display:inline-grid;place-items:center;width:34px;height:34px;border-radius:50%;background:var(--red);color:var(--white);font-weight:700;font-size:15px}
+.cards .name{font-weight:600;font-size:15px;line-height:1.3}
+article.ini{padding:44px 0 36px;border-top:1px solid var(--gray-soft);scroll-margin-top:68px}
+article.ini:target{animation:flash 1.6s ease-out}
+@keyframes flash{from{background:#FFF7E0}to{background:transparent}}
+.ini-head{display:flex;gap:14px;align-items:flex-start}
+.ini-head .num{width:44px;height:44px;font-size:18px;margin-top:2px}
+.group{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--gray);margin:0 0 4px}
+.ini h2{font-size:clamp(24px,4.6vw,32px);line-height:1.15;margin:0}
+.tagline{font-size:19px;font-weight:600;color:var(--blue-700);margin:14px 0 12px}
+.ini p{margin:0 0 12px}
+figure{margin:18px 0}
+figure img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:4px;display:block;background:var(--off)}
+figcaption{font-size:14px;color:var(--gray);margin-top:6px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin:18px 0}
+.stat{background:var(--paper);border-left:4px solid var(--yellow);padding:12px 14px;border-radius:2px}
+.stat .v{font-size:28px;font-weight:700;line-height:1.1}
+.stat .l{font-size:15px;margin-top:4px}
+.stat .s{font-size:13px;color:var(--gray);margin-top:6px}
+.chart{margin:20px 0;padding:16px;border:1px solid var(--gray-soft);border-radius:4px}
+.chart h3{font-size:16px;margin:0 0 12px}
+.bar-row{display:grid;grid-template-columns:minmax(70px,30%) 1fr;gap:10px;align-items:center;margin:8px 0;font-size:15px}
+.bar-track{position:relative;height:26px}
+.bar{height:100%;background:var(--blue);border-radius:0 4px 4px 0;min-width:2px}
+.bar-val{position:absolute;top:50%;transform:translateY(-50%);font-weight:700;font-size:14px;padding-left:6px;white-space:nowrap}
+.chart .src{font-size:13px;color:var(--gray);margin-top:10px}
+figure.logo img{max-width:220px;aspect-ratio:600/340;object-fit:contain;background:none}
+.steps{margin:20px 0;padding:16px;border:1px solid var(--gray-soft);border-radius:4px}
+.steps h3{font-size:16px;margin:0 0 12px}
+.steps ol{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px;counter-reset:s}
+.steps li{counter-increment:s;display:flex;align-items:center;gap:8px;padding:8px 12px 8px 8px;background:var(--paper);border-radius:999px;font-size:15px;font-weight:600}
+.steps li::before{content:counter(s);display:inline-grid;place-items:center;width:26px;height:26px;border-radius:50%;background:var(--blue-700);color:var(--white);font-size:13px}
+.steps ol.unordered li::before{content:"";width:10px;height:10px;background:var(--green)}
+.steps ol:not(.unordered) li:not(:last-child)::after{content:"→";color:var(--gray);margin-left:6px}
+.meta{font-size:15px;margin:16px 0 0}
+.meta dt{font-weight:700;display:inline}
+.meta dd{display:inline;margin:0}
+.meta div{margin:4px 0}
+.back{display:inline-block;margin-top:18px;font-weight:600;font-size:15px}
+footer{border-top:4px solid var(--red);margin-top:40px;padding:28px 0 48px;font-size:15px;color:var(--gray)}
+footer img{height:30px;width:auto;margin-bottom:10px}
+.noscript{padding:24px 0}
+@media (max-width:520px){body{font-size:16px}.lede,.tagline{font-size:17px}}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}article.ini:target{animation:none}}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a href="#inicio" aria-label="Foundation for Puerto Rico"><img src="assets/fpr-logo.svg" alt="Foundation for Puerto Rico"></a>
+  <div class="lang" role="group" aria-label="Idioma / Language">
+    <button type="button" data-lang="es" aria-pressed="true">ES</button>
+    <button type="button" data-lang="en" aria-pressed="false">EN</button>
+  </div>
+</div></header>
+<main class="wrap" id="app">
+  <noscript><p class="noscript">Esta página necesita JavaScript. / This page requires JavaScript. <a href="https://foundationforpuertorico.org">foundationforpuertorico.org</a></p></noscript>
+</main>
+<footer><div class="wrap" id="foot"></div></footer>
+<script>
+(() => {
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const params = new URLSearchParams(location.search);
+  let lang = params.get("lang") === "en" ? "en" : "es";
+  try { const saved = localStorage.getItem("fpr15-lang"); if (!params.get("lang") && saved) lang = saved; } catch (e) {}
+  let data;
+  const t = (o, k) => o?.[`${k}_${lang}`] ?? o?.[`${k}_es`] ?? "";
+
+  function chart(c) {
+    if (!c || !c.data?.length) return "";
+    const max = Math.max(...c.data.map(d => d.value));
+    const fmt = v => (c.prefix || "") + v.toLocaleString(lang === "en" ? "en-US" : "es-PR") + (c.suffix || "");
+    const summary = c.data.map(d => `${d.label}: ${fmt(d.value)}`).join("; ");
+    return `<div class="chart" role="img" aria-label="${esc(t(c, "title"))}. ${esc(summary)}">
+      <h3>${esc(t(c, "title"))}</h3>
+      ${c.data.map(d => `<div class="bar-row" aria-hidden="true"><span>${esc(d.label)}</span>
+        <div class="bar-track"><div class="bar" style="width:${(d.value / max * 78).toFixed(1)}%"></div>
+        <span class="bar-val" style="left:${(d.value / max * 78).toFixed(1)}%">${esc(fmt(d.value))}</span></div></div>`).join("")}
+      ${c.source ? `<div class="src">${data.ui[lang].source}: ${esc(c.source)}</div>` : ""}
+    </div>`;
+  }
+
+  function render() {
+    const ui = data.ui[lang];
+    document.documentElement.lang = lang;
+    document.title = ui.title;
+    document.querySelectorAll(".lang button").forEach(b => b.setAttribute("aria-pressed", b.dataset.lang === lang));
+    const groups = [...new Set(data.initiatives.map(i => t(i, "group")))];
+    const app = document.getElementById("app");
+    app.innerHTML = `
+      <section class="hero" id="inicio">
+        <p class="kicker">${esc(ui.kicker)}</p>
+        <h1>${esc(ui.title)}</h1>
+        <p class="lede">${esc(ui.lede)}</p>
+      </section>
+      <section id="iniciativas" aria-labelledby="idx-h" style="scroll-margin-top:68px">
+        <h2 class="groups" id="idx-h">${esc(ui.index)}</h2>
+        ${groups.map(g => `<div class="index-group"><h3>${esc(g)}</h3><ul class="cards">
+          ${data.initiatives.map((i, n) => [i, n]).filter(([i]) => t(i, "group") === g).map(([i, n]) =>
+            `<li><a href="#${i.id}"><span class="num">${n + 1}</span><span class="name">${esc(t(i, "name"))}</span></a></li>`).join("")}
+        </ul></div>`).join("")}
+      </section>
+      ${data.initiatives.map((i, n) => `
+      <article class="ini" id="${i.id}" aria-labelledby="h-${i.id}">
+        <div class="ini-head"><span class="num" aria-hidden="true">${n + 1}</span>
+          <div><p class="group">${esc(t(i, "group"))}</p><h2 id="h-${i.id}">${esc(t(i, "name"))}</h2></div></div>
+        ${t(i, "tagline") ? `<p class="tagline">${esc(t(i, "tagline"))}</p>` : ""}
+        ${(i[`body_${lang}`] || i.body_es || []).map(p => `<p>${esc(p)}</p>`).join("")}
+        ${i.image ? `<figure${i.image.logo ? ' class="logo"' : ""}><img src="${esc(i.image.src)}" alt="${esc(t(i.image, "alt"))}" loading="lazy" decoding="async">
+          ${t(i.image, "caption") ? `<figcaption>${esc(t(i.image, "caption"))}</figcaption>` : ""}</figure>` : ""}
+        ${i.stats?.length ? `<div class="stats">${i.stats.map(s => `<div class="stat"><div class="v">${esc(s.value)}</div>
+          <div class="l">${esc(t(s, "label"))}</div>${s.source ? `<div class="s">${ui.source}: ${esc(s.source)}</div>` : ""}</div>`).join("")}</div>` : ""}
+        ${chart(i.chart)}
+        ${i.steps ? `<div class="steps"><h3>${esc(t(i.steps, "title"))}</h3><ol class="${i.steps.unordered ? "unordered" : ""}"${i.steps.unordered ? ' role="list"' : ""}>
+          ${(i.steps[`items_${lang}`] || i.steps.items_es).map(s => `<li>${esc(s)}</li>`).join("")}</ol></div>` : ""}
+        <dl class="meta">
+          ${i.presenters ? `<div><dt>${ui.presenters}:</dt> <dd>${esc(i.presenters)}</dd></div>` : ""}
+          ${i.link ? `<div><dt>${ui.more}:</dt> <dd><a href="${esc(i.link.url || t(i.link, "url"))}" rel="noopener">${esc(t(i.link, "label"))}</a></dd></div>` : ""}
+        </dl>
+        <a class="back" href="#iniciativas">↑ ${esc(ui.back)}</a>
+      </article>`).join("")}`;
+    document.getElementById("foot").innerHTML = `<img src="assets/fpr-logo.svg" alt="Foundation for Puerto Rico"><p>${esc(ui.footer)} · <a href="https://foundationforpuertorico.org/${lang}/">foundationforpuertorico.org</a></p>`;
+  }
+
+  function goToHash() {
+    if (!location.hash) return;
+    const el = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+    if (el) requestAnimationFrame(() => el.scrollIntoView({ block: "start" }));
+  }
+
+  document.querySelectorAll(".lang button").forEach(b => b.addEventListener("click", () => {
+    lang = b.dataset.lang;
+    try { localStorage.setItem("fpr15-lang", lang); } catch (e) {}
+    const y = scrollY; render(); scrollTo(0, y);
+  }));
+
+  fetch("content.json", { cache: "no-cache" }).then(r => r.json()).then(j => { data = j; render(); goToHash(); document.fonts?.ready.then(goToHash); })
+    .catch(() => { document.getElementById("app").innerHTML = '<p class="noscript">No se pudo cargar el contenido. / Content could not be loaded. <a href="https://foundationforpuertorico.org">foundationforpuertorico.org</a></p>'; });
+})();
+</script>
+</body>
+</html>
