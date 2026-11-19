@@ -195,9 +195,17 @@ footer img{height:30px;width:auto;margin-bottom:10px}
     const y = scrollY; render(); scrollTo(0, y);
   }));
 
+  // Count clicks on the form button as GoatCounter events, one per initiative.
+  document.addEventListener("click", e => {
+    const a = e.target.closest("a.cta");
+    if (a) window.goatcounter?.count?.({ path: "form-" + a.closest("article").id, title: "Formulario", event: true });
+  });
   fetch("content.json", { cache: "no-cache" }).then(r => r.json()).then(j => { data = j; render(); goToHash(); document.fonts?.ready.then(goToHash); })
     .catch(() => { document.getElementById("app").innerHTML = '<p class="noscript">No se pudo cargar el contenido. / Content could not be loaded. <a href="https://foundationforpuertorico.org">foundationforpuertorico.org</a></p>'; });
 })();
 </script>
+<!-- GoatCounter: cookie-free visit count. The path keeps the #id, so each QR scan counts under its initiative. -->
+<script>window.goatcounter = { path: () => location.pathname + location.hash };</script>
+<script data-goatcounter="https://fpr15.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 </body>
 </html>
