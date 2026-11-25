@@ -46,15 +46,13 @@
       "group_en": "Itineraries and clusters",
       "name_es": "Ruta Patrimonial del Azúcar",
       "name_en": "Sugar Heritage Route",
-      "tagline_es": "El legado azucarero de la Región Este, convertido en experiencias turísticas que benefician a las comunidades.",
-      "tagline_en": "The Eastern Region's sugar legacy, turned into visitor experiences that benefit local communities.",
+      "tagline_es": "El azúcar como territorio, memoria y futuro.",
+      "tagline_en": "Sugar as territory, memory and future.",
       "body_es": [
-        "La Ruta Patrimonial del Azúcar conecta centrales, bateyes, museos y negocios locales de la Región Este en itinerarios coordinados. Busca que la historia del azúcar se convierta en productos turísticos que dejen beneficios en las comunidades.",
-        "FPR la desarrolla desde el Community Innovation Hub junto a la Compañía de Turismo, el Instituto de Cultura Puertorriqueña, la Oficina Regional de Turismo y las oficinas municipales de turismo y cultura."
+        "La Ruta Patrimonial del Azúcar conecta el patrimonio azucarero de la Región Este mediante itinerarios curados, recorridos guiados y experiencias de turismo cultural. Integra el paisaje, la historia, la agricultura, la gastronomía, el arte, la música y la comunidad, con el propósito de retener el gasto turístico en la economía local, priorizar a las comunidades y fomentar la reinversión en la conservación del patrimonio y el desarrollo regional."
       ],
       "body_en": [
-        "The Sugar Heritage Route links sugar mills, bateyes, museums and local businesses across the Eastern Region into coordinated itineraries. It aims to turn sugar history into tourism products whose benefits stay in local communities.",
-        "FPR develops it through the Community Innovation Hub with the Puerto Rico Tourism Company, the Institute of Puerto Rican Culture, the Regional Tourism Office and municipal tourism and culture offices."
+        "The Sugar Heritage Route connects the Eastern Region's sugar heritage through curated itineraries, guided tours and cultural tourism experiences. It brings together landscape, history, agriculture, food, art, music and community, to keep tourism spending in the local economy, put communities first and encourage reinvestment in heritage conservation and regional development."
       ],
       "image": {
         "src": "assets/img/ruta-azucar.jpg",
@@ -89,48 +87,74 @@
         "label_es": "La Ruta Patrimonial del Azúcar (en inglés)",
         "label_en": "The Sugar Heritage Route"
       },
-      "challenge_es": "La Región Este recibe mucho tránsito hacia El Yunque, Vieques y la costa, pero pocos productos turísticos propios y diferenciados. Los centrales, bateyes, museos y negocios del azúcar están dispersos, sin un itinerario que los conecte, y buena parte del gasto del visitante no llega a los municipios rurales.",
-      "approach_es": [
-        "Recorre los municipios con historiadores, líderes municipales, gestores culturales y empresarios para diseñar la ruta junto con ellos.",
-        "Traza rutas posibles y define narrativas temáticas (siete episodios) para que el relato sea coherente y arraigado en la cultura local.",
-        "Prepara guiones para experiencias interpretativas guiadas y itinerarios de medio día, día completo y fin de semana.",
-        "Cataloga los negocios de hospedaje, comida y entretenimiento cerca de cada sitio para formar grupos de empresas alrededor de la ruta.",
-        "Entregará el marco de la ruta y los materiales de los recorridos a la Compañía de Turismo para que formalice y promueva los destinos."
-      ],
+      "challenge_es": "Una razón para quedarse. El turismo en la Región Este se concentra en pocos atractivos naturales. Sin otras experiencias únicas, el visitante hace un viaje de un día y casi todo su gasto se va con él. El patrimonio azucarero (centrales, haciendas, bateyes, museos, destilerías, comunidades y tradiciones vivas) le da una razón para quedarse más tiempo y mantiene el gasto circulando entre los operadores locales.",
       "progress_es": [
-        "Marzo de 2026: FPR publica el avance de la ruta tras recorrer 11 municipios, con visitas a las ruinas de los centrales de Canóvanas y Roig, y al Museo Afro Casa Silvana.",
-        "Completada la guía operacional de la ruta, con su identidad, los episodios temáticos, el modelo de gobernanza y un plan de implementación.",
-        "Mapeados y georreferenciados los activos azucareros de los 15 municipios, y diseñados tres itinerarios piloto: Yabucoa (medio día), Vieques (fin de semana) y Loíza, Canóvanas y Juncos."
+        "**Manual operacional (borrador):** marco de ocho capítulos con gobernanza en tres niveles, certificaciones, estándares de operación, indicadores de impacto y plan de implementación a diez años.",
+        "**Inventario regional:** identifica y cataloga los lugares, actores y eventos que podrían formar parte de la cadena de valor de la ruta.",
+        "**Materiales para visitantes (en desarrollo):** reseñas históricas, identidad de marca, concepto de una página web, mapas y videos.",
+        "**Alianzas académicas:** Universidad Politécnica de Puerto Rico (propuestas de diseño), Atlantic University (modelos 3D y realidad aumentada) y un memorando de entendimiento en trámite con la Universidad Ana G. Méndez.",
+        "**Apoyo del sector y aliados:** cartas de apoyo de Crab Island Rum, Yabucoa Rum Company, Ron Caray y oficinas municipales de turismo. La ruta se desarrolla junto a la Compañía de Turismo de Puerto Rico, el Instituto de Cultura Puertorriqueña y las oficinas municipales de turismo y cultura."
       ],
       "next_es": [
-        "Entregar a la Compañía de Turismo el marco de la ruta y el paquete que necesita para considerar su endoso, previsto para enero de 2027.",
-        "Pasar del diseño a la práctica: mapear los grupos de negocios, probar los itinerarios en campo y preparar la certificación y capacitación de guías y operadores."
+        "**Finalizar el marco:** completar el manual y los materiales, y asignar más activos del inventario regional a itinerarios nuevos o ampliados.",
+        "**Formalizar con la Compañía de Turismo:** compartir el marco y los materiales para formalizar acuerdos y promover los destinos.",
+        "**Lanzar y escalar:** establecer operadores y gobernanza, certificar sitios y negocios, y medir el impacto durante el plan de diez años."
       ],
-      "challenge_en": "The Eastern Region receives heavy traffic headed to El Yunque, Vieques and the coast, but has few distinctive tourism products of its own. Sugar mills, bateyes, museums and businesses are scattered, with no itinerary linking them, and much visitor spending does not reach the rural municipalities.",
-      "approach_en": [
-        "Visits municipalities with historians, municipal leaders, cultural managers and entrepreneurs to design the route together with them.",
-        "Maps possible routes and defines thematic narratives (seven episodes) so the story is consistent and rooted in local culture.",
-        "Prepares scripts for guided interpretive experiences and half-day, full-day and weekend itineraries.",
-        "Catalogs lodging, food and entertainment businesses near each site to build business clusters around the route.",
-        "Will hand the route framework and tour materials to the Puerto Rico Tourism Company so it can formalize and promote the destinations."
-      ],
+      "challenge_en": "A reason to stay. Tourism in the Eastern Region is concentrated in a few natural attractions. Without other unique experiences, visitors make a day trip and almost all their spending leaves with them. Sugar heritage (mills, haciendas, bateyes, museums, distilleries, communities and living traditions) gives them a reason to stay longer and keeps spending circulating among local operators.",
       "progress_en": [
-        "March 2026: FPR publishes route progress after visiting 11 municipalities, including the sugar mill ruins of Canóvanas and Roig and the Museo Afro Casa Silvana.",
-        "Operational guide completed, covering route identity, thematic episodes, the governance model and an implementation plan.",
-        "Sugar heritage assets mapped and geo-located across the 15 municipalities, and three pilot itineraries designed: Yabucoa (half day), Vieques (weekend) and Loíza, Canóvanas and Juncos."
+        "**Operations manual (draft):** an eight-chapter framework with three-tier governance, certifications, operating standards, impact indicators and a ten-year implementation plan.",
+        "**Regional inventory:** identifies and catalogs the places, actors and events that could be part of the route's value chain.",
+        "**Visitor materials (in development):** historical summaries, brand identity, a website concept, maps and videos.",
+        "**Academic partnerships:** Polytechnic University of Puerto Rico (design proposals), Atlantic University (3D models and augmented reality) and a memorandum of understanding in progress with Universidad Ana G. Méndez.",
+        "**Industry support and partners:** letters of support from Crab Island Rum, Yabucoa Rum Company, Ron Caray and municipal tourism offices. The route is being developed with the Puerto Rico Tourism Company, the Institute of Puerto Rican Culture and municipal tourism and culture offices."
       ],
       "next_en": [
-        "Deliver to the Tourism Company the route framework and the package it needs to consider endorsing the route, planned for January 2027.",
-        "Move from design to practice: map business clusters, field-test the itineraries and prepare certification and training for guides and operators."
+        "**Finalize the framework:** complete the manual and materials, and assign more assets from the regional inventory to new or expanded itineraries.",
+        "**Formalize with the Tourism Company:** share the framework and materials to formalize agreements and promote the destinations.",
+        "**Launch and scale:** set up operators and governance, certify sites and businesses, and measure impact over the ten-year plan."
       ],
       "partners": [
         "Compañía de Turismo de Puerto Rico",
         "Instituto de Cultura Puertorriqueña",
-        "Oficina Regional de Turismo",
         "Oficinas municipales de turismo y cultura",
-        "Museo Afro Casa Silvana"
+        "Universidad Politécnica de Puerto Rico",
+        "Atlantic University",
+        "Crab Island Rum",
+        "Yabucoa Rum Company",
+        "Ron Caray"
       ],
-      "form_choice": "Ruta Patrimonial del Azúcar · Sugar Heritage Route"
+      "form_choice": "Ruta Patrimonial del Azúcar · Sugar Heritage Route",
+      "extra": [
+        {
+          "title_es": "Hoy y con la ruta",
+          "title_en": "Today and with the route",
+          "items_es": [
+            "**Hoy:** pocos atractivos naturales, un viaje de un día y un gasto que se va de la región.",
+            "**Con la ruta:** patrimonio vivo, estadías más largas y un gasto que circula entre los operadores locales."
+          ],
+          "items_en": [
+            "**Today:** a few natural attractions, a day trip and spending that leaves the region.",
+            "**With the route:** living heritage, longer stays and spending that circulates among local operators."
+          ]
+        },
+        {
+          "title_es": "Tres itinerarios para recorrer la Región Este",
+          "title_en": "Three itineraries across the Eastern Region",
+          "items_es": [
+            "**Ciudad del Azúcar · Yabucoa · medio día:** Hacienda La Lucía, Central Roig, Guarapo de Caña Piñita y caminata de arte urbano.",
+            "**Corredor del Azúcar · Loíza, Canóvanas y Juncos · día completo:** Batey de los Hermanos Ayala, Casa Museo Cortijo, Antigua Central de Canóvanas, Ron Caray, Restaurante El Tenedor y más.",
+            "**Isla del Azúcar · Vieques · 2 a 3 días:** Ruinas de la Central Playa Grande, Fortín Conde de Mirasol, Destilería Crab Island Rum, locomotoras Baldwin y más."
+          ],
+          "items_en": [
+            "**Sugar City · Yabucoa · half day:** Hacienda La Lucía, Central Roig, Guarapo de Caña Piñita and an urban art walk.",
+            "**Sugar Corridor · Loíza, Canóvanas and Juncos · full day:** Batey de los Hermanos Ayala, Casa Museo Cortijo, former Canóvanas Sugar Mill, Ron Caray, Restaurante El Tenedor and more.",
+            "**Sugar Island · Vieques · 2 to 3 days:** Central Playa Grande ruins, Fortín Conde de Mirasol, Crab Island Rum Distillery, Baldwin locomotives and more."
+          ],
+          "note_es": "El banco regional de activos sigue creciendo: Museo Afro Casa Silvana (Humacao), Faro Punta Tuna (Maunabo), Antiguas Vías del Tren (Las Piedras), Faro Las Croabas (Fajardo) y más sitios visitables que aún no están asignados a un itinerario.",
+          "note_en": "The regional asset bank keeps growing: Museo Afro Casa Silvana (Humacao), Punta Tuna Lighthouse (Maunabo), old railway lines (Las Piedras), Las Croabas Lighthouse (Fajardo) and more visitable sites not yet assigned to an itinerary.",
+          "wide": true
+        }
+      ]
     },
     {
       "id": "humacao-luquillo",
@@ -138,15 +162,17 @@
       "group_en": "Itineraries and clusters",
       "name_es": "Distrito Cultural de Humacao y Distrito Creativo de Luquillo",
       "name_en": "Humacao Cultural District and Luquillo Creative District",
-      "tagline_es": "El patrimonio de Humacao y la economía creativa de Luquillo, organizados como destinos con identidad propia.",
-      "tagline_en": "Humacao's heritage and Luquillo's creative economy, organized as destinations with their own identity.",
+      "tagline_es": "Más allá de El Yunque y sus playas: enalteciendo el Este creativo y cultural.",
+      "tagline_en": "Beyond El Yunque and its beaches: celebrating the East's creative and cultural life.",
       "body_es": [
-        "FPR trabaja con los municipios de Humacao y Luquillo en conceptos para agrupar sus activos culturales y creativos en destinos con marca e identidad.",
-        "La idea nace del Community Innovation Hub, que identificó la falta de marca y de organización de los activos como una barrera para el turismo en la región. Son conceptos en desarrollo."
+        "La identidad creativa y cultural de los cascos urbanos como vía para diversificar la oferta turística, repartir las visitas por la región e integrar a las comunidades en la cadena de valor del turismo.",
+        "Humacao Cultural y Luquillo Creativo: dos razones para extender la visita en el Este. Cada municipio parte de lo que ya existe: Luquillo organiza una economía creativa dispersa y Humacao activa un patrimonio histórico ya reconocido. Ambos responden al mismo problema, visitas concentradas en un atractivo cercano que no llegan al centro urbano, con el instrumento legal que cada uno tiene disponible.",
+        "La creación de distritos parte de una teoría de planificación de destinos conocida como clustering. Un clúster es una red de activos y servicios concentrados geográficamente, organizados bajo una marca y una gobernanza colectiva para facilitar la planificación participativa, las oportunidades de inversión, los servicios compartidos y el manejo del destino."
       ],
       "body_en": [
-        "FPR is working with the municipalities of Humacao and Luquillo on concepts that group their cultural and creative assets into destinations with their own brand and identity.",
-        "The idea grew out of the Community Innovation Hub, which found that weak branding and scattered assets hold back tourism in the region. These are concepts in development."
+        "The creative and cultural identity of town centers as a way to diversify the tourism offer, spread visits across the region and bring communities into the tourism value chain.",
+        "Cultural Humacao and Creative Luquillo: two reasons to extend a visit to the East. Each municipality starts from what already exists: Luquillo organizes a scattered creative economy and Humacao activates already-recognized historic heritage. Both respond to the same problem, visits concentrated at a nearby attraction that never reach the town center, using the legal tool each one has available.",
+        "Creating districts builds on a destination planning approach known as clustering. A cluster is a geographically concentrated network of assets and services, organized under a shared brand and collective governance to support participatory planning, investment opportunities, shared services and destination management."
       ],
       "image": {
         "src": "assets/img/humacao-luquillo.jpg",
@@ -161,14 +187,7 @@
         "label_es": "Community Innovation Hub (en inglés)",
         "label_en": "Community Innovation Hub"
       },
-      "challenge_es": "Humacao y Luquillo reciben visitantes que pasan por el pueblo sin detenerse, y buena parte del gasto no llega a artistas, artesanos, cocineros ni organizaciones culturales locales. Sus activos están dispersos y sin una identidad común, así que el visitante no tiene una razón para quedarse ni para gastar en el pueblo.",
-      "approach_es": [
-        "En Humacao, organiza como destino la Zona Histórica y las siete propiedades del Registro Nacional, junto con la programación cultural, en coordinación con el Instituto de Cultura Puertorriqueña.",
-        "En Luquillo, conecta la economía creativa alrededor del casco urbano histórico y el corredor de La Pared, bajo el marco de industrias creativas de Puerto Rico.",
-        "Elabora un mapa de activos con GIS para cada pueblo, organizado por grupos (clústers).",
-        "Redacta un informe de viabilidad sobre la ruta legal para designar cada distrito.",
-        "Clasifica los negocios según estén listos o necesiten inversión, analiza la cadena de valor y prepara perfiles de identidad que sirvan de base para la marca del distrito."
-      ],
+      "challenge_es": "La marca regional deja fuera la riqueza cultural y creativa del Este y sobrecarga los activos ancla. La promoción institucional de la Región Este, denominada «Porta del Mar» por la Compañía de Turismo, se centra en sus activos naturales, en particular El Yunque y la franja costera, incluida Playa Flamenco. Esa imagen da más visibilidad a atracciones que ya reciben muchas visitas y tienen una capacidad de carga limitada. El visitante que llega atraído por ellas suele quedarse solo el día y no pernocta, lo que deja fuera a los centros urbanos cercanos y a la oferta cultural y comercial que ahí existe.",
       "progress_es": [
         "Septiembre de 2024: FPR firma un memorando de entendimiento con el Municipio de Luquillo para crear un Consejo de Custodia de la Región Este.",
         "Mayo de 2025: el Community Innovation Hub celebra Encuentro Este en el Centro de Bellas Artes Ángel \"Lito\" Peña, en Humacao, y usa la metodología de backcasting para trazar el camino hacia una región más conectada y sostenible.",
@@ -177,14 +196,7 @@
       "next_es": [
         "Entregar para enero de 2027 el mapa de activos, el informe de viabilidad de designación, el inventario de negocios con análisis de cadena de valor y los perfiles de identidad de cada distrito."
       ],
-      "challenge_en": "Humacao and Luquillo receive visitors who pass through without stopping, and much of the spending does not reach local artists, makers, cooks or cultural organizations. Their assets are scattered and lack a shared identity, so visitors have no reason to stay or to spend in town.",
-      "approach_en": [
-        "In Humacao, organizes the Historic Zone and seven National Register properties as a destination, with cultural programming, in coordination with the Institute of Puerto Rican Culture.",
-        "In Luquillo, connects the creative economy around the historic town center and the La Pared corridor, under Puerto Rico's creative industries framework.",
-        "Builds a GIS asset map for each town, organized by cluster.",
-        "Writes a feasibility report on the legal path to designate each district.",
-        "Sorts businesses by readiness (ready or needing investment), analyzes the value chain and prepares identity profiles as the basis for each district's brand."
-      ],
+      "challenge_en": "The regional brand leaves out the East's cultural and creative wealth and overloads its anchor assets. Institutional promotion of the Eastern Region, branded \"Porta del Mar\" by the Tourism Company, centers on natural assets, especially El Yunque and the coastline, including Flamenco Beach. That image boosts attractions that already receive many visitors and have limited carrying capacity. Visitors drawn by them usually stay only for the day, leaving out nearby town centers and the cultural and commercial offer there.",
       "progress_en": [
         "September 2024: FPR signs a memorandum of understanding with the Municipality of Luquillo to create a Stewardship Council for the Eastern Region.",
         "May 2025: the Community Innovation Hub holds Encuentro Este at the Ángel \"Lito\" Peña Arts Center in Humacao and uses backcasting to outline pathways toward a more connected and sustainable region.",
@@ -200,29 +212,117 @@
       ],
       "stats": [
         {
+          "value": "$111 vs. $354",
+          "label_es": "gasto diario promedio del visitante de día, frente al que pernocta",
+          "label_en": "average daily spending of a day visitor, compared with an overnight visitor"
+        },
+        {
           "value": "7",
-          "label_es": "propiedades del Registro Nacional de Lugares Históricos en Humacao",
-          "label_en": "National Register of Historic Places properties in Humacao",
+          "label_es": "propiedades del Registro Nacional de Lugares Históricos en el centro urbano de Humacao",
+          "label_en": "National Register of Historic Places properties in Humacao's town center",
           "source": "FPR, 15th anniversary agenda"
         }
       ],
-      "form_choice": "Distritos de Humacao y Luquillo · Humacao and Luquillo Districts"
+      "form_choice": "Distritos de Humacao y Luquillo · Humacao and Luquillo Districts",
+      "extra": [
+        {
+          "title_es": "Luquillo · Distrito Creativo",
+          "title_en": "Luquillo · Creative District",
+          "text_es": "De tráfico de paso a economía local. Luquillo ya tiene, sin organizar, la economía que un distrito creativo busca formalizar: surf, gastronomía, música y oficios artísticos concentrados en su centro urbano. No se trata de crear algo nuevo, sino de ponerle nombre, límite y gobernanza a lo que el pueblo ya produce.",
+          "text_en": "From pass-through traffic to a local economy. Luquillo already has, unorganized, the economy a creative district seeks to formalize: surf, food, music and artistic trades concentrated in its town center. It isn't about creating something new, but about giving a name, boundary and governance to what the town already produces.",
+          "items_es": [
+            "**Activos:** el centro urbano y el malecón de La Pared reúnen una economía creativa activa pero dispersa: cultura de surf, gastronomía, artes visuales, música y vida nocturna, hoy sin marca ni gobernanza en común.",
+            "**Punto de presión cercano:** El Yunque y Los Kioskos concentran la mayoría de los visitantes que pasan por Luquillo, que llegan, consumen poco y regresan el mismo día sin entrar al centro del pueblo.",
+            "**Marco legal:** la designación se tramitaría bajo la Carta Circular DDEC 2026-003 o una ordenanza municipal, un camino que todavía no tiene un proceso de solicitud definido. Luquillo sería el primer distrito creativo de iniciativa municipal y base comunitaria en Puerto Rico.",
+            "**Área geográfica:** el centro urbano del Barrio Pueblo y el malecón de La Pared, donde ya se concentran los negocios y espacios públicos relevantes.",
+            "**Qué conlleva:** un cuerpo de gobernanza propio, una marca colectiva y acceso a solicitar los decretos de industrias creativas de la Ley 60, sin que ningún negocio pierda su independencia."
+          ],
+          "items_en": [
+            "**Assets:** the town center and La Pared boardwalk hold an active but scattered creative economy: surf culture, food, visual arts, music and nightlife, today with no shared brand or governance.",
+            "**Nearby pressure point:** El Yunque and Los Kioskos draw most visitors passing through Luquillo, who arrive, spend little and leave the same day without entering the town center.",
+            "**Legal framework:** designation would go through DDEC Circular Letter 2026-003 or a municipal ordinance, a path that doesn't yet have a defined application process. Luquillo would be Puerto Rico's first municipally initiated, community-based creative district.",
+            "**Area:** the Barrio Pueblo town center and La Pared boardwalk, where the relevant businesses and public spaces are already concentrated.",
+            "**What it brings:** its own governance body, a shared brand and access to apply for Act 60 creative industry decrees, with no business losing its independence."
+          ]
+        },
+        {
+          "title_es": "Humacao · Distrito Cultural",
+          "title_en": "Humacao · Cultural District",
+          "text_es": "Del patrimonio disperso a un circuito histórico. Humacao se propone como distrito cultural, y no creativo, porque ya cuenta con algo que Luquillo no tiene: un patrimonio histórico reconocido oficialmente. El reto no es identificar el activo, sino conectarlo con una economía visitante que hoy lo rodea sin tocarlo.",
+          "text_en": "From scattered heritage to a historic circuit. Humacao is proposed as a cultural district, not a creative one, because it already has something Luquillo lacks: officially recognized historic heritage. The challenge isn't identifying the asset but connecting it to a visitor economy that today surrounds it without touching it.",
+          "items_es": [
+            "**Activos:** siete propiedades del centro urbano están catalogadas en el Registro Nacional de Lugares Históricos, un inventario patrimonial que hoy no se conecta con la economía del municipio.",
+            "**Punto de presión cercano:** Palmas del Mar concentra a los visitantes de mayor gasto del municipio, pero su modelo de resort autocontenido hace que ese gasto casi nunca llegue al centro histórico.",
+            "**Marco legal:** la designación se tramita bajo la Ley de Zonas Históricas, un camino ya establecido en Puerto Rico con precedentes como el de Ponce, lo que reduce el riesgo del proceso frente al de Luquillo.",
+            "**Área geográfica:** el centro urbano histórico de Humacao, donde se concentran las siete propiedades catalogadas.",
+            "**Qué conlleva:** acceso a créditos contributivos por restauración histórica y una alianza formal con la UPR en Humacao para la investigación y gestión cultural del distrito."
+          ],
+          "items_en": [
+            "**Assets:** seven properties in the town center are listed on the National Register of Historic Places, a heritage inventory that today has no link to the municipality's economy.",
+            "**Nearby pressure point:** Palmas del Mar draws the municipality's highest-spending visitors, but its self-contained resort model means that spending rarely reaches the historic center.",
+            "**Legal framework:** designation goes through the Historic Zones Act, an established path in Puerto Rico with precedents such as Ponce, which lowers the risk compared with Luquillo.",
+            "**Area:** Humacao's historic town center, where the seven listed properties are concentrated.",
+            "**What it brings:** access to historic restoration tax credits and a formal partnership with UPR Humacao for research and cultural management of the district."
+          ]
+        },
+        {
+          "title_es": "Lo que define a un distrito",
+          "title_en": "What defines a district",
+          "text_es": "Cuando los atractivos, los restaurantes, los operadores turísticos y los productores locales trabajan de la mano, logran experiencias más completas para el visitante y se apoyan entre sí compartiendo recursos, conocimiento e infraestructura. El resultado es una economía turística más fuerte, inclusiva y con raíces en la comunidad.",
+          "text_en": "When attractions, restaurants, tour operators and local producers work hand in hand, they create fuller experiences for visitors and support one another by sharing resources, knowledge and infrastructure. The result is a stronger, more inclusive tourism economy rooted in the community.",
+          "items_es": [
+            "**Gobernanza compartida:** un cuerpo comunitario administra el distrito, no un solo dueño o institución.",
+            "**Caminabilidad:** el límite conecta todo el distrito a pie, sin cortes en la trama urbana.",
+            "**Marca colectiva:** los negocios del distrito comparten una sola identidad, en vez de promoverse cada uno por su cuenta.",
+            "**Concentración de activos:** la densidad de negocios y espacios culturales dentro del límite justifica la designación.",
+            "**Incentivos por designación:** la designación abre acceso a decretos, créditos o fondos que hoy no existen para el municipio.",
+            "**Modelo comunitario:** el distrito se construye desde el municipio y sus negocios hacia arriba; no se impone desde una oficina central."
+          ],
+          "items_en": [
+            "**Shared governance:** a community body runs the district, not a single owner or institution.",
+            "**Walkability:** the boundary connects the whole district on foot, with no breaks in the urban fabric.",
+            "**Shared brand:** district businesses share one identity instead of each promoting itself alone.",
+            "**Concentration of assets:** the density of businesses and cultural spaces within the boundary justifies the designation.",
+            "**Designation incentives:** designation opens access to decrees, credits or funds the municipality doesn't have today.",
+            "**Community model:** the district is built from the municipality and its businesses up, not imposed by a central office."
+          ],
+          "wide": true
+        }
+      ],
+      "steps": {
+        "title_es": "El camino hacia la designación formal",
+        "title_en": "The path to formal designation",
+        "items_es": [
+          "Precedentes legales e internacionales",
+          "Inserción comunitaria y municipal",
+          "Inventario de activos de identidad creativa o cultural",
+          "Marca colectiva y promoción",
+          "Petición de designación"
+        ],
+        "items_en": [
+          "Legal and international precedents",
+          "Community and municipal engagement",
+          "Inventory of creative and cultural identity assets",
+          "Shared brand and promotion",
+          "Designation petition"
+        ]
+      }
     },
     {
       "id": "central-roig",
       "group_es": "Itinerarios y clústers · Manejo de activos",
       "group_en": "Itineraries and clusters · Asset management",
-      "name_es": "Central Roig: caso de estudio y guías para activar el patrimonio",
-      "name_en": "Central Roig Case Study + Guidelines for Heritage Activation",
-      "tagline_es": "Lo que aprendemos en Yabucoa para dar nueva vida a sitios patrimoniales.",
-      "tagline_en": "What we are learning in Yabucoa to give heritage sites new life.",
+      "name_es": "Guía para reactivar activos patrimoniales",
+      "name_en": "Guide to reactivating heritage assets",
+      "tagline_es": "Del deterioro a la operación: una guía para reactivar y co-manejar los activos patrimoniales de la Región Este.",
+      "tagline_en": "From decay to operation: a guide to reactivating and co-managing the Eastern Region's heritage assets.",
       "body_es": [
-        "La Central Roig, en Yabucoa, es uno de los centrales azucareros que el equipo de FPR visitó al diseñar la Ruta Patrimonial del Azúcar.",
-        "FPR la estudia como caso para preparar guías que ayuden a municipios y comunidades a activar sitios patrimoniales de forma sostenible. El trabajo forma parte del Community Innovation Hub."
+        "La Región Este tiene 269 activos patrimoniales documentados, lugares que cuentan la historia de la región, y muchos están cerrados, deteriorados o sin plan de manejo. Esta guía reúne lo que hace falta para reactivarlos: quiénes participan, cómo se organizan en el manejo compartido y de dónde sale el dinero para que se mantengan. Nació de un caso real y está hecha para cualquier activo de la región.",
+        "Es una guía práctica, en lenguaje accesible, para que municipios, agencias, comunidades y operadores privados reactiven juntos un activo en desuso y lo conviertan en un motor de desarrollo económico para su municipio y las comunidades aledañas."
       ],
       "body_en": [
-        "Central Roig, in Yabucoa, is one of the sugar mills the FPR team visited while designing the Sugar Heritage Route.",
-        "FPR studies it as a case to prepare guidelines that help municipalities and communities activate heritage sites sustainably. The work is part of the Community Innovation Hub."
+        "The Eastern Region has 269 documented heritage assets, places that tell the region's story, and many are closed, deteriorating or without a management plan. This guide brings together what it takes to reactivate them: who takes part, how they organize shared management and where the money comes from to keep them going. It grew out of a real case and is built for any asset in the region.",
+        "It is a practical guide, in plain language, so municipalities, agencies, communities and private operators can reactivate an unused asset together and turn it into an engine of economic development for their municipality and nearby communities."
       ],
       "image": {
         "src": "assets/img/central-roig.jpg",
@@ -237,37 +337,29 @@
         "label_es": "La Ruta Patrimonial del Azúcar (en inglés)",
         "label_en": "The Sugar Heritage Route"
       },
-      "challenge_es": "Muchos sitios patrimoniales de la isla tienen valor reconocido pero siguen sin uso. Suelen quedarse así más por razones de gobernanza y de toma de decisiones que por falta de interés o de fondos: la propiedad es compleja, las partes no se alinean y no hay quien sostenga el sitio después de la inversión inicial.",
-      "approach_es": [
-        "Estudia la Central Roig, en Yabucoa, como caso concreto: fue uno de los últimos centrales azucareros en operar en Puerto Rico y cerró en 2001, tras un siglo como ancla económica con empleos, vivienda, una escuela y servicios médicos.",
-        "Analiza quién tiene autoridad sobre el sitio, cómo se oye la voz de la comunidad y cómo se alinean inversionistas, conservacionistas, el municipio y los vecinos.",
-        "Examina cómo lograr una gobernanza duradera y una sostenibilidad financiera una vez pasa el dinero inicial.",
-        "Convierte lo aprendido en un marco práctico y en guías que otros municipios y comunidades puedan aplicar a sitios parecidos.",
-        "Conecta el sitio con los itinerarios, clústers y estrategias de inversión de la región."
-      ],
+      "challenge_es": "Demasiado patrimonio con candado. Las causas se repiten de un lugar a otro: jurisdicciones que se superponen, pocos fondos para mantenimiento y capacidad limitada, tanto en los municipios como en las agencias, para manejar estos activos. Cada año que un activo permanece cerrado, la región pierde ingresos, empleos y memoria histórica. Por ejemplo, 5 de las 6 antiguas centrales azucareras de la Ruta Patrimonial del Azúcar están cerradas o tienen acceso inadecuado. Solo la antigua Central Azucarera de Canóvanas está abierta y cuenta con un plan de manejo.",
       "progress_es": [
-        "El equipo de FPR visitó las ruinas de la Central Roig mientras diseñaba la Ruta Patrimonial del Azúcar (nota pública de marzo de 2026).",
-        "El caso de estudio está registrado como un producto de conocimiento del Community Innovation Hub, en su reto de manejo sostenible de activos naturales y culturales.",
-        "FPR ya lo trabaja con el Municipio de Yabucoa, el Instituto de Cultura Puertorriqueña y la Compañía de Turismo."
+        "La guía surge de un caso de estudio sobre la reactivación de la Central Roig en Yabucoa, cerrada hace 25 años tras 106 años de operación.",
+        "FPR lideró la investigación: una revisión de literatura local e internacional y más de 20 entrevistas con representantes del sector público, expertos en patrimonio, agencias culturales, residentes y posibles operadores privados.",
+        "Las lecciones de ese caso son el punto de partida; los pasos sirven para otros activos en desuso de la región, sean culturales o naturales."
       ],
       "next_es": [
-        "Completar el caso de estudio y las guías como la solución de manejo de activos del Community Innovation Hub."
+        "Publicar la guía en la web de FPR, disponible para cualquier municipio, agencia u organización.",
+        "Producir un video educativo que explique la guía en pocos minutos.",
+        "Ofrecer talleres regionales para equipos municipales, agencias y organizaciones comunitarias, que también abran un diálogo sobre los retos y oportunidades de la activación patrimonial.",
+        "Hacer un primer piloto con el Municipio de Yabucoa y la Central Roig."
       ],
-      "challenge_en": "Many heritage sites across the island have recognized value but remain unused. They tend to stay that way more because of governance and decision-making than for lack of interest or funding: ownership is complex, the parties are not aligned and no one sustains the site after the initial investment.",
-      "approach_en": [
-        "Studies Central Roig, in Yabucoa, as a concrete case: one of the last sugar mills to operate in Puerto Rico, it closed in 2001 after a century as an economic anchor providing jobs, housing, a school and medical services.",
-        "Analyzes who holds authority over the site, how the community's voice is heard and how investors, preservationists, the municipality and neighbors are aligned.",
-        "Examines how to build durable governance and financial sustainability after the initial funding ends.",
-        "Turns what it learns into a practical framework and guidelines that other municipalities and communities can apply to similar sites.",
-        "Links the site to the region's itineraries, clusters and investment strategies."
-      ],
+      "challenge_en": "Too much heritage under lock and key. The causes repeat from place to place: overlapping jurisdictions, little funding for maintenance and limited capacity, in both municipalities and agencies, to manage these assets. Every year an asset stays closed, the region loses income, jobs and historical memory. For example, 5 of the 6 former sugar mills on the Sugar Heritage Route are closed or have inadequate access. Only the former Canóvanas Sugar Mill is open and has a management plan.",
       "progress_en": [
-        "The FPR team visited the Central Roig ruins while designing the Sugar Heritage Route (public post, March 2026).",
-        "The case study is registered as a Community Innovation Hub knowledge product, under its challenge on sustainable management of natural and cultural assets.",
-        "FPR already works on it with the Municipality of Yabucoa, the Institute of Puerto Rican Culture and the Puerto Rico Tourism Company."
+        "The guide grew out of a case study on reactivating Central Roig in Yabucoa, closed 25 years ago after 106 years of operation.",
+        "FPR led the research: a review of local and international literature and more than 20 interviews with public sector representatives, heritage experts, cultural agencies, residents and potential private operators.",
+        "The lessons from that case are the starting point; the steps apply to other unused assets in the region, whether cultural or natural."
       ],
       "next_en": [
-        "Complete the case study and guidelines as the Community Innovation Hub's asset management solution."
+        "Publish the guide on FPR's website, available to any municipality, agency or organization.",
+        "Produce a short educational video that explains the guide in a few minutes.",
+        "Hold regional workshops for municipal teams, agencies and community organizations, which will also open a dialogue on the challenges and opportunities of heritage activation.",
+        "Run a first pilot with the Municipality of Yabucoa and Central Roig."
       ],
       "partners": [
         "Municipio de Yabucoa",
@@ -276,29 +368,128 @@
       ],
       "stats": [
         {
-          "value": "2001",
-          "label_es": "año en que cerró la Central Roig, tras un siglo de operación",
-          "label_en": "year Central Roig closed, after a century of operation",
-          "source": "FPR, 15th anniversary agenda"
+          "value": "269",
+          "label_es": "activos patrimoniales documentados en la Región Este",
+          "label_en": "documented heritage assets in the Eastern Region"
+        },
+        {
+          "value": "45,000",
+          "label_es": "personas en tres días en la Agroferia de la Antigua Central de Canóvanas (2026)",
+          "label_en": "people in three days at the Agroferia at the former Canóvanas mill (2026)"
+        },
+        {
+          "value": "+117%",
+          "label_es": "subieron en un año los ingresos de los sitios históricos y reservas del Fideicomiso de Conservación, de $1.34 a $2.91 millones (2023–2024)",
+          "label_en": "growth in one year in revenue at Conservation Trust historic sites and reserves, from $1.34 to $2.91 million (2023–2024)",
+          "source": "Fideicomiso de Conservación de Puerto Rico"
+        },
+        {
+          "value": "61%",
+          "label_es": "de los adultos en Puerto Rico dice que en su municipio no hay suficientes oportunidades recreativas",
+          "label_en": "of adults in Puerto Rico say their municipality lacks enough recreational opportunities"
         }
       ],
-      "form_choice": "Central Roig"
+      "form_choice": "Central Roig",
+      "steps": {
+        "title_es": "Qué cubre la guía",
+        "title_en": "What the guide covers",
+        "unordered": true,
+        "items_es": [
+          "Gobernanza y capacidad institucional",
+          "Interpretación del patrimonio y designaciones",
+          "Participación de residentes y de la diáspora",
+          "Enfoque de paisaje cultural",
+          "Sostenibilidad económica y financiamiento"
+        ],
+        "items_en": [
+          "Governance and institutional capacity",
+          "Heritage interpretation and designations",
+          "Participation of residents and the diaspora",
+          "Cultural landscape approach",
+          "Economic sustainability and funding"
+        ]
+      },
+      "extra": [
+        {
+          "title_es": "No hay que esperar la restauración completa",
+          "title_en": "No need to wait for full restoration",
+          "text_es": "Un activo puede empezar a rendir antes de estar restaurado del todo. La guía ayuda a decidir qué abrir primero y cómo hacerlo: un evento, un recorrido guiado o un espacio seguro pueden generar visitas e ingresos mientras avanza la rehabilitación mayor.",
+          "text_en": "An asset can start paying off before it is fully restored. The guide helps decide what to open first and how: an event, a guided tour or a safe space can bring visits and income while major rehabilitation moves forward.",
+          "items_es": [
+            "**Hoy:** cerrado, deteriorado y sin plan. Varias entidades con jurisdicción y ninguna con los recursos para actuar sola.",
+            "**Mañana:** abierto por etapas, con un acuerdo de co-manejo, un operador, ingresos propios y la comunidad dentro."
+          ],
+          "items_en": [
+            "**Today:** closed, deteriorating and without a plan. Several entities with jurisdiction and none with the resources to act alone.",
+            "**Tomorrow:** open in stages, with a co-management agreement, an operator, its own income and the community involved."
+          ]
+        },
+        {
+          "title_es": "Alcance",
+          "title_en": "Scope",
+          "items_es": [
+            "**Esta guía, patrimonio tangible:** centrales azucareras y otro patrimonio industrial; haciendas y estructuras agrícolas históricas; faros y patrimonio marítimo; edificios históricos como alcaldías, teatros, escuelas y antiguas estaciones; plazas y cascos urbanos históricos.",
+            "**Próximo paso:** ampliarla a activos naturales (reservas, playas, veredas y áreas costeras) y al patrimonio cultural inmaterial (oficios, música, gastronomía y fiestas tradicionales), a partir de lo aprendido con el patrimonio tangible."
+          ],
+          "items_en": [
+            "**This guide, tangible heritage:** sugar mills and other industrial heritage; historic haciendas and farm structures; lighthouses and maritime heritage; historic buildings such as city halls, theaters, schools and old stations; historic plazas and town centers.",
+            "**Next step:** extend it to natural assets (reserves, beaches, trails and coastal areas) and intangible cultural heritage (crafts, music, food and traditional festivals), building on what was learned with tangible heritage."
+          ]
+        },
+        {
+          "title_es": "Nadie tiene que empezar de cero",
+          "title_en": "No one has to start from scratch",
+          "items_es": [
+            "**Los municipios y las agencias:** precedentes probados y pasos concretos que pueden adaptar a sus propios activos, con menos incertidumbre al decidir.",
+            "**Las comunidades:** un lugar en la mesa, como portadoras de conocimiento y custodias de su patrimonio.",
+            "**Los operadores y negocios:** reglas claras para colaborar con el sector público y cívico.",
+            "**La región:** más atractivos abiertos y listos para recibir visitantes."
+          ],
+          "items_en": [
+            "**Municipalities and agencies:** proven precedents and concrete steps they can adapt to their own assets, with less uncertainty when deciding.",
+            "**Communities:** a seat at the table, as knowledge holders and stewards of their heritage.",
+            "**Operators and businesses:** clear rules for working with the public and civic sectors.",
+            "**The region:** more attractions open and ready for visitors."
+          ]
+        },
+        {
+          "title_es": "Un activo abierto rinde",
+          "title_en": "An open asset pays off",
+          "text_es": "La Antigua Central Azucarera de Canóvanas cerró en 1965. El municipio recibió sus terrenos en 2014 y la abrió al público en 2023. En 2026, su Agroferia y «Pumpkin Patch» anual recibió 45,000 personas en tres días y, por primera vez con boletos de $2.50 a $5, pudo generar entre $110,000 y $225,000 en entradas, con cientos de empresarios locales de gastronomía y agricultura, artesanos y músicos.",
+          "text_en": "The former Canóvanas Sugar Mill closed in 1965. The municipality received its land in 2014 and opened it to the public in 2023. In 2026, its annual Agroferia and Pumpkin Patch drew 45,000 people in three days and, charging $2.50 to $5 for the first time, could generate between $110,000 and $225,000 in admissions, with hundreds of local food and farm businesses, artisans and musicians taking part.",
+          "items_es": [
+            "**Cerrar cuesta:** los nueve años que la Central de Canóvanas estuvo cerrada bajo titularidad municipal fueron nueve años sin esas visitas, sin esos negocios y sin su impacto económico.",
+            "**Más visitantes, más negocio local:** en la región, 427 guías turísticos certificados, artesanos, agricultores y 21 alojamientos endosados por la Compañía de Turismo dependen de atractivos abiertos y listos para recibir visitantes.",
+            "**Más espacios para la gente:** más de 400,000 residentes de los 15 municipios del Este tendrían acceso a nuevos espacios de recreación, cultura e historia.",
+            "**Inversión que regresa a la comunidad:** la activación puede atraer inversión para atender necesidades que las propias comunidades han documentado, como alumbrado, seguridad vial y manejo de inundaciones, con medidas para evitar el desplazamiento.",
+            "**Memoria que se protege:** los activos abiertos protegerían la historia del azúcar, como la herencia laboral afropuertorriqueña de la región, y reconocerían a las comunidades con memoria viva de las centrales como portadoras de conocimiento y custodias de su patrimonio."
+          ],
+          "items_en": [
+            "**Closing has a cost:** the nine years the Canóvanas mill stayed closed under municipal ownership were nine years without those visits, those businesses and their economic impact.",
+            "**More visitors, more local business:** in the region, 427 certified tour guides, artisans, farmers and 21 lodgings endorsed by the Tourism Company depend on attractions that are open and ready for visitors.",
+            "**More spaces for people:** more than 400,000 residents of the East's 15 municipalities would gain access to new spaces for recreation, culture and history.",
+            "**Investment that returns to the community:** activation can attract investment for needs communities themselves have documented, such as lighting, road safety and flood management, with measures to prevent displacement.",
+            "**Memory that is protected:** open assets would protect the history of sugar, such as the region's Afro-Puerto Rican labor heritage, and recognize communities with living memory of the mills as knowledge holders and stewards of their heritage."
+          ],
+          "wide": true
+        }
+      ]
     },
     {
       "id": "baseline",
       "group_es": "Manejo de activos",
       "group_en": "Asset management",
-      "name_es": "Herramienta de línea base",
-      "name_en": "Baseline Tool",
-      "tagline_es": "Medir con criterios comunes el estado de los activos naturales y patrimoniales de la Región Este.",
-      "tagline_en": "Measuring the condition of the Eastern Region's natural and heritage assets with common criteria.",
+      "name_es": "Asset Watch PR",
+      "name_en": "Asset Watch PR",
+      "tagline_es": "Un sistema de información al servicio de quienes cuidan, gestionan e invierten en los recursos naturales y culturales de la Región Este.",
+      "tagline_en": "An information system for those who care for, manage and invest in the Eastern Region's natural and cultural resources.",
       "body_es": [
-        "La línea base es una herramienta de FPR para levantar y evaluar el estado de playas, áreas protegidas, sitios históricos y ruinas de la Región Este.",
-        "Sus resultados se verán en mapas y ayudarán a municipios y comunidades a decidir dónde invertir y cómo manejar mejor cada sitio."
+        "Asset Watch PR es la herramienta que desarrolló FPR para establecer una línea base regional de activos naturales, culturales y relacionados con el turismo. Evalúa cada activo con criterios adaptados a su tipo y organiza información cualitativa y geoespacial para crear una visión comparable de su condición y manejo. Su diseño metodológico incorpora referentes internacionales.",
+        "De un universo de 262 activos en los 15 municipios del Este, se seleccionó una muestra aleatoria estratificada de cerca de 171, distribuida por tipo de activo y por municipio. El instrumento funciona en ArcGIS Survey123: recoge información georreferenciada, trabaja sin conexión en el campo y adapta las preguntas al tipo de activo. Los datos se integran a ArcGIS Online para su análisis y representación en mapas."
       ],
       "body_en": [
-        "The Baseline is an FPR tool to survey and assess the condition of beaches, protected areas, historic sites and ruins across the Eastern Region.",
-        "Results will appear on maps and help municipalities and communities decide where to invest and how to manage each site better."
+        "Asset Watch PR is the tool FPR developed to establish a regional baseline of natural, cultural and tourism-related assets. It assesses each asset with criteria adapted to its type and organizes qualitative and geospatial information into a comparable view of its condition and management. Its methodology draws on international references.",
+        "From a universe of 262 assets in the East's 15 municipalities, a stratified random sample of about 171 was selected, distributed by asset type and municipality. The instrument runs on ArcGIS Survey123: it collects geo-referenced data, works offline in the field and adapts questions to each asset type. Data feed into ArcGIS Online for analysis and mapping."
       ],
       "image": {
         "src": "assets/img/baseline.jpg",
@@ -308,39 +499,133 @@
         "caption_en": "Old train station, Las Piedras. Photo: Junoel Rosario Santana."
       },
       "presenters": "Zoralys, Vanessa Muler",
-      "challenge_es": "La Región Este tiene cientos de activos naturales y patrimoniales, pero no existe un inventario común que diga en qué condición está cada uno, quién lo maneja ni qué necesita. Sin esos datos, municipios y comunidades deciden dónde invertir sin evidencia comparable.",
-      "approach_es": [
-        "Cataloga los activos de la región en un universo único: costeros y marinos, terrestres, áreas protegidas, patrimonio cívico y arquitectónico, militar, religioso e industrial, ruinas y sitios arqueológicos.",
-        "Aplica un instrumento de evaluación modular, construido sobre marcos internacionales de manejo de áreas protegidas y patrimonio, que mide la condición, las amenazas, el manejo, el acceso y la consulta a la comunidad.",
-        "Recoge los datos en campo con formularios digitales que funcionan sin conexión, para llegar a lugares remotos como Vieques, Culebra y El Yunque.",
-        "Publica los resultados como capas en un mapa, con puntuaciones que permiten comparar los activos entre sí.",
-        "Usa esa evidencia para identificar clústers, prioridades de inversión y oportunidades de reactivar sitios patrimoniales."
-      ],
+      "challenge_es": "La Región Este cuenta con un patrimonio natural y cultural de gran valor, pero su gestión está distribuida entre municipios, agencias, organizaciones y comunidades con distintos niveles de información, recursos y capacidad. No existe una línea base regional común y comparable que permita conocer la condición de los activos, sus necesidades de manejo y mantenimiento, las amenazas que enfrentan, quién responde por ellos y qué capacidad existe para sostenerlos a largo plazo. Sin esa evidencia compartida, es difícil establecer prioridades, coordinar responsabilidades y dirigir recursos e inversiones hacia donde más se necesitan.",
       "progress_es": [
         "Septiembre de 2026: preparados el universo de activos, la clasificación por categorías y el instrumento de evaluación, y elegida la plataforma de recolección de datos en campo.",
         "La herramienta ya sirve de base a otros proyectos de FPR, como los distritos de Humacao y Luquillo y el caso de la Central Roig."
       ],
       "next_es": [
-        "Evaluar los activos en campo por zonas (Culebra y Vieques; Fajardo y Humacao; Yabucoa y Maunabo), depurar los datos y construir las capas del mapa.",
-        "Redactar el informe de línea base, previsto para finales de 2026."
+        "Completar y validar la línea base y el SAMF, y convertir sus resultados en herramientas prácticas de apoyo a decisiones: indicadores, perfiles, mapas y visualizaciones que permitan a municipios, agencias, comunidades y gestores identificar necesidades, orientar intervenciones y dar seguimiento a los activos a través del tiempo.",
+        "En una fase posterior, incorporar análisis económicos y financieros que relacionen las necesidades de mantenimiento e inversión con las fuentes de financiamiento, la capacidad operativa y el potencial de generación de valor."
       ],
-      "challenge_en": "The Eastern Region has hundreds of natural and heritage assets, but there is no common inventory saying what condition each is in, who manages it or what it needs. Without that data, municipalities and communities decide where to invest without comparable evidence.",
-      "approach_en": [
-        "Catalogs the region's assets in a single universe: coastal and marine, terrestrial, protected areas, civic and architectural heritage, military, religious and industrial heritage, ruins and archaeological sites.",
-        "Applies a modular assessment instrument, built on international frameworks for protected-area and heritage management, that measures condition, threats, management, access and community consultation.",
-        "Collects field data with digital forms that work offline, to reach remote places such as Vieques, Culebra and El Yunque.",
-        "Publishes results as map layers, with scores that allow assets to be compared with one another.",
-        "Uses that evidence to identify clusters, investment priorities and opportunities to reactivate heritage sites."
-      ],
+      "challenge_en": "The Eastern Region has highly valuable natural and cultural heritage, but its management is spread among municipalities, agencies, organizations and communities with different levels of information, resources and capacity. There is no shared, comparable regional baseline showing the condition of these assets, their management and maintenance needs, the threats they face, who is responsible for them and what capacity exists to sustain them over time. Without that shared evidence, it is hard to set priorities, coordinate responsibilities and direct resources and investment where they are needed most.",
       "progress_en": [
         "September 2026: asset universe, category classification and assessment instrument prepared, and the field data collection platform selected.",
         "The tool already underpins other FPR projects, including the Humacao and Luquillo districts and the Central Roig case."
       ],
       "next_en": [
-        "Assess assets in the field by area (Culebra and Vieques; Fajardo and Humacao; Yabucoa and Maunabo), clean the data and build the map layers.",
-        "Write the baseline report, planned for the end of 2026."
+        "Complete and validate the baseline and SAMF, and turn their results into practical decision-support tools: indicators, profiles, maps and visualizations that help municipalities, agencies, communities and managers identify needs, guide interventions and track assets over time.",
+        "In a later phase, add economic and financial analyses that link maintenance and investment needs with funding sources, operating capacity and value-creation potential."
       ],
-      "form_choice": "Herramienta de línea base · Baseline Tool"
+      "form_choice": "Herramienta de línea base · Baseline Tool",
+      "steps": {
+        "title_es": "Qué mide",
+        "title_en": "What it measures",
+        "unordered": true,
+        "items_es": [
+          "Condición física y mantenimiento pendiente",
+          "Administración y jurisdicción",
+          "Ingresos y financiamiento",
+          "Participación comunitaria",
+          "Calidad de la interpretación para visitas y recorridos guiados",
+          "Conservación del patrimonio y manejo ambiental",
+          "Preparación para recibir visitantes y enfrentar desastres",
+          "Vulnerabilidades a la vista"
+        ],
+        "items_en": [
+          "Physical condition and deferred maintenance",
+          "Administration and jurisdiction",
+          "Revenue and funding",
+          "Community participation",
+          "Quality of interpretation for visits and guided tours",
+          "Heritage conservation and environmental management",
+          "Readiness for visitors and disasters",
+          "Visible vulnerabilities"
+        ]
+      },
+      "extra": [
+        {
+          "title_es": "De la evidencia a la gestión",
+          "title_en": "From evidence to management",
+          "text_es": "Junto con Asset Watch PR, FPR desarrolla el Marco de Gestión Sostenible de Activos (SAMF), una metodología para que los activos de la región generen valor duradero para sus comunidades y su economía. Parte de una premisa: un activo no genera valor solo porque existe, se restaura o atrae visitantes. Su valor a largo plazo depende de que la administración, el cuidado comunitario, el financiamiento, el uso económico apropiado y la medición de resultados funcionen en conjunto. El SAMF guía a quienes administran cada activo para interpretar la evidencia y definir sus próximos pasos, con preguntas como:",
+          "text_en": "Alongside Asset Watch PR, FPR is developing the Sustainable Asset Management Framework (SAMF), a methodology to help the region's assets create lasting value for their communities and economy. It starts from one premise: an asset doesn't create value just because it exists, is restored or attracts visitors. Its long-term value depends on management, community stewardship, funding, appropriate economic use and measurement of results working together. SAMF guides each asset's managers in reading the evidence and defining next steps, with questions such as:",
+          "items_es": [
+            "¿El activo está listo para activarse o primero necesita estabilización o inversión?",
+            "¿Está claro quién es el dueño y quién lo administra?",
+            "¿La entidad que lo administra tiene la capacidad para sostenerlo?",
+            "¿Qué papel debe tener la comunidad?",
+            "¿Qué uso económico es apropiado para este activo?",
+            "¿Cómo se financiarán su operación y su mantenimiento?",
+            "¿Qué resultados se deben medir con el tiempo?"
+          ],
+          "items_en": [
+            "Is the asset ready to be activated, or does it first need stabilization or investment?",
+            "Is it clear who owns it and who manages it?",
+            "Does the managing entity have the capacity to sustain it?",
+            "What role should the community play?",
+            "What economic use is appropriate for this asset?",
+            "How will its operation and maintenance be funded?",
+            "What results should be measured over time?"
+          ],
+          "wide": true
+        },
+        {
+          "title_es": "Para quién es",
+          "title_en": "Who it's for",
+          "items_es": [
+            "Municipios",
+            "Agencias",
+            "Organizaciones y gestores de activos",
+            "Comunidades",
+            "Academia y aliados técnicos"
+          ],
+          "items_en": [
+            "Municipalities",
+            "Agencies",
+            "Organizations and asset managers",
+            "Communities",
+            "Academia and technical partners"
+          ]
+        },
+        {
+          "title_es": "Un activo bien gestionado rinde",
+          "title_en": "A well-managed asset pays off",
+          "text_es": "Asset Watch PR no crea valor económico por sí sola: señala dónde invertir primero y apoya decisiones de manejo más sólidas para que el patrimonio genere visitas, empleos e ingresos.",
+          "text_en": "Asset Watch PR doesn't create economic value on its own: it shows where to invest first and supports stronger management decisions so heritage can generate visits, jobs and income.",
+          "items_es": [
+            "**Herramientas con la misma visión:** organismos como el Banco Mundial y Historic England usan sistemas de evaluación del estado de los activos para decidir dónde dirigir fondos de conservación."
+          ],
+          "items_en": [
+            "**Tools with the same vision:** organizations such as the World Bank and Historic England use asset condition assessment systems to decide where to direct conservation funding."
+          ],
+          "note_es": "Con los análisis económicos del próximo paso, la herramienta podrá estimar los costos de mantener cada activo y apoyar decisiones de inversión.",
+          "note_en": "With the economic analyses planned as the next step, the tool will be able to estimate the cost of maintaining each asset and support investment decisions."
+        }
+      ],
+      "stats": [
+        {
+          "value": "262",
+          "label_es": "activos naturales y culturales en el universo regional; se evalúa una muestra de cerca de 171",
+          "label_en": "natural and cultural assets in the regional universe; a sample of about 171 is being assessed",
+          "source": "Asset Watch PR"
+        },
+        {
+          "value": "1 de 5",
+          "label_es": "activos evaluados genera algún ingreso, aunque la mayoría recibe visitas",
+          "label_en": "assessed assets generates any income, even though most receive visitors",
+          "source": "Asset Watch PR, Región Este"
+        },
+        {
+          "value": "$150.8M",
+          "label_es": "gastaron en comunidades cercanas 1,314,819 visitantes del Sitio Histórico Nacional de San Juan en 2023; ese gasto sostuvo 1,752 empleos",
+          "label_en": "spent in nearby communities by 1,314,819 visitors to San Juan National Historic Site in 2023; that spending supported 1,752 jobs"
+        },
+        {
+          "value": "£1.60",
+          "label_es": "de actividad económica adicional en 10 años por cada £1 de gasto público en regeneración basada en el patrimonio, en Inglaterra",
+          "label_en": "in additional economic activity over 10 years for each £1 of public spending on heritage-led regeneration in England"
+        }
+      ]
     },
     {
       "id": "ersv",
@@ -463,15 +748,17 @@
       "group_en": "Transportation and mobility",
       "name_es": "Movilidad como servicio (MaaS)",
       "name_en": "Mobility as a Service (MaaS)",
-      "tagline_es": "Una sola app para planificar, reservar y pagar viajes en la Región Este, sin depender del carro.",
-      "tagline_en": "One app to plan, book and pay for trips across the Eastern Region, without depending on a car.",
+      "tagline_es": "Una sola red para moverse por todo el Este.",
+      "tagline_en": "One network to get around the whole East.",
       "body_es": [
-        "En la Región Este casi todo el mundo depende del carro para llegar al trabajo. MaaS propone una plataforma que integre carros públicos, guaguas, trolleys, micromovilidad y transporte marítimo en una sola experiencia.",
-        "Con ella se podría ver en tiempo real dónde está el vehículo, planificar el viaje, comprar boletos y pagar. La meta es modernizar los carros públicos con tecnología, no reemplazarlos."
+        "MaaS une en una sola plataforma las guaguas municipales, los carros públicos y las lanchas de la región, con los choferes y operadores locales como su corazón. La persona ve todas sus opciones de transportación, reserva y paga en un mismo lugar, sin importar el operador ni el municipio.",
+        "**Servicio a demanda.** Carros públicos y operadores con licencia recogen a la persona donde termina la ruta y la llevan a su destino.",
+        "**Para todo el mundo.** Por aplicación, por teléfono o en persona; con pago en efectivo o tarjeta en los tramos con tarifa, y conexión con los servicios gratuitos para quienes califican. Vehículos accesibles."
       ],
       "body_en": [
-        "In the Eastern Region almost everyone depends on a car to get to work. MaaS proposes a platform that brings carros públicos, buses, trolleys, micromobility and maritime transport together in one experience.",
-        "Riders could see vehicles in real time, plan trips, buy tickets and pay. The goal is to modernize carros públicos with technology, not replace them."
+        "MaaS brings the region's municipal buses, carros públicos and ferries together on one platform, with local drivers and operators at its heart. People see all their transportation options, book and pay in one place, whatever the operator or municipality.",
+        "**On-demand service.** Carros públicos and licensed operators pick people up where the route ends and take them to their destination.",
+        "**For everyone.** By app, by phone or in person; cash or card for paid segments, with connections to free services for those who qualify. Accessible vehicles."
       ],
       "chart": {
         "title_es": "Cómo llegan al trabajo en la Región Este (% de trabajadores, 2023)",
@@ -491,22 +778,40 @@
       },
       "stats": [
         {
-          "value": "83%",
-          "label_es": "de quienes van en carro manejan solos",
-          "label_en": "of those who drive go alone",
-          "source": "ACS 5 años 2023"
+          "value": "$13.6M",
+          "label_es": "y 165 empleos representa cada 1% que crezca la economía del visitante del Este ($1,360 millones en gasto y 16.5 mil empleos directos en 2025)",
+          "label_en": "and 165 jobs: what each 1% of growth in the East's visitor economy represents ($1.36 billion in spending and 16,500 direct jobs in 2025)",
+          "source": "FPR, Visitor Economy Performance Model 2025"
         },
         {
-          "value": "10 de 15",
-          "label_es": "municipios de la Región Este todavía tienen carros públicos, con unas 42 rutas activas",
-          "label_en": "Eastern Region municipalities still have carros públicos, with about 42 active routes",
-          "source": "FPR, ERSV Transportation & Mobility (Feb. 2026)"
+          "value": "49%",
+          "label_es": "de los visitantes vino solo por el día y dejó 9% del gasto",
+          "label_en": "of visitors came for the day only and left 9% of spending",
+          "source": "FPR, Visitor Economy Performance Model 2025"
         },
         {
-          "value": "-18 %",
-          "label_es": "vehículos de carro público disponibles entre 2016 y 2021 (de 1,971 a 1,620)",
-          "label_en": "carro público vehicles available between 2016 and 2021 (from 1,971 to 1,620)",
-          "source": "DTPW, Plan 2050 MLRTP, citado por FPR"
+          "value": "$111 vs. $311",
+          "label_es": "gasta al día el visitante de un día, frente al que pernocta",
+          "label_en": "spent per day by a day visitor, compared with an overnight visitor",
+          "source": "FPR, Visitor Economy Performance Model 2025"
+        },
+        {
+          "value": "535 mil",
+          "label_es": "visitantes al año podrían usar transporte colectivo: 1.6 millones de viajes, suficientes para ocupar unos 98 vehículos de la región",
+          "label_en": "visitors a year could use shared transportation: 1.6 million trips, enough to keep about 98 of the region's vehicles busy",
+          "source": "Modelo de demanda de FPR (2025, estimado; supone que entre 10% y 30% de los visitantes usaría el servicio)"
+        },
+        {
+          "value": "~$2",
+          "label_es": "en beneficios devuelve cada dólar invertido en transporte público en ciudades pequeñas de Estados Unidos",
+          "label_en": "in benefits returned for each dollar invested in public transit in small U.S. cities",
+          "source": "Universidad Estatal de Dakota del Norte (2014)"
+        },
+        {
+          "value": "8 → 21",
+          "label_es": "vehículos: Wilson, Carolina del Norte, cambió sus guaguas por servicio a demanda en 2020 y hoy opera 21",
+          "label_en": "vehicles: Wilson, North Carolina, replaced its buses with on-demand service in 2020 and now runs 21",
+          "source": "Departamento de Transportación de Carolina del Norte (2025)"
         }
       ],
       "presenters": "Luis Morales",
@@ -515,39 +820,77 @@
         "label_es": "Pilar de transporte y movilidad (en inglés)",
         "label_en": "Transportation & Mobility pillar"
       },
-      "challenge_es": "En la Región Este, 89 % de quienes trabajan van en carro y solo 0.5 % usa transporte público. Los carros públicos, que por casi un siglo conectaron los pueblos, hoy operan en 10 de los 15 municipios, sin que el pasajero pueda ver dónde están ni el chofer dónde hay clientes. Eso hace difícil sostener el servicio.",
-      "approach_es": [
-        "Propone una sola aplicación para planificar, reservar, comprar boletos y pagar en carros públicos, trolleys municipales, taxis, ferris y servicios como Uber.",
-        "Equipa los carros públicos con transporte a la demanda: el pasajero pide el viaje por la app y la ruta se ajusta a la demanda real.",
-        "Da visibilidad en ambos sentidos: el pasajero ve el vehículo en tiempo real y el chofer ve dónde hay pasajeros.",
-        "Plantea centros de movilidad donde el pasajero cambia de ruta o de modo de transporte, y que también sirven de puerta de entrada para visitantes.",
-        "Permite tarifas por tipo de usuario y pases combinados: tarifas más bajas para residentes que viajan a diario y pases multimodales para visitantes."
-      ],
+      "challenge_es": "Hoy, moverse en el Este depende de tener auto. 9 de cada 10 trabajadores viajan en auto privado y entre 9% y 17% de los hogares de la región no tiene vehículo. Las rutas son escasas y rara vez conectan un municipio con otro; los trolleys y las lanchas pasan con poca frecuencia, y casi no hay micromovilidad ni información en línea de rutas, horarios y tarifas. Más de la mitad de los empleos de Humacao, Fajardo, Juncos, Las Piedras y Ceiba los ocupa gente de otro municipio, y el desempleo va de 4.2% en Juncos a 13.2% en Maunabo. Mantener un automóvil nuevo cuesta cerca de $11,600 al año en Estados Unidos, casi la mitad del ingreso mediano de un hogar en Puerto Rico. Para las familias sin auto, moverse entre pueblos abre empleos, citas médicas y estudios.",
       "progress_es": [
-        "Mar. 2025: trabajo de campo en el terminal de ferris de Ceiba con choferes de carros públicos. Encontró que ya no hay rutas fijas y que los choferes coordinan los viajes por teléfono.",
-        "Feb. 2026: el capítulo de Transportación y Movilidad de la Visión Estratégica del Este quedó redactado y hoy está publicado en la página del pilar.",
-        "El capítulo recomienda a Palmer, en Río Grande, como proyecto piloto principal de la estrategia regional de MaaS."
+        "**Escucha regional:** cuatro sesiones del Laboratorio Comunitario de Innovación en 2025 con residentes, municipios, operadores y expertos.",
+        "**Alianzas:** diálogo con ATI, el Negociado de Transporte, agencias federales y municipios.",
+        "**Política pública:** análisis de las leyes vigentes; la propuesta cabe en el marco legal actual.",
+        "**Datos y diseño:** línea base de movilidad, modelo de demanda de visitantes y diseño preliminar del piloto.",
+        "**Fondos federales:** ATTAIN (tecnología de transporte), sometida en agosto de 2026 por nueve municipios con Humacao como solicitante, en espera de decisión; y PROTECT (resiliencia de carreteras), para Naguabo y Luquillo."
       ],
       "next_es": [
-        "Diseñar el piloto: el capítulo propone empezar con programas de bajo costo en corredores prioritarios, con una plataforma comercial de MaaS."
+        "Validar la propuesta con residentes, choferes y municipios, y gestionar las autorizaciones del regulador.",
+        "Probar con pocos vehículos en un corredor.",
+        "Crecer por etapas a los 15 municipios, con conexiones a San Juan y Caguas.",
+        "La meta: una entidad regional de movilidad que planifique y opere el sistema para todo el Este."
       ],
-      "challenge_en": "In the Eastern Region, 89% of workers drive to work and only 0.5% use public transit. Carros públicos, which connected towns for nearly a century, now run in 10 of the 15 municipalities, and riders cannot see where they are and drivers cannot see where the riders are. That makes the service hard to sustain.",
-      "approach_en": [
-        "Proposes one app to plan, reserve, buy tickets and pay for carros públicos, municipal trolleys, taxis, ferries and services like Uber.",
-        "Equips carros públicos with demand-responsive transit: riders request trips in the app and routes adjust to actual demand.",
-        "Gives two-way visibility: riders see the vehicle in real time and drivers see where riders are waiting.",
-        "Plans mobility hubs where riders switch routes or modes, which also serve as gateways for visitors.",
-        "Allows fares by type of user and bundled passes: lower fares for residents who commute daily and multimodal passes for visitors."
-      ],
+      "challenge_en": "Today, getting around the East depends on having a car. 9 in 10 workers commute by private car, and 9% to 17% of the region's households have no vehicle. Routes are few and rarely connect one municipality to another; trolleys and ferries run infrequently, and there is almost no micromobility or online information on routes, schedules and fares. More than half of the jobs in Humacao, Fajardo, Juncos, Las Piedras and Ceiba are held by people from another municipality, and unemployment ranges from 4.2% in Juncos to 13.2% in Maunabo. Owning a new car costs about $11,600 a year in the United States, nearly half the median household income in Puerto Rico. For families without a car, getting between towns opens up jobs, medical appointments and school.",
       "progress_en": [
-        "Mar. 2025: field research at the Ceiba ferry terminal with carro público drivers. It found that fixed routes no longer exist and that drivers coordinate trips by phone.",
-        "Feb. 2026: the Transportation and Mobility chapter of the Eastern Region Strategic Vision was drafted and is now published on the pillar page.",
-        "The chapter recommends Palmer, in Río Grande, as the flagship pilot for the regional MaaS strategy."
+        "**Regional listening:** four Community Innovation Lab sessions in 2025 with residents, municipalities, operators and experts.",
+        "**Partnerships:** dialogue with ATI, the Transportation Bureau, federal agencies and municipalities.",
+        "**Public policy:** a review of current law found the proposal fits within the existing legal framework.",
+        "**Data and design:** a mobility baseline, a visitor demand model and a preliminary pilot design.",
+        "**Federal funding:** ATTAIN (transportation technology), submitted in August 2026 by nine municipalities with Humacao as applicant, awaiting a decision; and PROTECT (road resilience), for Naguabo and Luquillo."
       ],
       "next_en": [
-        "Design the pilot: the chapter proposes starting with low-cost programs on priority corridors, using a commercial MaaS platform."
+        "Validate the proposal with residents, drivers and municipalities, and obtain the regulator's authorizations.",
+        "Test with a few vehicles in one corridor.",
+        "Grow in stages to all 15 municipalities, with connections to San Juan and Caguas.",
+        "The goal: a regional mobility entity that plans and runs the system for the whole East."
       ],
-      "form_choice": "MaaS"
+      "form_choice": "MaaS",
+      "extra": [
+        {
+          "title_es": "Quiénes la harían posible, y quiénes pueden sumarse",
+          "title_en": "Who would make it possible, and who can join",
+          "items_es": [
+            "**Municipios:** un acuerdo regional que sumaría por etapas a los 15 pueblos.",
+            "**Choferes y operadores con licencia:** prestarían el servicio con sus propios vehículos, bajo un acuerdo diseñado con ellos.",
+            "**Universidad de Puerto Rico en Mayagüez:** ingeniería del sistema y evaluación independiente.",
+            "**Agencias de transporte:** autorizarían la operación e integrarían la lancha y las guaguas interurbanas.",
+            "**Foundation for Puerto Rico:** coordinaría la red hasta que una entidad regional la asuma."
+          ],
+          "items_en": [
+            "**Municipalities:** a regional agreement that would bring in all 15 towns in stages.",
+            "**Drivers and licensed operators:** would provide the service with their own vehicles, under an agreement designed with them.",
+            "**University of Puerto Rico at Mayagüez:** system engineering and independent evaluation.",
+            "**Transportation agencies:** would authorize the operation and integrate the ferry and intercity buses.",
+            "**Foundation for Puerto Rico:** would coordinate the network until a regional entity takes it over."
+          ],
+          "note_es": "Roles propuestos en el diseño; se formalizarían mediante acuerdos. La red está abierta a nuevos aliados: municipios, operadores, instituciones y empresas que quieran sumarse.",
+          "note_en": "Roles proposed in the design; they would be formalized through agreements. The network is open to new partners: municipalities, operators, institutions and businesses that want to join."
+        },
+        {
+          "title_es": "Una red que beneficia a todos",
+          "title_en": "A network that benefits everyone",
+          "items_es": [
+            "**Residentes:** llegan al trabajo, al médico y a clases sabiendo de antemano a qué hora los recogen y qué tramos tienen costo.",
+            "**Choferes y operadores:** más pasajeros para los vehículos que ya tienen, con su licencia e independencia.",
+            "**Patronos y negocios:** trabajadores para todos los turnos.",
+            "**Municipios:** datos compartidos, menor costo por viaje y una sola voz regional.",
+            "**Visitantes:** conocen más pueblos, se quedan más y reparten su gasto por la región."
+          ],
+          "items_en": [
+            "**Residents:** get to work, the doctor and classes knowing in advance when they'll be picked up and which segments have a fare.",
+            "**Drivers and operators:** more passengers for the vehicles they already have, keeping their license and independence.",
+            "**Employers and businesses:** workers for every shift.",
+            "**Municipalities:** shared data, lower cost per trip and one regional voice.",
+            "**Visitors:** see more towns, stay longer and spread their spending across the region."
+          ]
+        }
+      ],
+      "note_es": "Las cifras de impacto son proyecciones; aún no se han medido en Puerto Rico. El costo de mantener un auto es un promedio de Estados Unidos (AAA, 2025) y en Puerto Rico puede variar; el ingreso mediano de $25,096 es del Censo, Encuesta sobre la Comunidad; el desempleo, del Departamento del Trabajo y Recursos Humanos (2026).",
+      "note_en": "Impact figures are projections and have not yet been measured in Puerto Rico. The cost of owning a car is a U.S. average (AAA, 2025) and may differ in Puerto Rico; the $25,096 median income is from the Census American Community Survey; unemployment, from the Puerto Rico Department of Labor and Human Resources (2026)."
     },
     {
       "id": "cdere",
@@ -555,15 +898,17 @@
       "group_en": "Governance",
       "name_es": "Consejo de Desarrollo Económico de la Región Este (CDERE)",
       "name_en": "Eastern Region Economic Development Council (CDERE)",
-      "tagline_es": "Un consejo regional permanente para que los 15 municipios del Este trabajen juntos más allá de cada ciclo electoral.",
-      "tagline_en": "A permanent regional council so the 15 Eastern municipalities can work together beyond each election cycle.",
+      "tagline_es": "Una estructura permanente y profesional para el desarrollo regional sostenible.",
+      "tagline_en": "A permanent, professional structure for sustainable regional development.",
       "body_es": [
-        "El CDERE es una entidad sin fines de lucro, independiente y multisectorial, propuesta para coordinar el desarrollo económico de los 15 municipios del Este. No sustituye a los municipios ni a las agencias, ni afecta la autonomía municipal.",
-        "Busca alinear prioridades, atraer recursos y dar continuidad a proyectos regionales de movilidad, capital humano y apoyo a pequeños negocios. Se propone mediante el Proyecto de la Cámara 862, radicado a petición de FPR."
+        "El CDERE es una propuesta de organización multisectorial, independiente y sin fines de lucro para coordinar inversiones e impulsar proyectos compartidos en los 15 municipios del Este, designados por la Compañía de Turismo de Puerto Rico como «Porta del Mar».",
+        "Reuniría a gobiernos municipales, agencias públicas, industrias, empresas, academia y organizaciones comunitarias en una estructura permanente de planificación y ejecución regional. El empleo, la movilidad, la actividad empresarial y los recursos naturales no se detienen en los límites municipales. El CDERE facilitaría una planificación conjunta que responda a esas realidades, con respeto a la autonomía municipal y a la identidad de cada comunidad.",
+        "Con personal profesional y participación municipal y comunitaria, apoyaría iniciativas de movilidad, revitalización de espacios naturales y culturales, desarrollo empresarial y formación laboral."
       ],
       "body_en": [
-        "CDERE is a proposed independent, multisector nonprofit to coordinate economic development across the 15 Eastern municipalities. It does not replace municipalities or agencies and does not affect municipal autonomy.",
-        "It aims to align priorities, attract resources and keep regional projects in mobility, human capital and small-business support going. It is proposed through House Bill 862, filed at FPR's request."
+        "CDERE is a proposed independent, multisector nonprofit organization to coordinate investment and advance shared projects across the 15 eastern municipalities that the Puerto Rico Tourism Company designates as \"Porta del Mar.\"",
+        "It would bring together municipal governments, public agencies, industry, businesses, academia and community organizations in a permanent structure for regional planning and execution. Jobs, mobility, business activity and natural resources don't stop at municipal lines. CDERE would enable joint planning that responds to those realities while respecting municipal autonomy and each community's identity.",
+        "With professional staff and municipal and community participation, it would support initiatives in mobility, revitalization of natural and cultural spaces, business development and workforce training."
       ],
       "image": {
         "src": "assets/img/cdere.jpg",
@@ -574,34 +919,26 @@
       },
       "stats": [
         {
-          "value": "2M+",
-          "label_es": "visitantes a la Región Este en 2024",
-          "label_en": "visitors to the Eastern Region in 2024",
-          "source": "FPR"
+          "value": "~405,000",
+          "label_es": "personas viven en los 15 municipios del Este",
+          "label_en": "people live in the East's 15 municipalities",
+          "source": "ACS 2023"
         },
         {
-          "value": "~$1.3B",
-          "label_es": "en gasto directo de visitantes en la región en 2024 (17% del total de PR)",
-          "label_en": "in direct visitor spending in the region in 2024 (17% of Puerto Rico's total)",
-          "source": "FPR"
+          "value": "~43%",
+          "label_es": "de la población de la región vive en pobreza",
+          "label_en": "of the region's population lives in poverty"
         },
         {
-          "value": "405,074",
-          "label_es": "personas viven en la Región Este y la región perdió 14 % de su población en una década",
-          "label_en": "people live in the Eastern Region, which lost 14% of its population in a decade",
-          "source": "ACS 2023, en el texto del PC 862"
+          "value": "~45%",
+          "label_es": "de participación laboral en la región",
+          "label_en": "labor force participation in the region"
         },
         {
-          "value": "~45 %",
-          "label_es": "de los adultos de 16 a 65 años participa en la fuerza laboral de la región",
-          "label_en": "of adults ages 16 to 65 take part in the regional labor force",
-          "source": "BLS 2022, en el texto del PC 862"
-        },
-        {
-          "value": "50+",
-          "label_es": "agencias, municipios y entidades con jurisdicción fragmentada sobre la región",
-          "label_en": "agencies, municipalities and entities with fragmented jurisdiction over the region",
-          "source": "FPR"
+          "value": "$2,300M+",
+          "label_es": "en gasto directo anual de visitantes proyectado para 2030",
+          "label_en": "in annual direct visitor spending projected by 2030",
+          "source": "Proyecciones regionales de FPR"
         }
       ],
       "presenters": "Elliot",
@@ -610,13 +947,12 @@
         "label_es": "CDERE: preguntas frecuentes y proyecto de ley (en inglés)",
         "label_en": "CDERE: FAQ and bill"
       },
-      "challenge_es": "La Región Este tiene activos de primer orden, como El Yunque, Vieques, Culebra y Roosevelt Roads, pero sufre pérdida de población, pobreza alta y poca participación laboral. Más de 50 agencias, municipios y entidades tienen jurisdicción parcial o fragmentada, y eso dificulta competir por fondos para proyectos regionales.",
+      "challenge_es": "Una región con grandes activos y esfuerzos dispersos. En los 15 municipios viven unas 405,000 personas; cerca del 43% vive en pobreza y la participación laboral ronda el 45%. El Este tiene recursos naturales, puertos, aeropuertos, actividad industrial y talento emprendedor, pero los esfuerzos de desarrollo están repartidos entre municipios, agencias y otros actores con prioridades y tiempos distintos. Esa fragmentación frena la coordinación de inversiones y la ejecución de proyectos compartidos. El desarrollo regional requiere tiempo y constancia: hace falta una estructura permanente que conserve el conocimiento técnico y sostenga los proyectos más allá de los cambios de administración y los ciclos políticos.",
       "approach_es": [
-        "Propone una mesa regional permanente con representación municipal, comunitaria, empresarial, académica y estatal, basada en una estrategia compartida.",
-        "Alinea prioridades y maneja proyectos de escala regional, como movilidad integrada, capital humano y apoyo a pequeños negocios.",
-        "Propone un fondo regional para atraer capital público, privado, filantrópico y federal.",
-        "Organiza la región en tres subregiones, con un representante de los alcaldes por cada una en la Junta.",
-        "Fija límites claros: no otorga permisos, no cambia la zonificación y no puede imponer obligaciones a municipios. La participación es voluntaria."
+        "Coordinar inversiones, preparar negocios y trabajadores, y sostener los proyectos que necesita el crecimiento de la economía del visitante.",
+        "Compartir servicios y conocimiento técnico entre municipios para reducir duplicidades.",
+        "Mantener una agenda regional que facilite la planificación de proyectos y la movilización de recursos.",
+        "Extender los beneficios de ese crecimiento a las comunidades y a otros sectores productivos."
       ],
       "progress_es": [
         "El Proyecto de la Cámara 862 fue radicado a petición de FPR para crear el CDERE.",
@@ -626,13 +962,12 @@
       "next_es": [
         "El proyecto sigue su trámite legislativo y puede cambiar según las enmiendas y los comentarios de la Asamblea Legislativa."
       ],
-      "challenge_en": "The Eastern Region has first-rate assets, such as El Yunque, Vieques, Culebra and Roosevelt Roads, but it faces population loss, high poverty and low labor-force participation. More than 50 agencies, municipalities and entities hold partial or fragmented jurisdiction, which makes it hard to compete for funds for regional projects.",
+      "challenge_en": "A region with major assets and scattered efforts. About 405,000 people live in the 15 municipalities; nearly 43% live in poverty and labor force participation is around 45%. The East has natural resources, ports, airports, industry and entrepreneurial talent, but development efforts are split among municipalities, agencies and other actors with different priorities and timelines. That fragmentation slows coordinated investment and shared projects. Regional development takes time and consistency: it needs a permanent structure that keeps technical knowledge and sustains projects beyond changes in administration and political cycles.",
       "approach_en": [
-        "Proposes a permanent regional table with municipal, community, business, academic and state representation, based on a shared strategy.",
-        "Aligns priorities and manages region-scale projects, such as integrated mobility, human capital and small-business support.",
-        "Proposes a regional fund to attract public, private, philanthropic and federal capital.",
-        "Organizes the region into three subregions, with one mayors' representative for each on the Board.",
-        "Sets clear limits: it does not issue permits, change zoning or impose obligations on municipalities. Participation is voluntary."
+        "Coordinate investment, prepare businesses and workers, and sustain the projects that visitor economy growth requires.",
+        "Share services and technical knowledge among municipalities to reduce duplication.",
+        "Keep a regional agenda that makes it easier to plan projects and mobilize resources.",
+        "Extend the benefits of that growth to communities and other productive sectors."
       ],
       "progress_en": [
         "House Bill 862 was filed at FPR's request to create CDERE.",
@@ -642,36 +977,103 @@
       "next_en": [
         "The bill continues through the legislative process and may change based on amendments and comments from the Legislature."
       ],
-      "form_choice": "CDERE"
+      "form_choice": "CDERE",
+      "extra": [
+        {
+          "title_es": "Lo que gana cada sector",
+          "title_en": "What each sector gains",
+          "items_es": [
+            "**Municipios:** capacidad técnica compartida para preparar proyectos, gestionar recursos y coordinar inversiones entre jurisdicciones.",
+            "**Comunidades:** voz en la identificación de prioridades regionales y seguimiento a los proyectos que afectan su entorno y sus oportunidades.",
+            "**Negocios y trabajadores:** conexiones entre apoyo empresarial, formación laboral y oportunidades en distintos municipios.",
+            "**Inversionistas y aliados:** prioridades claras, un interlocutor regional y seguimiento profesional para proyectos a largo plazo."
+          ],
+          "items_en": [
+            "**Municipalities:** shared technical capacity to prepare projects, manage resources and coordinate investment across jurisdictions.",
+            "**Communities:** a voice in setting regional priorities and following the projects that affect their surroundings and opportunities.",
+            "**Businesses and workers:** connections between business support, workforce training and opportunities across municipalities.",
+            "**Investors and partners:** clear priorities, a single regional counterpart and professional follow-through on long-term projects."
+          ]
+        },
+        {
+          "title_es": "Modelos que ya funcionan",
+          "title_en": "Models that already work",
+          "items_es": [
+            "**Jackson Hole, Wyoming (EE. UU.):** el Destination Stewardship Council del condado de Teton reúne a gobiernos locales, empresas, representantes comunitarios y gestores de parques y bosques nacionales para implementar el plan de manejo sostenible del destino. Coordina la movilidad, el manejo de visitantes y el desarrollo laboral. En 2025, 3.3 millones de visitantes pernoctaron en el condado y generaron $572 millones en gasto de alojamiento; los impuestos de alojamiento se reinvirtieron en transporte público, manejo de visitantes y vivienda para trabajadores.",
+            "**Región Sur de Puerto Rico:** el Distrito de Desarrollo Económico del Sur de Puerto Rico (SPREDD) integra a Guánica, Guayanilla, Juana Díaz, Peñuelas, Ponce y Yauco. En 2023 recibió la primera designación federal de Distrito de Desarrollo Económico (EDD) en Puerto Rico, que le da una estrategia común reconocida por el gobierno federal, acceso a fondos recurrentes de planificación y una mejor posición para competir por inversiones federales. Es un referente local para el Este."
+          ],
+          "items_en": [
+            "**Jackson Hole, Wyoming (U.S.):** the Teton County Destination Stewardship Council brings together local governments, businesses, community representatives and national park and forest managers to carry out the destination's sustainable management plan. It coordinates mobility, visitor management and workforce development. In 2025, 3.3 million visitors stayed overnight in the county and generated $572 million in lodging spending; lodging taxes were reinvested in public transit, visitor management and worker housing.",
+            "**Southern Puerto Rico:** the South Puerto Rico Economic Development District (SPREDD) brings together Guánica, Guayanilla, Juana Díaz, Peñuelas, Ponce and Yauco. In 2023 it received Puerto Rico's first federal Economic Development District (EDD) designation, which gives it a federally recognized shared strategy, access to recurring planning funds and a stronger position to compete for federal investment. It is a local reference for the East."
+          ],
+          "wide": true
+        }
+      ]
     },
     {
       "id": "tourism-academy",
       "group_es": "Economía del visitante",
       "group_en": "Visitor economy",
-      "name_es": "Academia de Turismo",
-      "name_en": "Tourism Academy",
-      "tagline_es": "Preparar talento local para los empleos de la economía del visitante en la Región Este.",
-      "tagline_en": "Preparing local talent for visitor-economy jobs in the Eastern Region.",
+      "name_es": "Academias de Turismo del Este",
+      "name_en": "Eastern Region Tourism Academies",
+      "tagline_es": "El activo más importante del Este es su gente.",
+      "tagline_en": "The East's most important asset is its people.",
       "body_es": [
-        "La Academia de Turismo es una de las academias sectoriales que FPR propone dentro del pilar de capital humano de la Visión Estratégica del Este.",
-        "Conectaría a jóvenes, mujeres y trabajadores con experiencia con las necesidades de la industria mediante internados, aprendizajes y becas, para formar talento en hospitalidad, ecoturismo y servicios digitales y retenerlo en la región. Está en fase de diseño."
+        "El Este recibió 2.2 millones de visitantes en 2025, y se espera que la cifra siga creciendo. Convertir esas visitas en desarrollo económico depende de la capacidad local para gestionar, atender y aprovechar ese potencial.",
+        "Dos academias, un mismo método: capacitar a municipios y negocios para planificar, atender y posicionarse mejor, creando más razones para que el visitante se quede."
       ],
       "body_en": [
-        "The Tourism Academy is one of the sector academies FPR proposes under the human capital pillar of the Eastern Region Strategic Vision.",
-        "It would connect youth, women and experienced workers with industry needs through internships, apprenticeships and fellowships, building talent in hospitality, ecotourism and digital services and keeping it in the region. It is at the design stage."
+        "The East received 2.2 million visitors in 2025, and the number is expected to keep growing. Turning those visits into economic development depends on local capacity to manage, serve and make the most of that potential.",
+        "Two academies, one method: training municipalities and businesses to plan, serve and position themselves better, creating more reasons for visitors to stay."
       ],
       "stats": [
         {
-          "value": "100,000+",
-          "label_es": "empleos directos en ocio y hospitalidad en Puerto Rico (mayo 2025)",
-          "label_en": "direct leisure and hospitality jobs in Puerto Rico (May 2025)",
-          "source": "BLS, en FPR, Visitor Economy Performance 2025"
+          "value": "49%",
+          "label_es": "de los visitantes vienen solo por el día y aportan apenas 9% del gasto",
+          "label_en": "of visitors come for the day only and account for just 9% of spending",
+          "source": "FPR, Visitor Economy Performance Model 2025"
         },
         {
-          "value": ">10 %",
-          "label_es": "de la fuerza laboral de Puerto Rico trabaja directamente en ocio y hospitalidad (más de 100,000 empleos)",
-          "label_en": "of Puerto Rico's labor force works directly in leisure and hospitality (more than 100,000 jobs)",
-          "source": "FPR, VEP Short-Form 2025 (BLS)"
+          "value": "34¢",
+          "label_es": "de cada dólar que el visitante genera en el Este salen de la región",
+          "label_en": "of every dollar visitors generate in the East leave the region",
+          "source": "Estimado VEP de FPR, según propiedad local y compras fuera de la región"
+        },
+        {
+          "value": "80¢ vs. 60¢",
+          "label_es": "de cada dólar retienen las hospederías pequeñas no endosadas, frente a los hoteles endosados",
+          "label_en": "of every dollar is retained by small non-endorsed lodgings, compared with endorsed hotels",
+          "source": "Estimado VEP de FPR"
+        },
+        {
+          "value": "$13.6M",
+          "label_es": "y 165 empleos representa cada 1% que crezca la economía del visitante del Este ($1,360 millones en gasto y 16.5 mil empleos directos en 2025)",
+          "label_en": "and 165 jobs: what each 1% of growth in the East's visitor economy represents ($1.36 billion in spending and 16,500 direct jobs in 2025)",
+          "source": "FPR, Visitor Economy Performance Model 2025"
+        },
+        {
+          "value": "5% a 10%",
+          "label_es": "más ventas y ganancias para un pequeño negocio capacitado: de $10,000 a $19,000 más al año para uno de $192,000 en ventas",
+          "label_en": "more sales and profits for a trained small business: $10,000 to $19,000 more a year for one with $192,000 in sales",
+          "source": "McKenzie, Banco Mundial (2021); FPR, Small Business Cash Grant Program Case Study (2018)"
+        },
+        {
+          "value": "5% a 9%",
+          "label_es": "más ingresos por cada estrella adicional en reseñas en línea, en restaurantes independientes",
+          "label_en": "more revenue for each additional star in online reviews, at independent restaurants",
+          "source": "Luca, Harvard Business School (2011), Seattle"
+        },
+        {
+          "value": "60%",
+          "label_es": "de 136 municipios de Honduras redactó un plan de desarrollo tras capacitar a su personal",
+          "label_en": "of 136 municipalities in Honduras drafted a development plan after training their staff",
+          "source": "JICA, evaluación de FOCAL II (2011–2016)"
+        },
+        {
+          "value": "30+",
+          "label_es": "productos turísticos crearon las unidades municipales capacitadas en Puerto Plata, R.D., frente a una meta de 9",
+          "label_en": "tourism products created by trained municipal units in Puerto Plata, D.R., against a goal of 9",
+          "source": "JICA, evaluación de TURISOPP (2009–2013)"
         }
       ],
       "presenters": "Cecilia Thon",
@@ -680,37 +1082,53 @@
         "label_es": "Pilar de capital humano (en inglés)",
         "label_en": "Human Capital pillar"
       },
-      "challenge_es": "La economía del visitante sostiene más de 100,000 empleos directos en Puerto Rico, y muchos son de trato directo con la persona, por lo que resisten mejor la automatización. Al mismo tiempo, la tecnología cambia el trabajo y la región pierde talento joven. Las personas de la Región Este necesitan una ruta clara de formación a empleos locales.",
+      "challenge_es": "Muchos vienen, pocos se quedan. Casi la mitad de los visitantes se va el mismo día, sin aprovechar gran parte de la oferta turística del Este, lo que limita el gasto que permanece en la región. Detrás de eso hay un problema de capacidad: los municipios cuentan con poco personal de turismo y trabajan sin una estrategia atada a sus metas de desarrollo económico, y los negocios locales, en su mayoría microempresas, tienen poco acceso a herramientas digitales y a capacitación en servicio al cliente. El Este pierde dos veces: gasto que no llega, porque el visitante no pernocta, y gasto que no se queda, porque faltan negocios locales preparados para captarlo.",
       "approach_es": [
-        "Ofrece tres rutas de formación: hospitalidad inteligente y servicio, ecoturismo y actividades al aire libre o marinas, y servicios digitales para la economía del visitante.",
-        "Añade un taller de emprendimiento donde las personas convierten lo aprendido en experiencias y negocios locales.",
-        "Combina internados, aprendizajes y experiencia paga en el trabajo, diseñados con patronos de hoteles, guías, marinas, fincas y atracciones.",
-        "Se ofrece en centros en cascos urbanos, jornadas móviles hacia comunidades rurales e isleñas y un campus virtual, con apoyos de transporte, cuidado de niños y equipos.",
-        "Da prioridad a jóvenes de 16 a 24 años, adultos sin empleo, mujeres que regresan a trabajar y residentes rurales e isleños."
+        "**Para el municipio, de la oficina de turismo a una estrategia:** certificación de 12 meses en gestión de destinos para el personal de turismo de los 15 municipios. Termina con una estrategia turística propia, lista para adoptar.",
+        "**Para el negocio, VEQA (Visitor Economy Quality Accelerator):** diagnóstico, capacitación y más de 20 horas de coaching en el negocio, alineados con la oferta de la Compañía de Turismo y Discover Puerto Rico, para embarcaciones, guías, restaurantes, hospederías, transporte y artesanos. Termina con mejoras visibles y un reconocimiento de calidad."
       ],
-      "progress_es": [
-        "Sep. 2025: FPR completó un diseño conceptual de la academia, con rutas de formación, modelo de entrega, gobernanza e indicadores.",
-        "Las academias sectoriales ya forman parte del pilar público de Capital Humano de la Visión Estratégica del Este, junto con los Fellows Regionales y el Talent Commons Regional."
-      ],
-      "next_es": [
-        "Fase inicial del diseño: definir con patronos las credenciales y los acuerdos de internado antes de abrir las primeras cohortes."
-      ],
-      "challenge_en": "The visitor economy supports more than 100,000 direct jobs in Puerto Rico, and many are people-facing, so they hold up better against automation. At the same time, technology is changing the work and the region is losing young talent. People in the Eastern Region need a clear path from training to local jobs.",
+      "challenge_en": "Many come, few stay. Almost half of visitors leave the same day without experiencing much of what the East offers, which limits the spending that stays in the region. Behind this is a capacity problem: municipalities have few tourism staff and work without a strategy tied to their economic development goals, and local businesses, mostly microenterprises, have little access to digital tools and customer service training. The East loses twice: spending that never arrives, because visitors don't stay overnight, and spending that doesn't stay, because there aren't enough local businesses ready to capture it.",
       "approach_en": [
-        "Offers three training tracks: smart hospitality and service, ecotourism and outdoor or marine activities, and digital services for the visitor economy.",
-        "Adds an entrepreneurship studio where people turn what they learn into local experiences and businesses.",
-        "Combines internships, apprenticeships and paid on-the-job experience, designed with employers such as hotels, guides, marinas, farms and attractions.",
-        "Runs through hubs in town centers, mobile training days to rural and island communities and a virtual campus, with support for transport, childcare and equipment.",
-        "Gives priority to youth ages 16 to 24, unemployed adults, women returning to work and rural and island residents."
+        "**For municipalities, from tourism office to strategy:** a 12-month destination management certification for tourism staff in all 15 municipalities. It ends with each municipality's own tourism strategy, ready to adopt.",
+        "**For businesses, VEQA (Visitor Economy Quality Accelerator):** assessment, training and more than 20 hours of on-site coaching, aligned with the Puerto Rico Tourism Company and Discover Puerto Rico, for boat operators, guides, restaurants, lodgings, transportation and artisans. It ends with visible improvements and a quality recognition."
       ],
-      "progress_en": [
-        "Sep. 2025: FPR completed a concept design for the academy, with training tracks, delivery model, governance and indicators.",
-        "Sector academies are now part of the public Human Capital pillar of the Eastern Region Strategic Vision, alongside the Regional Fellows and the Regional Talent Commons."
+      "form_choice": "Academia de Turismo · Tourism Academy",
+      "extra": [
+        {
+          "title_es": "Mañana",
+          "title_en": "Tomorrow",
+          "items_es": [
+            "Municipios que integran su oferta con otros pueblos y alargan la estadía.",
+            "Negocios capacitados que ofrecen mejor servicio y mejores reseñas.",
+            "Más compras locales y más actividad económica que se queda en el Este."
+          ],
+          "items_en": [
+            "Municipalities that combine their offer with other towns and lengthen stays.",
+            "Trained businesses that offer better service and earn better reviews.",
+            "More local purchasing and more economic activity that stays in the East."
+          ]
+        },
+        {
+          "title_es": "Gana el pueblo, gana el negocio, gana el visitante",
+          "title_en": "Towns, businesses and visitors all win",
+          "items_es": [
+            "**Municipios:** personal capacitado, una estrategia y datos que perduran más allá de cada administración.",
+            "**Negocios:** más visibilidad, mejores precios, permisos al día y nuevos clientes.",
+            "**Visitantes:** mejor servicio y más que hacer en más pueblos.",
+            "**Estudiantes y universidad:** experiencia práctica y un camino para convertirse en mentores y líderes de la región.",
+            "**La región:** una parte mayor del gasto del visitante se queda en la economía local."
+          ],
+          "items_en": [
+            "**Municipalities:** trained staff, a strategy and data that last beyond each administration.",
+            "**Businesses:** more visibility, better prices, permits in order and new customers.",
+            "**Visitors:** better service and more to do in more towns.",
+            "**Students and the university:** hands-on experience and a path to become mentors and leaders in the region.",
+            "**The region:** a larger share of visitor spending stays in the local economy."
+          ]
+        }
       ],
-      "next_en": [
-        "Initial design phase: define credentials and internship agreements with employers before opening the first cohorts."
-      ],
-      "form_choice": "Academia de Turismo · Tourism Academy"
+      "note_es": "Las cifras proyectadas aún no se han medido en Puerto Rico.",
+      "note_en": "Projected figures have not yet been measured in Puerto Rico."
     },
     {
       "id": "vepm",

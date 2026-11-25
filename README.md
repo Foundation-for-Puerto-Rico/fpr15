@@ -13,12 +13,12 @@ Los QR impresos usan estos identificadores. No los cambies después de imprimir:
 |---|---|---|
 | 1 | Ruta Patrimonial del Azúcar | `ruta-azucar` |
 | 2 | Distrito Cultural de Humacao y Distrito Creativo de Luquillo | `humacao-luquillo` |
-| 3 | Central Roig: caso de estudio y guías | `central-roig` |
-| 4 | Herramienta de línea base | `baseline` |
+| 3 | Guía para reactivar activos patrimoniales (caso Central Roig) | `central-roig` |
+| 4 | Asset Watch PR (línea base) | `baseline` |
 | 5 | ERSV | `ersv` |
 | 6 | MaaS | `maas` |
 | 7 | CDERE | `cdere` |
-| 8 | Academia de Turismo | `tourism-academy` |
+| 8 | Academias de Turismo del Este | `tourism-academy` |
 | 9 | VEPM | `vepm` |
 | 10 | Voluntariado + Impacta PR | `voluntariado` |
 | 11 | Foundation Fellows Program | `fellows` |
