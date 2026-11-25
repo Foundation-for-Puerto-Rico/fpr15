@@ -34,6 +34,8 @@ Todo el texto vive en `content.json`. Para cambiarlo desde GitHub:
 2. Cambia el texto entre comillas. Cada iniciativa tiene su versión en español (`_es`) y en inglés (`_en`).
 3. Haz clic en **Commit changes**.
 
+Diez iniciativas siguen el diseño de su pancarta (dBoard). Su texto está dentro de `"board"`, organizado en secciones (`sections`) y bloques (`blocks`) en el mismo orden que la pancarta. Dentro del texto, `**así**` pone negritas y `==así==` resalta en color.
+
 La página se actualiza en uno o dos minutos. Si la página deja de cargar después de un cambio, el archivo tiene un error de formato, por lo general una coma o unas comillas de más o de menos. Revierte el último cambio desde el historial del archivo.
 
 Las fotos están en `assets/img/`. Usa solo fotos con permiso de publicación y comprímelas a unos 1200 px de ancho.
