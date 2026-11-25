@@ -20,7 +20,7 @@ Los QR impresos usan estos identificadores. No los cambies después de imprimir:
 | 7 | CDERE | `cdere` |
 | 8 | Academias de Turismo del Este | `tourism-academy` |
 | 9 | VEPM | `vepm` |
-| 10 | Voluntariado + Impacta PR | `voluntariado` |
+| 10 | Impacta PR | `voluntariado` |
 | 11 | Foundation Fellows Program | `fellows` |
 | 12 | PDFA | `pdfa` |
 | 13 | Second Brain | `second-brain` |
