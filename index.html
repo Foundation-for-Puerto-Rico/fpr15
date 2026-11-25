@@ -76,6 +76,8 @@ figure.logo img{max-width:220px;aspect-ratio:600/340;object-fit:contain;backgrou
 .challenge p{margin:0}
 .blocks{display:grid;grid-template-columns:1fr;gap:20px;margin:20px 0}
 @media (min-width:720px){.blocks{grid-template-columns:1fr 1fr}.blocks .wide{grid-column:1/-1}}
+.block p{margin:0 0 10px}
+.note{font-size:14px;color:var(--gray);margin:8px 0 0}
 .block ul{margin:0;padding-left:20px}
 .block li{margin:0 0 8px}
 .block.progress ul{list-style:none;padding-left:0}
@@ -117,6 +119,8 @@ footer img{height:30px;width:auto;margin-bottom:10px}
   try { const saved = localStorage.getItem("fpr15-lang"); if (!params.get("lang") && saved) lang = saved; } catch (e) {}
   let data;
   const t = (o, k) => o?.[`${k}_${lang}`] ?? o?.[`${k}_es`] ?? "";
+  // Escaped text; a leading "**Label:**" becomes a bold lead-in.
+  const rich = s => esc(s).replace(/^\*\*(.+?)\*\*/, "<strong>$1</strong>");
 
   function chart(c) {
     if (!c || !c.data?.length) return "";
@@ -194,21 +198,27 @@ footer img{height:30px;width:auto;margin-bottom:10px}
       <article class="ini${solo ? " solo" : ""}"${solo ? "" : ` id="${i.id}"`} data-id="${i.id}" aria-labelledby="h-${i.id}">
         <p class="group">${esc(t(i, "group"))}</p><h2 id="h-${i.id}">${esc(t(i, "name"))}</h2>
         ${t(i, "tagline") ? `<p class="tagline">${esc(t(i, "tagline"))}</p>` : ""}
-        ${(i[`body_${lang}`] || i.body_es || []).map(p => `<p>${esc(p)}</p>`).join("")}
+        ${(i[`body_${lang}`] || i.body_es || []).map(p => `<p>${rich(p)}</p>`).join("")}
         ${i.image ? `<figure${i.image.logo ? ' class="logo"' : ""}><img src="${esc(i.image.src)}" alt="${esc(t(i.image, "alt"))}" loading="lazy" decoding="async">
           ${t(i.image, "caption") ? `<figcaption>${esc(t(i.image, "caption"))}</figcaption>` : ""}</figure>` : ""}
         ${t(i, "challenge") ? `<div class="challenge"><h3>${esc(ui.challenge)}</h3><p>${esc(t(i, "challenge"))}</p></div>` : ""}
+        ${i.steps ? `<div class="steps"><h3>${esc(t(i.steps, "title"))}</h3><ol class="${i.steps.unordered ? "unordered" : ""}"${i.steps.unordered ? ' role="list"' : ""}>
+          ${(i.steps[`items_${lang}`] || i.steps.items_es).map(s => `<li>${esc(s)}</li>`).join("")}</ol></div>` : ""}
         ${(() => {
-          const list = (k, cls) => { const xs = i[`${k}_${lang}`] || i[`${k}_es`] || []; return xs.length ? `<div class="block ${cls}"><h3>${esc(ui[k])}</h3><ul>${xs.map(x => `<li>${esc(x)}</li>`).join("")}</ul></div>` : ""; };
-          const html = list("approach", "approach") + list("progress", "progress") + list("next", "next wide")
+          const ul = xs => xs?.length ? `<ul>${xs.map(x => `<li>${rich(x)}</li>`).join("")}</ul>` : "";
+          const list = (k, cls) => { const xs = i[`${k}_${lang}`] || i[`${k}_es`] || []; return xs.length ? `<div class="block ${cls}"><h3>${esc(ui[k])}</h3>${ul(xs)}</div>` : ""; };
+          // Extra blocks carry their own title, taken from each team's document.
+          const extra = (i.extra || []).map(b => `<div class="block${b.wide ? " wide" : ""}"><h3>${esc(t(b, "title"))}</h3>
+            ${t(b, "text") ? `<p>${rich(t(b, "text"))}</p>` : ""}${ul(b[`items_${lang}`] || b.items_es)}
+            ${t(b, "note") ? `<p class="note">${esc(t(b, "note"))}</p>` : ""}</div>`).join("");
+          const html = list("approach", "approach") + extra + list("progress", "progress") + list("next", "next wide")
             + (i.partners?.length ? `<div class="block wide"><h3>${esc(ui.partners)}</h3><ul class="chips">${i.partners.map(p => `<li>${esc(p)}</li>`).join("")}</ul></div>` : "");
           return html ? `<div class="blocks">${html}</div>` : "";
         })()}
         ${i.stats?.length ? `<div class="stats">${i.stats.map(s => `<div class="stat"><div class="v">${esc(s.value)}</div>
           <div class="l">${esc(t(s, "label"))}</div>${s.source ? `<div class="s">${ui.source}: ${esc(s.source)}</div>` : ""}</div>`).join("")}</div>` : ""}
+        ${t(i, "note") ? `<p class="note">${esc(t(i, "note"))}</p>` : ""}
         ${chart(i.chart)}
-        ${i.steps ? `<div class="steps"><h3>${esc(t(i.steps, "title"))}</h3><ol class="${i.steps.unordered ? "unordered" : ""}"${i.steps.unordered ? ' role="list"' : ""}>
-          ${(i.steps[`items_${lang}`] || i.steps.items_es).map(s => `<li>${esc(s)}</li>`).join("")}</ol></div>` : ""}
         <dl class="meta">
           ${i.presenters ? `<div><dt>${ui.presenters}:</dt> <dd>${esc(i.presenters)}</dd></div>` : ""}
           ${i.link ? `<div><dt>${ui.more}:</dt> <dd><a href="${esc(i.link.url || t(i.link, "url"))}" rel="noopener">${esc(t(i.link, "label"))}</a></dd></div>` : ""}
