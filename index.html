@@ -41,8 +41,10 @@ h2.groups{font-size:22px;margin:36px 0 4px}
 .num{flex:0 0 auto;display:inline-grid;place-items:center;width:34px;height:34px;border-radius:50%;background:var(--red);color:var(--white);font-weight:700;font-size:15px}
 .cards .name{font-weight:600;font-size:15px;line-height:1.3}
 article.ini{padding:44px 0 36px;border-top:1px solid var(--gray-soft);scroll-margin-top:68px}
-article.ini:target{animation:flash 1.6s ease-out}
-@keyframes flash{from{background:#FFF7E0}to{background:transparent}}
+article.ini.solo{padding-top:28px;border-top:0}
+.solo-kicker{margin:28px 0 0}
+#otras{border-top:4px solid var(--red);padding-top:4px;scroll-margin-top:68px}
+.all{display:inline-block;margin-top:20px;font-weight:600;font-size:15px}
 .ini-head{display:flex;gap:14px;align-items:flex-start}
 .ini-head .num{width:44px;height:44px;font-size:18px;margin-top:2px}
 .group{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--gray);margin:0 0 4px}
@@ -95,7 +97,7 @@ footer{border-top:4px solid var(--red);margin-top:40px;padding:28px 0 48px;font-
 footer img{height:30px;width:auto;margin-bottom:10px}
 .noscript{padding:24px 0}
 @media (max-width:520px){body{font-size:16px}.lede,.tagline{font-size:17px}}
-@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}article.ini:target{animation:none}}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 </style>
 </head>
 <body>
@@ -133,14 +135,45 @@ footer img{height:30px;width:auto;margin-bottom:10px}
     </div>`;
   }
 
+  // The initiative named in the URL hash (#vepm), or null for the full page.
+  const focusId = () => {
+    const id = decodeURIComponent(location.hash.slice(1));
+    return data.initiatives.some(i => i.id === id) ? id : null;
+  };
+
+  // Index cards grouped by area, leaving out the initiative with id `skip`.
+  function cards(skip) {
+    const groups = [...new Set(data.initiatives.map(i => t(i, "group")))];
+    return groups.map(g => {
+      const items = data.initiatives.map((i, n) => [i, n]).filter(([i]) => t(i, "group") === g && i.id !== skip);
+      return items.length ? `<div class="index-group"><h3>${esc(g)}</h3><ul class="cards">
+        ${items.map(([i, n]) => `<li><a href="#${i.id}"><span class="num">${n + 1}</span><span class="name">${esc(t(i, "name"))}</span></a></li>`).join("")}
+      </ul></div>` : "";
+    }).join("");
+  }
+
   function render() {
     const ui = data.ui[lang];
     document.documentElement.lang = lang;
-    document.title = ui.title;
     document.querySelectorAll(".lang button").forEach(b => b.setAttribute("aria-pressed", b.dataset.lang === lang));
-    const groups = [...new Set(data.initiatives.map(i => t(i, "group")))];
     const app = document.getElementById("app");
-    app.innerHTML = `
+    const id = focusId();
+    if (id) {
+      // Opened from a QR code or a card: this initiative alone, then the rest to keep browsing.
+      const n = data.initiatives.findIndex(i => i.id === id);
+      const i = data.initiatives[n];
+      document.title = `${t(i, "name")} · ${ui.title}`;
+      app.innerHTML = `
+        <p class="kicker solo-kicker">${esc(ui.kicker)}</p>
+        ${article(i, n, true)}
+        <section id="otras" aria-labelledby="otras-h">
+          <h2 class="groups" id="otras-h">${esc(ui.others)}</h2>
+          ${cards(id)}
+          <a class="all" href="#inicio">${esc(ui.all)} →</a>
+        </section>`;
+    } else {
+      document.title = ui.title;
+      app.innerHTML = `
       <section class="hero" id="inicio">
         <p class="kicker">${esc(ui.kicker)}</p>
         <h1>${esc(ui.title)}</h1>
@@ -148,13 +181,17 @@ footer img{height:30px;width:auto;margin-bottom:10px}
       </section>
       <section id="iniciativas" aria-labelledby="idx-h" style="scroll-margin-top:68px">
         <h2 class="groups" id="idx-h">${esc(ui.index)}</h2>
-        ${groups.map(g => `<div class="index-group"><h3>${esc(g)}</h3><ul class="cards">
-          ${data.initiatives.map((i, n) => [i, n]).filter(([i]) => t(i, "group") === g).map(([i, n]) =>
-            `<li><a href="#${i.id}"><span class="num">${n + 1}</span><span class="name">${esc(t(i, "name"))}</span></a></li>`).join("")}
-        </ul></div>`).join("")}
+        ${cards(null)}
       </section>
-      ${data.initiatives.map((i, n) => `
-      <article class="ini" id="${i.id}" aria-labelledby="h-${i.id}">
+      ${data.initiatives.map((i, n) => article(i, n, false)).join("")}`;
+    }
+    document.getElementById("foot").innerHTML = `<img src="assets/fpr-logo.svg" alt="Foundation for Puerto Rico"><p>${esc(ui.footer)} · <a href="https://foundationforpuertorico.org/${lang}/">foundationforpuertorico.org</a></p>`;
+  }
+
+  function article(i, n, solo) {
+    const ui = data.ui[lang];
+    return `
+      <article class="ini${solo ? " solo" : ""}" id="${i.id}" aria-labelledby="h-${i.id}">
         <div class="ini-head"><span class="num" aria-hidden="true">${n + 1}</span>
           <div><p class="group">${esc(t(i, "group"))}</p><h2 id="h-${i.id}">${esc(t(i, "name"))}</h2></div></div>
         ${t(i, "tagline") ? `<p class="tagline">${esc(t(i, "tagline"))}</p>` : ""}
@@ -178,16 +215,28 @@ footer img{height:30px;width:auto;margin-bottom:10px}
           ${i.link ? `<div><dt>${ui.more}:</dt> <dd><a href="${esc(i.link.url || t(i.link, "url"))}" rel="noopener">${esc(t(i.link, "label"))}</a></dd></div>` : ""}
         </dl>
         ${data.form && i.form_choice ? `<a class="cta" href="${esc(data.form.url + "&" + data.form.question + "=" + encodeURIComponent('"' + i.form_choice + '"'))}" target="_blank" rel="noopener">${esc(ui.contact)} →</a>` : ""}
-        <a class="back" href="#iniciativas">↑ ${esc(ui.back)}</a>
-      </article>`).join("")}`;
-    document.getElementById("foot").innerHTML = `<img src="assets/fpr-logo.svg" alt="Foundation for Puerto Rico"><p>${esc(ui.footer)} · <a href="https://foundationforpuertorico.org/${lang}/">foundationforpuertorico.org</a></p>`;
+        ${solo ? `<a class="back" href="#otras" data-scroll>↓ ${esc(ui.back)}</a>` : `<a class="back" href="#iniciativas">↑ ${esc(ui.back)}</a>`}
+      </article>`;
   }
 
+  // Single view opens at the top; the full page scrolls to #iniciativas or an older anchor.
   function goToHash() {
-    if (!location.hash) return;
+    if (focusId() || !location.hash) return scrollTo(0, 0);
     const el = document.getElementById(decodeURIComponent(location.hash.slice(1)));
     if (el) requestAnimationFrame(() => el.scrollIntoView({ block: "start" }));
   }
+
+  // Cards and "#inicio" links change the hash: switch view without reloading.
+  addEventListener("hashchange", () => { if (data) { render(); goToHash(); } });
+
+  // "View other initiatives" in the single view scrolls down without touching the hash,
+  // so a reload or shared link still opens the same initiative.
+  document.addEventListener("click", e => {
+    const a = e.target.closest("a[data-scroll]");
+    if (!a) return;
+    e.preventDefault();
+    document.querySelector(a.getAttribute("href"))?.scrollIntoView({ block: "start" });
+  });
 
   document.querySelectorAll(".lang button").forEach(b => b.addEventListener("click", () => {
     lang = b.dataset.lang;
