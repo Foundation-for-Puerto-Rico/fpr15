@@ -633,15 +633,17 @@
       "group_en": "Strategic vision",
       "name_es": "Visión Estratégica de la Región Este (ERSV)",
       "name_en": "Eastern Region Strategic Vision (ERSV)",
-      "tagline_es": "Una hoja de ruta compartida para el desarrollo sostenible de los 15 municipios del Este.",
-      "tagline_en": "A shared roadmap for the sustainable development of the 15 Eastern municipalities.",
+      "tagline_es": "Un camino colaborativo hacia el crecimiento sostenible: 15 municipios, una visión compartida y cuatro pilares interdependientes.",
+      "tagline_en": "A collaborative path to sustainable growth: 15 municipalities, one shared vision and four interdependent pillars.",
       "body_es": [
-        "La Visión Estratégica de la Región Este es la hoja de ruta de FPR para un futuro de sostenibilidad, resiliencia y prosperidad compartida.",
-        "Se apoya en cuatro pilares: transporte y movilidad, atracciones, capital humano y gobernanza. Propone un turismo centrado en las comunidades, que distribuya a los visitantes por la región y deje allí los beneficios."
+        "Canóvanas · Ceiba · Culebra · Fajardo · Humacao · Juncos · Las Piedras · Loíza · Luquillo · Maunabo · Naguabo · Río Grande · San Lorenzo · Vieques · Yabucoa",
+        "¿Cómo maximizamos las oportunidades de desarrollo económico del Este de Puerto Rico, para que más visitantes lleguen de forma sostenible y su gasto se quede en la región? La región cuenta con un atractivo ancla de alcance internacional: El Yunque, el único bosque tropical del Sistema Nacional de Bosques de EE. UU., rodeado de playas, espacios culturales y comunidades llenas de historia.",
+        "Para que esa riqueza se multiplique en oportunidades para todos, la Visión Estratégica impulsa transportación colectiva que conecte a los pueblos, el desarrollo de capital humano para los empleos que vienen y una gobernanza compartida entre los 15 municipios, el gobierno, las empresas y las comunidades. Así, más visitantes llegan con facilidad, se quedan más tiempo y el beneficio llega a cada comunidad."
       ],
       "body_en": [
-        "The Eastern Region Strategic Vision is FPR's roadmap for a future of sustainability, resilience and shared prosperity.",
-        "It rests on four pillars: transportation and mobility, attractions, human capital and governance. It proposes community-centered tourism that spreads visitors across the region and keeps the benefits there."
+        "Canóvanas · Ceiba · Culebra · Fajardo · Humacao · Juncos · Las Piedras · Loíza · Luquillo · Maunabo · Naguabo · Río Grande · San Lorenzo · Vieques · Yabucoa",
+        "How do we make the most of economic development opportunities in eastern Puerto Rico, so more visitors arrive sustainably and their spending stays in the region? The region has an anchor attraction of international reach: El Yunque, the only tropical rainforest in the U.S. National Forest System, surrounded by beaches, cultural spaces and communities rich in history.",
+        "To turn that wealth into opportunities for everyone, the Strategic Vision promotes shared transportation that connects towns, human capital development for the jobs ahead and shared governance among the 15 municipalities, government, businesses and communities. That way, more visitors arrive easily, stay longer and the benefits reach every community."
       ],
       "image": {
         "src": "assets/img/ersv.jpg",
@@ -652,28 +654,22 @@
       },
       "stats": [
         {
-          "value": "15",
-          "label_es": "municipios de la Región Este",
-          "label_en": "Eastern Region municipalities",
+          "value": "$2.3B",
+          "label_es": "al año en gasto de visitantes para 2030, frente a $1.2B en 2024",
+          "label_en": "a year in visitor spending by 2030, compared with $1.2B in 2024",
           "source": "FPR, ERSV"
         },
         {
           "value": "12,000+",
-          "label_es": "empleos nuevos proyectados para 2030 si se duplica la visitación",
-          "label_en": "new jobs projected by 2030 if visitation doubles",
+          "label_es": "nuevos empleos posibles, sumados a los ~15,000 de hoy",
+          "label_en": "possible new jobs, on top of today's ~15,000",
           "source": "FPR, ERSV"
         },
         {
-          "value": "$1.3B+",
-          "label_es": "en gasto directo proyectado para 2030 si se duplica la visitación",
-          "label_en": "in direct spending projected by 2030 if visitation doubles",
+          "value": "~$2.8B",
+          "label_es": "aportó la economía del visitante del Este al PIB de Puerto Rico en 2024",
+          "label_en": "contributed by the East's visitor economy to Puerto Rico's GDP in 2024",
           "source": "FPR, ERSV"
-        },
-        {
-          "value": "~15,000",
-          "label_es": "empleos sostenidos por la economía del visitante en la región",
-          "label_en": "jobs supported by the visitor economy in the region",
-          "source": "FPR, ERSV Overview"
         }
       ],
       "presenters": "Equipo de FPR",
@@ -685,11 +681,10 @@
       },
       "challenge_es": "La Región Este perdió actividad económica durante dos décadas por el cierre de Roosevelt Roads, los huracanes Irma y María y la pandemia. Hoy la mayoría de sus visitantes viene por el día y gasta poco, el transporte depende del carro privado, y 15 municipios con gobiernos separados tienen dificultad para sostener planes más allá de un ciclo electoral.",
       "approach_es": [
-        "Transporte y movilidad: propone una red multimodal con una plataforma que integre operadores, microtransporte que modernice los carros públicos y centros de movilidad en cascos urbanos.",
-        "Atracciones: organiza los sitios en clústers geográficos y temáticos con itinerarios curados, y propone sistemas de monitoreo, estándares de calidad y modelos de manejo y financiamiento compartidos.",
-        "Capital humano: plantea un Talent Commons regional, becas para profesionales jóvenes, academias sectoriales y centros de innovación y cotrabajo en los centros urbanos.",
-        "Gobernanza: propone un Consejo Regional de Desarrollo Económico, un fondo regional, servicios compartidos para municipios y pequeños negocios, y datos abiertos para la toma de decisiones.",
-        "Une los cuatro pilares para que el turismo reparta a los visitantes por toda la región y deje los beneficios en las comunidades."
+        "**Transportación y movilidad:** una red multimodal integrada que conecta tierra, mar y aire, en lugar de depender del carro.",
+        "**Atracciones:** clústeres turísticos e itinerarios que distribuyen a los visitantes y retienen su gasto en la región.",
+        "**Capital humano:** rutas de aprendizaje continuo para empleos emergentes, jóvenes, adultos mayores y trabajo remoto.",
+        "**Gobernanza regional:** convocatoria multisectorial para un compromiso compartido y la continuidad de los esfuerzos."
       ],
       "progress_es": [
         "Septiembre de 2025: en Fajardo, el evento \"El Este y Su Marca Pendiente\" presenta el estudio de economía del visitante y abre el diálogo sobre una identidad de marca para la región.",
@@ -698,16 +693,14 @@
         "El capítulo de Gobernanza también está disponible en versión previa a la publicación."
       ],
       "next_es": [
-        "Publicar los capítulos de Atracciones y Capital Humano, que están en revisión final.",
-        "Publicar el informe completo cuando terminen todos los capítulos."
+        "De la planificación a la implementación: Foundation for Puerto Rico convoca a municipios, agencias, empresas, comunidades y academia alrededor de la Visión, un marco que también puede adaptarse a otras regiones del archipiélago."
       ],
       "challenge_en": "The Eastern Region lost economic activity over two decades because of the closure of Roosevelt Roads, hurricanes Irma and María and the pandemic. Today most visitors come for the day and spend little, transportation depends on private cars, and 15 separate municipal governments struggle to sustain plans beyond an electoral cycle.",
       "approach_en": [
-        "Transportation and mobility: proposes a multimodal network with a platform that integrates operators, microtransit that modernizes carros públicos, and mobility hubs in town centers.",
-        "Attractions: organizes sites into geographic and thematic clusters with curated itineraries, and proposes monitoring systems, quality standards and shared management and financing models.",
-        "Human capital: outlines a regional Talent Commons, fellowships for early-career professionals, sector academies, and innovation and co-working centers in town centers.",
-        "Governance: proposes a Regional Economic Development Council, a regional fund, shared services for municipalities and small businesses, and open data for decision-making.",
-        "Ties the four pillars together so tourism spreads visitors across the region and keeps the benefits in communities."
+        "**Transportation and mobility:** an integrated multimodal network connecting land, sea and air, instead of depending on the car.",
+        "**Attractions:** tourism clusters and itineraries that spread visitors out and keep their spending in the region.",
+        "**Human capital:** lifelong learning paths for emerging jobs, young people, older adults and remote work.",
+        "**Regional governance:** a multisector convening for shared commitment and continuity of effort."
       ],
       "progress_en": [
         "September 2025: in Fajardo, the event \"El Este y Su Marca Pendiente\" presents the visitor economy study and opens dialogue on a brand identity for the region.",
@@ -716,8 +709,7 @@
         "The Governance chapter is also available in pre-publication form."
       ],
       "next_en": [
-        "Publish the Attractions and Human Capital chapters, which are in final review.",
-        "Publish the full report once all chapters are complete."
+        "From planning to implementation: Foundation for Puerto Rico convenes municipalities, agencies, businesses, communities and academia around the Vision, a framework that can also be adapted to other regions of the archipelago."
       ],
       "chart": {
         "title_es": "Gasto diario promedio por tipo de visitante en la Región Este",
@@ -740,7 +732,28 @@
         ],
         "source": "FPR, ERSV Overview (Visitor Economy Performance Model)"
       },
-      "form_choice": "ERSV"
+      "form_choice": "ERSV",
+      "extra": [
+        {
+          "title_es": "El futuro del Este se construye entre todos",
+          "title_en": "The East's future is built together",
+          "items_es": [
+            "**Gobierno y municipios:** alineen sus planes y proyectos con la Visión y participen en la gobernanza regional.",
+            "**Empresas y gremios:** inviertan en las oportunidades de movilidad, turismo y talento que impulsa la Visión.",
+            "**Academia:** aporten investigación, datos y talento para pasar de la planificación a la acción.",
+            "**Donantes y fundaciones:** apoyen la implementación de los proyectos que nacen de la Visión."
+          ],
+          "items_en": [
+            "**Government and municipalities:** align your plans and projects with the Vision and take part in regional governance.",
+            "**Businesses and industry groups:** invest in the mobility, tourism and talent opportunities the Vision advances.",
+            "**Academia:** contribute research, data and talent to move from planning to action.",
+            "**Donors and foundations:** support carrying out the projects that grow out of the Vision."
+          ],
+          "wide": true
+        }
+      ],
+      "note_es": "Con acción coordinada, la economía del visitante en el Este puede casi duplicarse para 2030.",
+      "note_en": "With coordinated action, the East's visitor economy can nearly double by 2030."
     },
     {
       "id": "maas",
@@ -1237,15 +1250,15 @@
       "group_en": "Human capital",
       "name_es": "Voluntariado + Impacta PR",
       "name_en": "Volunteering + Impacta PR",
-      "tagline_es": "Estudiantes y voluntarios que convierten su propósito en acción por Puerto Rico.",
-      "tagline_en": "Students and volunteers turning purpose into action for Puerto Rico.",
+      "tagline_es": "Estudiantes que convierten su propósito en acción.",
+      "tagline_en": "Students who turn their purpose into action.",
       "body_es": [
-        "FPR ha movilizado voluntarios desde sus primeros años. Hoy impulsa Impacta PR, una organización estudiantil piloto en la Universidad de Puerto Rico, Recinto de Río Piedras.",
-        "Impacta PR conecta a estudiantes con oportunidades de voluntariado, servicio comunitario y liderazgo, con una ruta que va de voluntario a líder de iniciativa. Su meta es crecer a otros recintos y universidades."
+        "Impacta PR es una asociación estudiantil de voluntariado profesional, con Foundation for Puerto Rico como aliado: universitarios que ponen su conocimiento y su profesión al servicio de Puerto Rico, y aprenden a transformar haciendo.",
+        "FPR ha movilizado voluntarios desde sus primeros años. En 2026, Impacta PR forma su directiva fundadora en la Universidad de Puerto Rico, Recinto de Río Piedras."
       ],
       "body_en": [
-        "FPR has mobilized volunteers since its early years. Today it supports Impacta PR, a pilot student organization at the University of Puerto Rico, Río Piedras.",
-        "Impacta PR connects students with volunteering, community service and leadership opportunities, along a path from volunteer to initiative leader. It aims to grow to other campuses and universities."
+        "Impacta PR is a professional volunteering student association, with Foundation for Puerto Rico as a partner: university students who put their knowledge and profession at the service of Puerto Rico, and learn to create change by doing.",
+        "FPR has mobilized volunteers since its early years. In 2026, Impacta PR is forming its founding board at the University of Puerto Rico, Río Piedras Campus."
       ],
       "image": {
         "src": "assets/img/voluntariado.png",
@@ -1259,7 +1272,7 @@
         "label_es": "impactapr@foundationpr.org",
         "label_en": "impactapr@foundationpr.org"
       },
-      "challenge_es": "Muchos estudiantes quieren servir a Puerto Rico, pero no siempre encuentran un camino claro desde un primer día de voluntariado hasta liderar un proyecto. Las comunidades y las organizaciones sin fines de lucro, por su parte, necesitan talento universitario para responder a necesidades reales.",
+      "challenge_es": "Muchos universitarios quieren aportar a su país, pero no siempre encuentran cómo hacerlo desde lo que estudian. Impacta PR conecta ese talento con necesidades reales de comunidades, organizaciones y gobierno, y con los temas que mueven el desarrollo económico de Puerto Rico. El resultado: agentes de cambio formados desde la universidad.",
       "approach_es": [
         "Impacta PR ofrece tres niveles de participación: voluntario, habilidades para el impacto y liderar una iniciativa. Cada estudiante escoge según su tiempo y su interés.",
         "Conecta a estudiantes con proyectos de voluntariado, servicio comunitario y liderazgo, junto a organizaciones sin fines de lucro, comunidades, empresas y gobierno.",
@@ -1268,6 +1281,9 @@
         "FPR mantiene un programa de voluntariado y canaliza sus iniciativas activas hacia las oportunidades que se ofrecen a los miembros."
       ],
       "progress_es": [
+        "**Primera en su clase:** la primera asociación estudiantil de voluntariado profesional en la UPR Río Piedras, abierta a estudiantes de todas las disciplinas.",
+        "**Liderada por estudiantes:** los propios universitarios dirigen la asociación, definen sus prioridades y organizan sus propias iniciativas.",
+        "**Una alianza que la respalda:** Foundation for Puerto Rico y la Universidad de Puerto Rico, Recinto de Río Piedras, trabajan juntas para impulsarla.",
         "2026: FPR y la Facultad de Administración de Empresas de la UPR de Río Piedras diseñaron una colaboración que incluye crear un capítulo estudiantil de voluntariado.",
         "17 de agosto de 2026: la UPR de Río Piedras abrió la convocatoria para reconocer nuevas organizaciones estudiantiles, hasta el 31 de octubre.",
         "14 de octubre de 2026: Impacta PR se presentó en el recinto.",
@@ -1275,9 +1291,9 @@
       ],
       "next_es": [
         "Obtener el reconocimiento de la Universidad y celebrar las primeras actividades del semestre.",
-        "Crecer, con el tiempo, a otros recintos de la UPR y a otras universidades."
+        "El horizonte: llevar Impacta PR a otros recintos de la UPR y a universidades de todo Puerto Rico, para que cada vez más estudiantes, de todas las disciplinas, encuentren en su universidad un espacio para convertir su conocimiento en voluntariado profesional con impacto en sus comunidades."
       ],
-      "challenge_en": "Many students want to serve Puerto Rico but do not always find a clear path from a first volunteer day to leading a project. Communities and nonprofits, for their part, need university talent to respond to real needs.",
+      "challenge_en": "Many university students want to contribute to their country but don't always find a way to do it through what they study. Impacta PR connects that talent with real needs of communities, organizations and government, and with the issues that drive Puerto Rico's economic development. The result: changemakers formed at the university.",
       "approach_en": [
         "Impacta PR offers three levels of participation: volunteer, skills for impact and leading an initiative. Each student chooses based on time and interest.",
         "Connects students with volunteering, community service and leadership projects, together with nonprofits, communities, businesses and government.",
@@ -1286,6 +1302,9 @@
         "FPR runs a volunteer program and channels its active initiatives into the opportunities offered to members."
       ],
       "progress_en": [
+        "**First of its kind:** the first professional volunteering student association at UPR Río Piedras, open to students from every discipline.",
+        "**Student-led:** students themselves run the association, set its priorities and organize their own initiatives.",
+        "**A partnership behind it:** Foundation for Puerto Rico and the University of Puerto Rico, Río Piedras Campus, work together to advance it.",
         "2026: FPR and the School of Business Administration at UPR Río Piedras designed a collaboration that includes creating a student volunteer chapter.",
         "August 17, 2026: UPR Río Piedras opened its call to recognize new student organizations, through October 31.",
         "October 14, 2026: Impacta PR was presented on campus.",
@@ -1293,13 +1312,44 @@
       ],
       "next_en": [
         "Obtain the University's recognition and hold the first activities of the semester.",
-        "Grow over time to other UPR campuses and other universities."
+        "The horizon: bring Impacta PR to other UPR campuses and universities across Puerto Rico, so more and more students, from every discipline, find at their university a space to turn their knowledge into professional volunteering with impact in their communities."
       ],
       "partners": [
         "Universidad de Puerto Rico, Recinto de Río Piedras",
         "Facultad de Administración de Empresas, UPR Río Piedras"
       ],
-      "form_choice": "Voluntariado + Impacta PR · Volunteering + Impacta PR"
+      "form_choice": "Voluntariado + Impacta PR · Volunteering + Impacta PR",
+      "extra": [
+        {
+          "title_es": "Misión",
+          "title_en": "Mission",
+          "text_es": "Movilizar el talento universitario para generar un impacto positivo en Puerto Rico a través del voluntariado, la colaboración y proyectos que respondan a necesidades reales de la comunidad.",
+          "text_en": "Mobilize university talent to create positive impact in Puerto Rico through volunteering, collaboration and projects that respond to real community needs."
+        },
+        {
+          "title_es": "Visión",
+          "title_en": "Vision",
+          "text_es": "Una generación de estudiantes comprometidos con Puerto Rico, capaces de convertir el conocimiento, las ideas y el servicio en acciones con impacto.",
+          "text_en": "A generation of students committed to Puerto Rico, able to turn knowledge, ideas and service into actions with impact."
+        },
+        {
+          "title_es": "Formando los próximos líderes de Puerto Rico",
+          "title_en": "Developing Puerto Rico's next leaders",
+          "items_es": [
+            "**Gobierno y comunidades:** compartan retos reales en los que los estudiantes puedan aportar como voluntarios profesionales.",
+            "**Academia:** exploren cómo llevar Impacta PR a su universidad y participen como recurso en talleres.",
+            "**Empresas y gremios:** ofrezcan charlas, mentoría o visitas, o patrocinen actividades de la asociación.",
+            "**Donantes y colaboradores:** auspicien la expansión de Impacta PR a más universidades del país."
+          ],
+          "items_en": [
+            "**Government and communities:** share real challenges where students can contribute as professional volunteers.",
+            "**Academia:** explore how to bring Impacta PR to your university and take part as a resource in workshops.",
+            "**Businesses and industry groups:** offer talks, mentoring or visits, or sponsor the association's activities.",
+            "**Donors and collaborators:** sponsor Impacta PR's expansion to more universities across the country."
+          ],
+          "wide": true
+        }
+      ]
     },
     {
       "id": "fellows",
@@ -1307,15 +1357,15 @@
       "group_en": "Human capital",
       "name_es": "Foundation Fellows Program",
       "name_en": "Foundation Fellows Program",
-      "tagline_es": "Profesionales emergentes que aprenden trabajando en iniciativas reales para transformar la economía de Puerto Rico.",
-      "tagline_en": "Emerging professionals learning by working on real initiatives that transform Puerto Rico's economy.",
+      "tagline_es": "Puerto Rico necesita talento que se quede y se transforme. El Foundation Fellows Program lo forma desde la práctica.",
+      "tagline_en": "Puerto Rico needs talent that stays and grows. The Foundation Fellows Program develops it through practice.",
       "body_es": [
-        "El Foundation Fellows Program es una experiencia práctica para profesionales emergentes que quieren liderar con ideas, iniciativa y responsabilidad.",
-        "Los fellows pasan por varios proyectos de FPR, aprenden en laboratorios colaborativos y reciben mentoría de muchas personas. Todas las trayectorias académicas y profesionales son bienvenidas."
+        "Estudiantes universitarios y profesionales emergentes de todas las disciplinas se integran a las iniciativas de Foundation for Puerto Rico. No vienen a cumplir tareas de apoyo: con la guía de mentores, asumen responsabilidades de alto impacto, investigan, proponen soluciones y crecen hasta liderar iniciativas.",
+        "El resultado: una nueva generación de agentes de cambio con experiencia en los grandes retos del país."
       ],
       "body_en": [
-        "The Foundation Fellows Program is a hands-on experience for emerging professionals ready to lead through ideas, initiative and responsibility.",
-        "Fellows move across several FPR projects, learn in collaborative labs and receive mentorship from many people. All academic and professional backgrounds are welcome."
+        "University students and emerging professionals from every discipline join Foundation for Puerto Rico's initiatives. They don't come to do support tasks: guided by mentors, they take on high-impact responsibilities, research, propose solutions and grow into leading initiatives.",
+        "The result: a new generation of changemakers with experience in the country's biggest challenges."
       ],
       "presenters": "Equipo de Capital Humano",
       "link": {
@@ -1323,41 +1373,69 @@
         "label_es": "fellows@foundationpr.org",
         "label_en": "fellows@foundationpr.org"
       },
-      "challenge_es": "Puerto Rico necesita profesionales jóvenes que sepan trabajar entre disciplinas y asumir responsabilidad en problemas reales. El desarrollo económico no es solo economía: exige pensar en sistemas y colaborar entre sectores. Muchos programas ofrecen puestos fijos; este ofrece práctica real desde el primer día.",
-      "approach_es": [
-        "Los fellows trabajan en Proyectos de Inmersión: iniciativas reales de FPR que llevan ideas a la acción para el desarrollo de Puerto Rico.",
-        "Rotan entre proyectos y áreas según las necesidades de la organización, su iniciativa y su experiencia, en vez de ocupar un puesto fijo.",
-        "Participan en Laboratorios de Aprendizaje, espacios colaborativos donde la teoría se une a la práctica y se fortalecen el liderazgo, la resiliencia y la solución de problemas.",
-        "Reciben mentoría de varias personas con experiencia, y también aportan sus propias ideas a quienes los guían.",
-        "Aceptan todas las trayectorias académicas y profesionales; las estadías pueden ser de temporada, de semestre o de un año."
-      ],
+      "challenge_es": "Muchos jóvenes terminan sus estudios sin experiencia práctica ni un camino claro para desarrollar su carrera en la Isla, y Puerto Rico pierde ese talento. El programa responde con experiencia real, mentoría y una red profesional, para que el talento crezca aquí y se quede a aportar al desarrollo económico del país.",
       "progress_es": [
+        "**Talento en acción:** fellows de distintas disciplinas aportan y lideran hoy iniciativas de FPR en desarrollo económico regional, economía del visitante, resiliencia comunitaria e innovación. Son parte integral de los equipos: conectan investigación, comunidades y aliados para mover cada iniciativa de la idea a la acción.",
+        "**Ideas que trascienden:** el trabajo de los fellows no termina con su experiencia. Sus investigaciones y propuestas tienen continuidad: se integran a las iniciativas y siguen creciendo con nuevos equipos y aliados.",
+        "**Formación con respaldo:** cada fellow trabaja en una red multidisciplinaria, como en el mundo profesional, junto a uno o varios mentores, líderes del equipo y expertos. Además, participa en los Learning Labs, talleres prácticos con casos reales.",
         "La primera cohorte anual comenzó en enero de 2026.",
         "Una cohorte de verano se sumó en junio de 2026.",
         "En marzo de 2026 se ofrecieron los primeros Laboratorios de Aprendizaje, sobre mentoría y presencia profesional en medios.",
         "Los fellows presentan sus iniciativas en el recorrido por el Colaboratorio durante el 15.º aniversario, el 9 de diciembre de 2026."
       ],
       "next_es": [
-        "Continuar las cohortes y ampliar los Laboratorios de Aprendizaje."
+        "La visión: que cada joven con ganas de aportar encuentre en Puerto Rico la oportunidad de construir su futuro. Una plataforma permanente que crece con cada cohorte y con nuevas alianzas con la academia, incluidas escuelas superiores, y con organizaciones comprometidas con el talento joven."
       ],
-      "challenge_en": "Puerto Rico needs young professionals who can work across disciplines and take responsibility for real problems. Economic development is not only economics: it calls for systems thinking and collaboration across sectors. Many programs offer fixed roles; this one offers real practice from day one.",
-      "approach_en": [
-        "Fellows work on Immersion Projects: real FPR initiatives that turn ideas into action for Puerto Rico's development.",
-        "They rotate across projects and areas based on the organization's needs, their own initiative and their growing expertise, instead of holding a fixed role.",
-        "They join Learning Labs, collaborative spaces where theory meets practice and leadership, resilience and problem-solving grow through shared work.",
-        "They receive mentorship from several experienced people, and they also contribute ideas back to those who guide them.",
-        "All academic and professional backgrounds are accepted; stays can be seasonal, semester-long or year-long."
-      ],
+      "challenge_en": "Many young people finish their studies without hands-on experience or a clear path to build a career on the Island, and Puerto Rico loses that talent. The program responds with real experience, mentorship and a professional network, so talent grows here and stays to contribute to the country's economic development.",
       "progress_en": [
+        "**Talent in action:** fellows from different disciplines contribute to and lead FPR initiatives today in regional economic development, the visitor economy, community resilience and innovation. They are an integral part of the teams, connecting research, communities and partners to move each initiative from idea to action.",
+        "**Ideas that last:** fellows' work doesn't end with their experience. Their research and proposals carry on: they are built into the initiatives and keep growing with new teams and partners.",
+        "**Supported learning:** each fellow works in a multidisciplinary network, as in the professional world, alongside one or more mentors, team leaders and experts. They also take part in Learning Labs, hands-on workshops with real cases.",
         "The first year-long cohort began in January 2026.",
         "A summer cohort joined in June 2026.",
         "In March 2026 the first Learning Labs were held, on mentorship and professional media presence.",
         "Fellows present their initiatives on the Colaboratorio route during the 15th anniversary event on December 9, 2026."
       ],
       "next_en": [
-        "Continue the cohorts and expand the Learning Labs."
+        "The vision: every young person who wants to contribute finds in Puerto Rico the opportunity to build their future. A permanent platform that grows with each cohort and with new partnerships with academia, including high schools, and with organizations committed to young talent."
       ],
-      "form_choice": "Foundation Fellows Program"
+      "form_choice": "Foundation Fellows Program",
+      "steps": {
+        "title_es": "Modalidades",
+        "title_en": "Program options",
+        "unordered": true,
+        "items_es": [
+          "Summer Fellows · 2 a 3 meses",
+          "Semester Fellows · 4 a 8 meses",
+          "Year-Long Fellows · 12 meses"
+        ],
+        "items_en": [
+          "Summer Fellows · 2 to 3 months",
+          "Semester Fellows · 4 to 8 months",
+          "Year-Long Fellows · 12 months"
+        ]
+      },
+      "extra": [
+        {
+          "title_es": "Formar a la próxima generación es tarea de todos",
+          "title_en": "Developing the next generation is everyone's job",
+          "items_es": [
+            "**Gobierno y municipios:** propongan retos reales de gestión o política pública para que los trabaje un equipo de fellows.",
+            "**Academia:** reconozcan la experiencia como internado, práctica o capstone, y refieran a su talento.",
+            "**Empresas y gremios:** aporten mentores y expertos a los Learning Labs, o patrocinen la plaza de un fellow.",
+            "**Donantes:** auspicien a un fellow y apoyen la expansión del programa a más jóvenes."
+          ],
+          "items_en": [
+            "**Government and municipalities:** propose real management or public policy challenges for a team of fellows to work on.",
+            "**Academia:** recognize the experience as an internship, practicum or capstone, and refer your talent.",
+            "**Businesses and industry groups:** contribute mentors and experts to the Learning Labs, or sponsor a fellow's position.",
+            "**Donors:** sponsor a fellow and support expanding the program to more young people."
+          ],
+          "note_es": "El programa está abierto a estudiantes universitarios de cualquier nivel y a profesionales emergentes.",
+          "note_en": "The program is open to university students at any level and to emerging professionals.",
+          "wide": true
+        }
+      ]
     },
     {
       "id": "pdfa",
